@@ -12,7 +12,7 @@ address: Sabotsy Namehana, Antananarivo, Madagascar
 copyright: Copyright &copy; 2024
 
 menu:
-  - { name: About, link: "/about" }
+  - { name: A propos, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
@@ -36,22 +36,21 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Miaro Fandresena <br> SEO Specialist
+  hero-title: Hi! Je suis <br> Miaro Fandresena <br> Specialiste SEO
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://web.facebook.com/miarofandresena.rafanomezaniavo/" }
+  - { icon: "ti-github", link: "https://github.com/miarofandresena/" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/miaro-fandresena-rafanomezaniavo-574208161/" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO), où j'excelle dans la gestion de sites, de réseaux de sites, et de sites d'affiliation.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: Apprendre plus sur moi
 
 # About Page
 
@@ -88,10 +87,10 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: SEO, color: "#fdb157", value: "90%" }
+  - { name: WordPress, color: "#9473e6", value: "80%" }
+  - { name: Marketing Digital, color: "#bdecf6", value: "50%" }
+  - { name: Gestion de Projet Web, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,71 +98,70 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: "SEO & Intégrateur web",
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Février 2024 - Maintenant",
+      organization: "A mon compte",
     }
   - {
-      name: UX & UI Designer,
+      name: "SEO & Intégrateur web",
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Septembre 2020 - Février 2024",
+      organization: "X-Com Agency",
     }
   - {
-      name: Senior UI Designer,
+      name: "Développeur Web",
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Décembre 2019 - Janvier 2020",
+      organization: "Cubicom",
     }
-
+  - {
+      name: "Développeur Web",
+      icon: "icon-1.png",
+      date: "Janvier 2019 - Juillet 2020",
+      organization: "Wiclick",
+    }
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Licence en Informatique,
+      date: "2019",
+      organization: "UPH",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: "Diplôme de Technicien Supérieur",
+      date: "2016",
+      organization: "ISIME",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: "Baccalauréat Série A2",
+      date: "2015",
+      organization: "LP Idéal",
     }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
-
 #-------------------------------
 # Services Section
 
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: "Optimisation SEO Avancée",
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Maximisez la visibilité de votre site web grâce à des stratégies de référencement naturel personnalisées, conçues pour améliorer votre classement sur les moteurs de recherche et attirer un trafic qualifié.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: "Gestion de Marketing Digital",
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Boostez votre présence en ligne avec des campagnes de marketing digital efficaces, incluant le marketing d'affiliation et d'influence, pour augmenter vos ventes et fidéliser vos clients.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Développement et Maintenance de Sites Web,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Créez et maintenez des sites web performants et sécurisés grâce à nos services de développement web sur mesure, en utilisant les dernières technologies pour garantir une expérience utilisateur optimale.",
       active: ,# Add true to select section
     }
 
@@ -300,4 +298,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: miarofandresena@gmail.com

@@ -1,18 +1,17 @@
 ---
 layout: about
-title: About Me
+title: A propos de Miaro
 author: Miaro Fandresena Rafanomezaniavo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO), où j'excelle dans la gestion de sites, de réseaux de sites, et de sites d'affiliation.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Mon expertise en marketing digital englobe le marketing d'affiliation et le marketing d'influence, domaines dans lesquels j'ai acquis une expérience significative en travaillant sur des sites de vente.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Fort d'une solide formation en développement d'applications web, j'utilise mes compétences techniques pour optimiser les performances SEO et améliorer la visibilité en ligne de divers projets.
+
+Actuellement, je m'intéresse particulièrement aux stratégies de marketing digital innovantes, cherchant constamment à élargir mes connaissances et à rester à la pointe des tendances du secteur.
+
+Mon parcours professionnel, combinant développement web et SEO, me permet d'apporter une approche technique et stratégique à chaque projet, garantissant des résultats tangibles et mesurables.
