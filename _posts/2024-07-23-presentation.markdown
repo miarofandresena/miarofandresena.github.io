@@ -4,7 +4,7 @@ title:  Presentation
 date:   2024-07-23 15:05:55 +0300
 image:  /assets/images/blog/post-5.jpg
 author: Miaro
-tags:   UX design
+tags:   Web
 ---
 
 ### Qui suis-je ? Une Passion pour le Web et le Référencement Naturel

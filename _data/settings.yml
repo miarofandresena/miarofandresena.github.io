@@ -187,59 +187,59 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Référencement Naturel", type: "referencement" }
+  - { title: "Marketing Digital", type: "maketing" }
+  - { title: "Gestion de site web", type: "web" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "referencement"
+      - type: "web"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "marketing"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "referencement"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "marketing"
+      - type: "web"
 
   - image: "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "referencement"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "web"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "marketing
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "marketing"
+      - type: "web"
+      - type: "referencement"
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "web"
 
 #-------------------------------
 # Testimonials Section
