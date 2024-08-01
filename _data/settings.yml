@@ -227,7 +227,7 @@ portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "marketing
+      - type: "marketing"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
