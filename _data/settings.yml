@@ -259,6 +259,47 @@ portfolio-items:
 #     image: "assets/images/testimonial/client-1.png"
 #     designation: "CEO, Funder"
 #     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+faq-items:
+  - id: 1
+    icon: fa-question-circle
+    question: Quels services proposez-vous ?
+    answer: Je suis spécialisé en SEO, assistanat virtuel, gestion de projets numériques, et développement web. Je vous aide à optimiser votre présence en ligne, à améliorer votre visibilité sur Google, et à assurer un suivi client fluide. Mon expertise couvre également la création de contenu optimisé pour le SEO et la gestion de sites e-commerce.
+  - id: 2
+    icon: fa-truck
+    question: Comment pouvez-vous améliorer la visibilité de mon site sur Google ?
+    answer: Grâce à des stratégies SEO avancées, j'optimise votre site en fonction des meilleures pratiques de référencement naturel. Cela inclut l'optimisation des mots-clés, la création de backlinks de qualité, et l'amélioration du contenu pour répondre aux exigences des moteurs de recherche, augmentant ainsi votre classement sur Google.
+  - id: 3
+    icon: fa-lock
+    question: Qu'est-ce que l'assistanat virtuel et en quoi cela peut-il m'aider ?
+    answer: L'assistanat virtuel inclut la gestion administrative à distance, comme la gestion des emails, l'organisation d'agendas, et le suivi des tâches. Cela vous permet de vous concentrer sur des activités à plus forte valeur ajoutée pendant que je prends en charge les aspects administratifs, assurant une productivité accrue et une meilleure gestion de votre temps.
+  - id: 4
+    icon: fa-lock
+    question: Quelle est votre approche pour la création de sites web ?
+    answer: Je conçois des sites WordPress sur mesure, en développant des designs modernes et intuitifs qui améliorent l'expérience utilisateur. Mon objectif est de créer des sites performants et optimisés pour le SEO, tout en restant faciles à gérer pour les propriétaires de sites.
+  - id: 5
+    icon: fa-lock
+    question: Quels outils utilisez-vous pour gérer le SEO et les campagnes marketing ?
+    answer: J'utilise une combinaison d'outils performants tels que Google Analytics, Google Search Console, et Ubersuggest pour suivre les performances des sites et analyser les résultats des campagnes SEO. Je suis également familiarisé avec les plateformes publicitaires comme Google Ads et Facebook Ads pour maximiser la visibilité de vos campagnes marketing.
+  - id: 6
+    icon: fa-lock
+    question: Quelle est votre expérience dans la gestion d'une équipe ?
+    answer: Actuellement, je supervise une équipe de 5 personnes, chacune spécialisée dans des domaines comme la rédaction SEO, l'acquisition de backlinks, et la gestion des sites e-commerce. Mon rôle consiste à coordonner les efforts de l'équipe pour atteindre les objectifs fixés tout en respectant les délais.
+  - id: 7
+    icon: fa-lock
+    question: Quels types de projets avez-vous gérés ?
+    answer: J'ai géré divers projets, allant de la création et refonte de sites WordPress à la gestion de campagnes de marketing digital pour des entreprises. Mon expertise couvre la planification, la gestion des ressources, et l'assurance qualité tout au long du processus pour garantir des résultats optimaux.
+  - id: 8
+    icon: fa-lock
+    question: Quels sont vos tarifs pour les services SEO et assistanat virtuel ?
+    answer: Mes tarifs varient en fonction des besoins spécifiques de chaque projet. Je propose des forfaits personnalisés adaptés à vos objectifs et à votre budget. N'hésitez pas à me contacter pour discuter d'une solution sur mesure.
+  - id: 9
+    icon: fa-lock
+    question: Pourquoi devrais-je faire appel à vos services ?
+    answer: Avec plusieurs années d'expérience en SEO, développement web, et gestion de projets, je propose des solutions complètes pour améliorer votre présence en ligne et vous aider à atteindre vos objectifs. Mon approche est axée sur la collaboration, la transparence, et des résultats mesurables.
+  - id: 10
+    icon: fa-lock
+    question: Comment puis-je vous contacter ?
+    answer: Vous pouvez me contacter via le formulaire de contact sur ce site, ou directement par email ou téléphone. Je suis disponible en télétravail ou en présentiel, selon vos besoins.
 
 #-------------------------------
 # Client Slider Section
