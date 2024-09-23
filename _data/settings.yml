@@ -299,7 +299,7 @@ faq-items:
   - id: 10
     icon: fa-lock
     question: Comment puis-je vous contacter ?
-    answer: Vous pouvez me contacter via le formulaire de contact sur ce site, ou directement par email ou téléphone. Je suis disponible en télétravail ou en présentiel, selon vos besoins.
+    answer: Vous pouvez me contacter via le <a href="/contact">formulaire de contact</a> sur ce site, ou directement par email ou téléphone. Je suis disponible en télétravail ou en présentiel, selon vos besoins.
 
 #-------------------------------
 # Client Slider Section
