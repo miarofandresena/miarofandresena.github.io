@@ -278,3 +278,39 @@ textarea.form-control{
 .logo {
   width:50px;
 }
+.seo-section {
+  background-image: url("/assets/images/backgrounds/service-referencement-naturel.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.marketing-section {
+  background-image: url("/assets/images/backgrounds/service-marketing-digital.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.dev-section {
+  background-image: url("/assets/images/backgrounds/service-developpement-web.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.seo-section::before, .marketing-section::before, .dev-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+.title-banner {
+  position:relative;
+  color:#FFF!important;
+  z-index:2;
+}

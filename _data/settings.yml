@@ -150,19 +150,22 @@ services:
       name: "Optimisation SEO Avancée",
       icon: ti-palette,
       description: "Maximisez la visibilité de votre site web grâce à des stratégies de référencement naturel personnalisées, conçues pour améliorer votre classement sur les moteurs de recherche et attirer un trafic qualifié.",
-      active: ,# Add true to select section
+      link: /seo,
+      active: , # Add true to select section
     }
   - {
       name: "Gestion de Marketing Digital",
       icon: ti-vector,
       description: "Boostez votre présence en ligne avec des campagnes de marketing digital efficaces, incluant le marketing d'affiliation et d'influence, pour augmenter vos ventes et fidéliser vos clients.",
+      link: /marketing,
       active: true, # Add true to select section
     }
   - {
-      name: Développement et Maintenance de Sites Web,
+      name: Développement de Sites Web,
       icon: ti-panel,
       description: "Créez et maintenez des sites web performants et sécurisés grâce à nos services de développement web sur mesure, en utilisant les dernières technologies pour garantir une expérience utilisateur optimale.",
-      active: ,# Add true to select section
+      link: /web,
+      active: , # Add true to select section
     }
 
 #-------------------------------
