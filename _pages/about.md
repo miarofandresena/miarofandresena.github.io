@@ -1,6 +1,6 @@
 ---
 layout: about
-title: A propos de Miaro
+title: "À propos de Miaro : Passionné de Web"
 author: Miaro Fandresena Rafanomezaniavo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png

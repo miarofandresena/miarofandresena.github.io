@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Presentation
+title:  "Miaro - Spécialiste SEO et Marketing Digital : Boostez Votre Visibilité et Performances en Ligne"
 date:   2024-07-23 15:05:55 +0300
 image:  /assets/images/blog/post-5.jpg
 author: Miaro
 tags:   Web
+description: "Découvrez mon parcours en développement web et SEO : expertise, conseils, et solutions pour optimiser votre présence en ligne. Explorez mes services dès maintenant !"
 ---
 
 ### Qui suis-je ? Une Passion pour le Web et le Référencement Naturel
