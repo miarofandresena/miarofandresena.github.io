@@ -47,7 +47,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO). J'excelle dans la gestion de sites internet, de réseaux de sites et de sites e-commerce, en développant des stratégies de web-marketing adaptées aux besoins des entreprises.
+blurb: Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO). En tant que freelance, j'excelle dans la gestion de contenu et l’optimisation de sites internet, que ce soit pour des agences de communication digitale, des agences web ou des entreprises souhaitant améliorer leur visibilité en ligne. Grâce à mon expertise en web-design et en stratégie digitale, j’aide mes clients à optimiser leurs projets web et leur e-réputation.
 
 blurb-btn-link: "/about"
 blurb-btn-name: Apprendre plus sur moi
@@ -149,21 +149,21 @@ services:
   - {
       name: "Optimisation SEO Avancée",
       icon: ti-palette,
-      description: "Maximisez la visibilité de votre site internet grâce à des stratégies de référencement naturel personnalisées et adaptées à votre marché. Améliorez votre notoriété en ligne, attirez un flux constant de nouveaux clients et boostez votre retour sur investissement grâce à une optimisation SEO efficace 🚀",
+      description: "Maximisez la visibilité de votre site sur les moteurs de recherche grâce à des stratégies de référencement naturel personnalisées. Notre agence web vous aide à améliorer votre notoriété en ligne, optimiser votre référencement et renforcer votre e-réputation, afin d'attirer un trafic qualifié et d'assurer un retour sur investissement optimal. 🚀",
       link: /seo,
       active: , # Add true to select section
     }
   - {
       name: "Gestion de Marketing Digital",
       icon: ti-vector,
-      description: "Déployez une stratégie digitale efficace en combinant le référencement naturel (SEO), webmarketing et référencement payant (Google Ads, Facebook Ads). Améliorez la communication digitale de votre entreprise et développez votre image de marque sur le web.",
+      description: "Déployez une stratégie digitale performante en combinant SEO, webmarketing et référencement payant (Google Ads, Facebook Ads). Notre agence digitale vous accompagne dans l'optimisation de votre communication web et le développement de votre image de marque à travers le community management, l’emailing et l’e-marketing.",
       link: /marketing,
       active: true, # Add true to select section
     }
   - {
       name: "Développement de Sites Web",
       icon: ti-panel,
-      description: "Créez un site vitrine, e-commerce ou un site responsive performant et sécurisé. Nous développons des pages web optimisées pour le référencement et adaptées aux CMS comme WordPress et Prestashop, garantissant une expérience utilisateur optimale.",
+      description: "Créez un site internet vitrine, e-commerce ou responsive design, performant et sécurisé. Spécialisés en webdesign, nous développons des solutions web sur mesure adaptées aux CMS comme WordPress, Drupal et Prestashop. En tant qu'agence de création digitale, nous optimisons chaque projet web pour un référencement efficace et une expérience utilisateur optimale.",
       link: /web,
       active: , # Add true to select section
     }
@@ -267,39 +267,39 @@ faq-items:
   - id: 1
     icon: fa-question-circle
     question: Quels services proposez-vous ?
-    answer: J'offre des services en SEO, webmarketing, stratégie digitale, gestion de projets numériques et développement web. Mon expertise inclut également la création de sites internet, le référencement payant et l'amélioration de l'ergonomie des pages web.
+    answer: J'offre des services en SEO, webmarketing, stratégie digitale, gestion de contenu et développement web. Mon expertise inclut la création et la refonte de sites internet, le référencement d’un site sur les moteurs de recherche, l’identité visuelle et la communication web.
   - id: 2
     icon: fa-truck
     question: Comment pouvez-vous améliorer la visibilité de mon site sur Google ?
-    answer: J'applique une stratégie de référencement naturel et payant optimisée, incluant l'optimisation des mots-clés, l'amélioration de l'ergonomie, la création de backlinks et l'optimisation des campagnes Google AdWords.
+    answer: J'applique une stratégie de référencement naturel et payant optimisée, en utilisant des leviers comme l’optimisation des mots-clés, le webdesign, la gestion de l’e-réputation, la création de backlinks et la mise en place de campagnes Google AdWords.
   - id: 3
     icon: fa-lock
     question: En quoi consiste l'assistanat virtuel et comment peut-il m'aider ?
-    answer: L'assistanat virtuel inclut la gestion des tâches administratives, la gestion des campagnes mailing et l'organisation de stratégie de communication digitale, vous permettant de vous concentrer sur votre cœur de métier.
+    answer: L'assistanat virtuel inclut la gestion de projets web, la gestion des campagnes emailing et l’optimisation des stratégies d’e-marketing. Cela permet de renforcer la communication web et d’améliorer la présence digitale d’une entreprise.
   - id: 4
     icon: fa-lock
     question: Quelle est votre approche pour la création de sites web ?
-    answer: Je conçois des sites vitrine et e-commerce sur mesure, en utilisant des CMS comme WordPress et Prestashop. Chaque site est optimisé pour le SEO et conçu pour garantir une expérience utilisateur fluide et efficace.
+    answer: Je conçois des sites vitrines et e-commerce sur mesure, en utilisant des CMS comme WordPress et Drupal. Chaque projet intègre un responsive design, un webdesign soigné et une optimisation SEO avancée, garantissant une navigation fluide et une identité visuelle unique.
   - id: 5
     icon: fa-lock
     question: Quels outils utilisez-vous pour le SEO et le marketing digital ?
-    answer: J’utilise des outils comme Google Analytics, Google Search Console et des plateformes de publicité comme Google Ads pour une meilleure stratégie digitale et un retour sur investissement optimisé.
+    answer: J’utilise des outils comme Google Analytics, Google Search Console, des plateformes de publicité comme Google Ads et des solutions web pour maximiser la performance des campagnes digitales.
   - id: 6
     icon: fa-lock
     question: Avez-vous une expérience en gestion d'équipe ?
-    answer: Oui, je gère une équipe spécialisée en SEO, rédaction de contenu, gestion de campagnes Adwords et développement web, afin d’assurer une exécution fluide des projets.
+    answer: Oui, en tant que chef de projet, je coordonne une équipe spécialisée en SEO, rédaction de contenu, référencement payant, webdesign et développement web pour assurer le succès de chaque projet.
   - id: 7
     icon: fa-lock
     question: Quels types de projets avez-vous gérés ?
-    answer: J'ai travaillé sur des projets de création de site web, refonte de sites internet, mise en place de stratégies de communication et optimisation du référencement payant et naturel.
+    answer: J'ai travaillé sur des projets de création et refonte de sites internet, de stratégies de communication digitale, d’optimisation du référencement naturel et de campagnes e-mailing et e-marketing.
   - id: 8
     icon: fa-lock
     question: Quels sont vos tarifs pour les services SEO et marketing digital ?
-    answer: "Je propose des forfaits adaptés en fonction des besoins : création de site, SEO, stratégie digitale et publicité en ligne. Contactez-moi pour un devis personnalisé."
+    answer: "Je propose des forfaits adaptés à chaque besoin, que ce soit pour la création d’un site internet, le référencement d’un site, la gestion de campagnes publicitaires ou le community management. Contactez-moi pour un devis personnalisé."
   - id: 9
     icon: fa-lock
     question: Pourquoi devrais-je choisir vos services ?
-    answer: Mon approche repose sur une stratégie marketing complète, alliant référencement naturel, web-marketing et optimisation de l’expérience utilisateur, pour garantir une présence efficace sur le web.
+    answer: Mon approche repose sur une expertise approfondie du webmarketing et du SEO, alliée à une stratégie digitale globale. En tant qu'agence web digitale ou en freelance, je mets en place des solutions adaptées pour assurer une présence digitale efficace.
   - id: 10
     icon: fa-lock
     question: Comment puis-je vous contacter ?
