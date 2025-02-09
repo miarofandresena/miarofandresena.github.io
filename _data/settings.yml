@@ -47,7 +47,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO), où j'excelle dans la gestion de sites, de réseaux de sites, et de sites d'affiliation.
+blurb: Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO). J'excelle dans la gestion de sites internet, de réseaux de sites et de sites e-commerce, en développant des stratégies de web-marketing adaptées aux besoins des entreprises.
 
 blurb-btn-link: "/about"
 blurb-btn-name: Apprendre plus sur moi
@@ -149,24 +149,25 @@ services:
   - {
       name: "Optimisation SEO Avancée",
       icon: ti-palette,
-      description: "Maximisez la visibilité de votre site web grâce à des stratégies de référencement naturel personnalisées, conçues pour améliorer votre classement sur les moteurs de recherche et attirer un trafic qualifié.",
+      description: "Maximisez la visibilité de votre site internet grâce à des stratégies de référencement naturel personnalisées et adaptées à votre marché. Améliorez votre notoriété en ligne, attirez un flux constant de nouveaux clients et boostez votre retour sur investissement grâce à une optimisation SEO efficace 🚀",
       link: /seo,
       active: , # Add true to select section
     }
   - {
       name: "Gestion de Marketing Digital",
       icon: ti-vector,
-      description: "Boostez votre présence en ligne avec des campagnes de marketing digital efficaces, incluant le marketing d'affiliation et d'influence, pour augmenter vos ventes et fidéliser vos clients.",
+      description: "Déployez une stratégie digitale efficace en combinant le référencement naturel (SEO), webmarketing et référencement payant (Google Ads, Facebook Ads). Améliorez la communication digitale de votre entreprise et développez votre image de marque sur le web.",
       link: /marketing,
       active: true, # Add true to select section
     }
   - {
-      name: Développement de Sites Web,
+      name: "Développement de Sites Web",
       icon: ti-panel,
-      description: "Créez et maintenez des sites web performants et sécurisés grâce à nos services de développement web sur mesure, en utilisant les dernières technologies pour garantir une expérience utilisateur optimale.",
+      description: "Créez un site vitrine, e-commerce ou un site responsive performant et sécurisé. Nous développons des pages web optimisées pour le référencement et adaptées aux CMS comme WordPress et Prestashop, garantissant une expérience utilisateur optimale.",
       link: /web,
       active: , # Add true to select section
     }
+
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -266,44 +267,43 @@ faq-items:
   - id: 1
     icon: fa-question-circle
     question: Quels services proposez-vous ?
-    answer: Je suis spécialisé en SEO, assistanat virtuel, gestion de projets numériques, et développement web. Je vous aide à optimiser votre présence en ligne, à améliorer votre visibilité sur Google, et à assurer un suivi client fluide. Mon expertise couvre également la création de contenu optimisé pour le SEO et la gestion de sites e-commerce.
+    answer: J'offre des services en SEO, webmarketing, stratégie digitale, gestion de projets numériques et développement web. Mon expertise inclut également la création de sites internet, le référencement payant et l'amélioration de l'ergonomie des pages web.
   - id: 2
     icon: fa-truck
     question: Comment pouvez-vous améliorer la visibilité de mon site sur Google ?
-    answer: Grâce à des stratégies SEO avancées, j'optimise votre site en fonction des meilleures pratiques de référencement naturel. Cela inclut l'optimisation des mots-clés, la création de backlinks de qualité, et l'amélioration du contenu pour répondre aux exigences des moteurs de recherche, augmentant ainsi votre classement sur Google.
+    answer: J'applique une stratégie de référencement naturel et payant optimisée, incluant l'optimisation des mots-clés, l'amélioration de l'ergonomie, la création de backlinks et l'optimisation des campagnes Google AdWords.
   - id: 3
     icon: fa-lock
-    question: Qu'est-ce que l'assistanat virtuel et en quoi cela peut-il m'aider ?
-    answer: L'assistanat virtuel inclut la gestion administrative à distance, comme la gestion des emails, l'organisation d'agendas, et le suivi des tâches. Cela vous permet de vous concentrer sur des activités à plus forte valeur ajoutée pendant que je prends en charge les aspects administratifs, assurant une productivité accrue et une meilleure gestion de votre temps.
+    question: En quoi consiste l'assistanat virtuel et comment peut-il m'aider ?
+    answer: L'assistanat virtuel inclut la gestion des tâches administratives, la gestion des campagnes mailing et l'organisation de stratégie de communication digitale, vous permettant de vous concentrer sur votre cœur de métier.
   - id: 4
     icon: fa-lock
     question: Quelle est votre approche pour la création de sites web ?
-    answer: Je conçois des sites WordPress sur mesure, en développant des designs modernes et intuitifs qui améliorent l'expérience utilisateur. Mon objectif est de créer des sites performants et optimisés pour le SEO, tout en restant faciles à gérer pour les propriétaires de sites.
+    answer: Je conçois des sites vitrine et e-commerce sur mesure, en utilisant des CMS comme WordPress et Prestashop. Chaque site est optimisé pour le SEO et conçu pour garantir une expérience utilisateur fluide et efficace.
   - id: 5
     icon: fa-lock
-    question: Quels outils utilisez-vous pour gérer le SEO et les campagnes marketing ?
-    answer: J'utilise une combinaison d'outils performants tels que Google Analytics, Google Search Console, et Ubersuggest pour suivre les performances des sites et analyser les résultats des campagnes SEO. Je suis également familiarisé avec les plateformes publicitaires comme Google Ads et Facebook Ads pour maximiser la visibilité de vos campagnes marketing.
+    question: Quels outils utilisez-vous pour le SEO et le marketing digital ?
+    answer: J’utilise des outils comme Google Analytics, Google Search Console et des plateformes de publicité comme Google Ads pour une meilleure stratégie digitale et un retour sur investissement optimisé.
   - id: 6
     icon: fa-lock
-    question: Quelle est votre expérience dans la gestion d'une équipe ?
-    answer: Actuellement, je supervise une équipe de 5 personnes, chacune spécialisée dans des domaines comme la rédaction SEO, l'acquisition de backlinks, et la gestion des sites e-commerce. Mon rôle consiste à coordonner les efforts de l'équipe pour atteindre les objectifs fixés tout en respectant les délais.
+    question: Avez-vous une expérience en gestion d'équipe ?
+    answer: Oui, je gère une équipe spécialisée en SEO, rédaction de contenu, gestion de campagnes Adwords et développement web, afin d’assurer une exécution fluide des projets.
   - id: 7
     icon: fa-lock
     question: Quels types de projets avez-vous gérés ?
-    answer: J'ai géré divers projets, allant de la création et refonte de sites WordPress à la gestion de campagnes de marketing digital pour des entreprises. Mon expertise couvre la planification, la gestion des ressources, et l'assurance qualité tout au long du processus pour garantir des résultats optimaux.
+    answer: J'ai travaillé sur des projets de création de site web, refonte de sites internet, mise en place de stratégies de communication et optimisation du référencement payant et naturel.
   - id: 8
     icon: fa-lock
-    question: Quels sont vos tarifs pour les services SEO et assistanat virtuel ?
-    answer: Mes tarifs varient en fonction des besoins spécifiques de chaque projet. Je propose des forfaits personnalisés adaptés à vos objectifs et à votre budget. N'hésitez pas à me contacter pour discuter d'une solution sur mesure.
+    question: Quels sont vos tarifs pour les services SEO et marketing digital ?
+    answer: "Je propose des forfaits adaptés en fonction des besoins : création de site, SEO, stratégie digitale et publicité en ligne. Contactez-moi pour un devis personnalisé."
   - id: 9
     icon: fa-lock
-    question: Pourquoi devrais-je faire appel à vos services ?
-    answer: Avec plusieurs années d'expérience en SEO, développement web, et gestion de projets, je propose des solutions complètes pour améliorer votre présence en ligne et vous aider à atteindre vos objectifs. Mon approche est axée sur la collaboration, la transparence, et des résultats mesurables.
+    question: Pourquoi devrais-je choisir vos services ?
+    answer: Mon approche repose sur une stratégie marketing complète, alliant référencement naturel, web-marketing et optimisation de l’expérience utilisateur, pour garantir une présence efficace sur le web.
   - id: 10
     icon: fa-lock
     question: Comment puis-je vous contacter ?
-    answer: Vous pouvez me contacter via le <a href="/contact">formulaire de contact</a> sur ce site, ou directement par email ou téléphone. Je suis disponible en télétravail ou en présentiel, selon vos besoins.
-
+    answer: Vous pouvez me joindre via le <a href="/contact">formulaire de contact</a>, par email ou téléphone. Je suis disponible pour collaborer en télétravail ou en présentiel selon vos besoins.
 #-------------------------------
 # Client Slider Section
 
