@@ -1,3 +1,29 @@
+{% if page.layout == "post" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "author": {
+    "@type": "Person",
+    "name": "Miaro Fandresena"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Miaro Fandresena",
+    "url": "https://miarofandresena.github.io"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "description": "{{ page.description | default: page.excerpt }}",
+  "url": "{{ page.url | absolute_url }}"
+}
+</script>
+{% endif %}
 <div class="col-lg-4 col-sm-6 mb-4">
   <article class="card shadow">
     <img class="rounded card-img-top" src="{{ post.image | relative_url }}" alt="{{ post.title }}">
