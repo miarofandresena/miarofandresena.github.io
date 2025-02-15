@@ -322,3 +322,9 @@ html, body {
     overflow-x: hidden; /* Empêche le défilement horizontal */
 }
 
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
