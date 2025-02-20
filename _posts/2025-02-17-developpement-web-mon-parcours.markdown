@@ -250,7 +250,7 @@ Participer à des hackathons et des challenges est une excellente façon de mett
 
 Rester motivé est essentiel pour continuer à apprendre et à progresser. Il est important de se fixer des objectifs réalistes, de célébrer ses réussites et de ne pas se décourager face aux défis.
 
-## Conclusion & Appel à l'Action
+## Conclusion
 
 ![Conception web](/assets/images/blog/conception-web.webp "Conception web"){: .img-responsive}
 
