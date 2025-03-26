@@ -9,7 +9,9 @@ description: "Découvrez comment optimiser votre site pour le SEO vocal et trans
 ---
 
 
-Un jour, un client est venu me voir, inquiet : son site était invisible sur les recherches vocales. Pourtant, il dominait le [SEO d’un site web](https://miarofandresena.github.io/seo). Le problème ? Son contenu sonnait “faux” aux oreilles de Google. Depuis, je traite le SEO vocal comme une partition musicale où chaque mot doit résonner naturellement.
+Un jour, un client est venu me voir, inquiet : son site était invisible sur les recherches vocales. Pourtant, il dominait le [SEO d’un site web](https://miarofandresena.github.io/seo). 
+
+Le problème ? Son contenu sonnait “faux” aux oreilles de Google. Depuis, je traite le SEO vocal comme une partition musicale où chaque mot doit résonner naturellement.
 
 **Pourquoi m’écouter ?**
 
