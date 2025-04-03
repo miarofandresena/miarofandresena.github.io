@@ -11,7 +11,11 @@ description: "Découvrez mon parcours en développement web et les fondamentaux 
 
 Si vous êtes ici, c'est que vous partagez probablement ma passion pour la création de sites et d'applications web. 
 
-J'ai terminé ma formation universitaire en [développement web](https://miarofandresena.github.io/web) en 2019, et je suis impatient de partager avec vous tout ce que j'ai appris. Dans cet article, je vais vous guider à travers les bases, les technologies et les bonnes pratiques qui m'ont été enseignées. Que vous soyez un novice curieux ou un développeur en herbe, vous trouverez ici des informations précieuses pour démarrer ou approfondir vos compétences. Alors, prêt à plonger dans le monde fascinant du développement web ? C'est parti !
+
+Je m'appelle Miaro Fandresena Rafanomezaniavo et je suis passionné par le développement web depuis toujours. Mon parcours de **développeur web** s'est construit autour de la **création de site internet** et de la gestion de projets web, en utilisant notamment des **CMS** comme WordPress pour **créer un site web** au design **responsive** et ergonomique. Que vous soyez freelance, chef de projet ou simplement curieux, cet article est fait pour vous !
+
+J'ai terminé ma formation universitaire en [développement web](https://miarofandresena.github.io/web) en 2019, période durant laquelle j'ai appris à maîtriser le **code HTML**, le PHP, et même Java pour certains projets plus complexes. Cette formation m'a permis de développer des compétences solides en **web-design** et en **référencement naturel** afin d'optimiser **votre site internet** et de le rendre performant sur tous les navigateurs et mobiles. J'ai notamment travaillé sur des projets de **refonte** de sites internet et de **création de sites web** pour des agences web et des entreprises souhaitant améliorer leur **vitrine** en ligne.
+
 
 ## Introduction
 
@@ -66,6 +70,17 @@ Avoir une présence en ligne est aujourd'hui indispensable pour toute entreprise
 Le développement web joue un rôle stratégique dans la transformation digitale des entreprises. Il permet de moderniser les processus, d'améliorer l'efficacité et de répondre aux attentes des clients. En intégrant des technologies web avancées, les entreprises peuvent se démarquer et rester compétitives.
 
 ## Section 2 : Les Fondamentaux Appris en Formation
+
+
+### Les Technologies et Bonnes Pratiques
+
+Durant ma formation, j'ai pu explorer diverses technologies et outils :
+
+-   **HTML/CSS et JavaScript** : Pour créer des **pages web** structurées et interactives. Je m'efforce toujours de produire un **code HTML** propre et bien commenté pour faciliter la maintenance et la compréhension du site par d'autres **designers** et **intégrateurs**.
+    
+-   **CMS et Templates** : J'ai travaillé avec WordPress et d'autres **CMS** pour la **création de site internet** sur mesure, en utilisant des **templates** modernes et adaptables pour garantir un **responsive design** optimal sur tous les appareils, des ordinateurs aux **mobiles**.
+    
+-   **Outils de Développement et Gestion de Contenu** : L'utilisation d'éditeurs de code, de frameworks et de systèmes de gestion de contenu permet d'assurer une excellente **ergonomie** et une **gestion de contenu** efficace, essentielle pour maintenir la performance d'un **projet web**.
 
 ### HTML & CSS
 
