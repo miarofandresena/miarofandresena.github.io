@@ -1,12 +1,13 @@
 ---
-layout: about
+layout: about-temp
+permalink : /about/
 title: "À propos de Miaro : Passionné de Web"
 author: Miaro Fandresena Rafanomezaniavo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 description : "Découvrez mon expertise en SEO, développement web, et marketing digital. Fort d'une expérience de plus de 4 ans, je combine technique et stratégie pour des résultats concrets."
 ---
-
+ 
 ## Expert en Référencement Naturel (SEO) et Passionné du Web
 
 Depuis plus de quatre ans, je me consacre avec passion au monde du **référencement naturel (SEO)**. Ce domaine en constante évolution m’a permis d’acquérir une expertise approfondie dans la **gestion de sites web**, la création et la gestion de **réseaux de sites**, ainsi que dans l'optimisation de **sites d'affiliation**. Ces compétences me permettent d'améliorer non seulement la visibilité en ligne des projets sur lesquels je travaille, mais aussi d’optimiser leur performance sur les moteurs de recherche, assurant ainsi un **trafic qualifié** et des **résultats durables**.

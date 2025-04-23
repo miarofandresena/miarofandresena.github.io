@@ -5,7 +5,7 @@ date:   2025-03-01 10:05:55 +0300
 image:  /assets/images/blog/analyse-seo.webp
 author: Miaro
 tags:   Web
-description: "Découvrez comment dominer le SEO local et attirer plus de clients près de chez vous grâce à des techniques éprouvées et originales."
+description: "Découvrez les outils SEO méconnus et mes astuces exclusives pour des analyses et rapports percutants. Boostez votre stratégie avec des méthodes éprouvées et obtenez des résultats concrets maintenant !"
 ---
 
 OK, on va être honnêtes : l’analyse SEO, c’est un peu comme lire une carte au trésor… sans savoir où est la croix. 🗺️

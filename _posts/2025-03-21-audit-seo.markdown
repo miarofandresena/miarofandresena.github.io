@@ -5,7 +5,7 @@ date:   2025-03-21 10:05:55 +0300
 image:  /assets/images/blog/audit-seo.webp
 author: Miaro
 tags:   Web
-description: "Découvrez comment, depuis 2020, j’ai analysé des stratégies SEO vouées à l’échec et transformé des sites en véritable succès – sans artifices, juste de l’expérience."
+description: "Plongez dans l'univers des audits SEO avec des méthodes d'expert et astuces cachées. Devenez un véritable détective du référencement et optimisez votre site comme jamais auparavant !"
 ---
 
 
