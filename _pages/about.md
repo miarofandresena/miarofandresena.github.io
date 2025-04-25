@@ -18,7 +18,7 @@ Si vous souhaitez découvrir certains de mes projets les plus marquants et les r
 
 Mon engagement envers le **marketing digital** m’a conduit à développer une expertise particulière dans le **marketing d'affiliation** et le **marketing d'influence**. Travaillant étroitement avec des sites de vente, j’ai appris à maîtriser les mécanismes qui génèrent non seulement du **trafic qualifié**, mais aussi des **conversions élevées**. En tant que professionnel du marketing, je comprends l’importance d’adapter les stratégies aux spécificités de chaque marché, ce qui m’a permis de livrer des résultats exceptionnels.
 
-Pour en savoir plus sur mon parcours et les étapes qui ont marqué ma carrière, vous pouvez consulter une [présentation détaillée de mon parcours](https://miarofandresena.github.io/2024/07/23/presentation/).
+Pour mieux comprendre mon rôle en tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), découvrez cette présentation complète de mon expertise, de mes services et de ma méthode de travail.
 
 ## Développeur Web et Optimiseur SEO
 

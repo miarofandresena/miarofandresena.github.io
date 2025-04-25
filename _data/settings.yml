@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! Je suis <br> Miaro Fandresena <br> Specialiste SEO
+  hero-title: "Hi! Je suis <br> Miaro Fandresena <br> Spécialiste SEO"
 
 social:
   - { icon: "ti-facebook", link: "https://web.facebook.com/miarofandresena.rafanomezaniavo/" }
@@ -95,7 +95,7 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Experiences
 experience:
   - {
       name: "SEO & Intégrateur web",
@@ -303,7 +303,7 @@ faq-items:
   - id: 10
     icon: fa-lock
     question: Comment puis-je vous contacter ?
-    answer: Vous pouvez me joindre via le <a href=\"/contact\">formulaire de contact</a>, par email ou téléphone. En tant que prestataire web et créateur de site, je suis disponible pour collaborer en télétravail ou en présentiel, et pour discuter de la création de site internet, de la réalisation d'un site internet ou de la refonte et du développement du site, afin d'améliorer votre présence sur le Web et d'optimiser votre internet création.
+    answer: Vous pouvez me joindre via le <a href=/contact\>formulaire de contact</a>, par email ou téléphone. En tant que prestataire web et créateur de site, je suis disponible pour collaborer en télétravail ou en présentiel, et pour discuter de la création de site internet, de la réalisation d'un site internet ou de la refonte et du développement du site, afin d'améliorer votre présence sur le Web et d'optimiser votre internet création.
 #-------------------------------
 # Client Slider Section
 

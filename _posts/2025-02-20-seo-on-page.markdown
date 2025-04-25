@@ -10,7 +10,7 @@ description: "Découvrez mes techniques éprouvées de SEO on-page pour booster 
 
 Salut à tous ! Vous souhaitez découvrir comment transformer vos pages web en véritables aimants à trafic grâce au SEO on-page ?
 
-Vous êtes au bon endroit. Fort de plusieurs années d'expérience et de nombreux projets d'optimisation [SEO réussis](http://127.0.0.1:4000/seo), je vais partager avec vous mes méthodes et astuces pour sublimer chaque page de votre site. Prêt à explorer ensemble des stratégies concrètes pour booster votre visibilité ? Allons-y !
+Vous êtes au bon endroit. Fort de plusieurs années d'expérience et de nombreux projets d'optimisation [SEO réussis](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/), je vais partager avec vous mes méthodes et astuces pour sublimer chaque page de votre site. Prêt à explorer ensemble des stratégies concrètes pour booster votre visibilité ? Allons-y !
 
 Pour **référencer** efficacement **votre site internet**, il est indispensable de travailler sur l'optimisation de l’**URL** et des **balises**. Des éléments tels que le **sitemap**, les fichiers **robots.txt** et la gestion des **redirections** permettent aux **webmasters** de guider le **crawl** des moteurs de recherche et d’améliorer la **popularité** de vos pages du site.
 
