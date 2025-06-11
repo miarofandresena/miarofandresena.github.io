@@ -1,27 +1,167 @@
----
-layout: null
-sitemap:
-  exclude: 'no'
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-  {% unless page.url contains '/assets/' or page.sitemap.exclude == 'yes' %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
-      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>{% if page.sitemap.changefreq %}{{ page.sitemap.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.sitemap.priority %}{{ page.sitemap.priority }}{% else %}0.5{% endif %}</priority>
-    </url>
-  {% endunless %}
-{% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  {% for post in site.posts %}
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      <changefreq>yearly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  {% endfor %}
+
+<url>
+  <loc>https://miarofandresena.github.io/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/about/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/blog</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/portfolio</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/contact</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/seo</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/marketing</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/web</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/05/21/erreurs-seo-sites-web-malgaches/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/05/21/cout-strategie-seo-madagascar/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/05/13/comment-choisir-son-consultant-seo-madagascar/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/04/08/seo-et-ia/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/26/seo-vocal/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/21/audit-seo/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/10/seo-est-mort/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/10/gray-hat-seo/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/10/black-hat-seo/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/07/white-hat-seo/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/05/seo-off-page/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/03/01/analyse-reporting-seo/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/28/seo-international/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/22/seo-local/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/20/seo-on-page/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/19/seo-techniques/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/17/developpement-web-mon-parcours/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/15/marketing-digital-secret/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miarofandresena.github.io/assets/resources/5-Signes-que-Votre-SEO-est-en-Train-de-Virer-au-Gris-Fonce.pdf</loc>
+  <lastmod>2025-06-04T14:19:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>

@@ -114,7 +114,7 @@ Pour chaque service principal que vous proposez, créez une page dédiée avec:
 
 Les liens provenant de sites malgaches de confiance sont particulièrement valorisés par Google:
 
--   **Inscrivez-vous dans les annuaires locaux**: Madagascar-annuaire.com, Nocomment.mg, etc.
+-   **Inscrivez-vous dans les annuaires locaux**: Nocomment.mg, etc.
 -   **Établissez des partenariats** avec d'autres entreprises locales complémentaires
 -   **Participez aux événements locaux** et obtenez des mentions sur leurs sites
 -   **Collaborez avec des influenceurs malgaches** pertinents pour votre secteur
