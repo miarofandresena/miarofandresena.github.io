@@ -16,7 +16,7 @@ Trop longs. Trop vagues. Écrits par des gens qui n'ont jamais optimisé un seul
 
 Moi, c'est différent.
 
-Je m'appelle Miaro Fandresena Rafanomezaniavo. Ça fait 4 ans que je fais du [SEO](https://miarofandresena.github.io/seo) — pas en théorie, mais dans la vraie vie, avec de vrais clients, des vrais résultats.
+Je m'appelle Miaro Fandresena Rafanomezaniavo. Ça fait 6 ans que je fais du [SEO](https://miarofandresena.github.io/seo) — pas en théorie, mais dans la vraie vie, avec de vrais clients, des vrais résultats.
 
 Dans cet article, je vous montre exactement ce que je fais. Pas de raccourcis douteux. Pas de promesses en l'air.
 
