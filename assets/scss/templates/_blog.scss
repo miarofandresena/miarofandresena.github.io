@@ -29,3 +29,50 @@ blockquote > p {
     line-height: 1.5;
   }
 }
+
+
+
+// nouveau
+
+p {
+  font-size: 1.3rem;
+}
+
+h2 {
+  margin-top: 4rem;      /* grand espace avant nouvelle section */
+  margin-bottom: 1.25rem;
+
+  line-height: 1.25;
+}
+
+/* Sous-section */
+h3 {
+  margin-top: 2.75rem;
+  margin-bottom: 0.9rem;
+
+  line-height: 1.35;
+}
+
+/* Sous-sous-section */
+h4 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+
+  line-height: 1.4;
+}
+
+/* Petit titre */
+h5 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+
+  line-height: 1.45;
+}
+
+/* Rarement utilisé */
+h6 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+
+  line-height: 1.5;
+}
