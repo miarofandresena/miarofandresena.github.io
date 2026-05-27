@@ -1,28 +1,14 @@
 ---
-layout: compress
 ---
 <!DOCTYPE html>
 <html lang="fr">
-
 {% include head.html %}
-
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFVGFJBR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<script>
-  AOS.init();
-</script>
-
-  {% include header.html %}
-
-  {{ content }}
-
-  {% include contact-section.html %}
-
-  {% include footer.html %}
-
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFVGFJBR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>AOS.init();</script>
+{% include header.html %}
+{{ content }}
+{% include contact-section.html %}
+{% include footer.html %}
 </body>
-
 </html>

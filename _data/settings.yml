@@ -47,7 +47,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Passionné par le Web, j'ai consacré les quatre dernières années à me spécialiser dans le référencement naturel (SEO) et la création de site internet, optimisant le référencement d'un site pour une visibilité sur Internet. En tant que freelance et prestataire web, j'excelle dans la gestion de contenu et l’optimisation de votre site internet, collaborant avec des agences de communication, agences digitales, agences de création, agences internet et agences webdesign. Que ce soit pour la création de site, la refonte du site ou la réalisation d'un site internet, mon expertise en web-design, conception de site et stratégie marketing me permet de proposer des solutions web sur mesure, alliant ergonomie, design responsive, expérience utilisateur optimale et création graphique. Je transforme vos idées en réalisations concrètes sur le Web, en développant un site web innovant pour votre entreprise web, que ce soit un site vitrine, un intranet, un Ecommerce ou un nouveau site, avec un nom de domaine soigné et des templates modernes.
+blurb: "Passionné par le web depuis plus de 4 ans, j’accompagne les entreprises dans la création de sites internet et l’optimisation SEO pour améliorer leur visibilité et attirer plus de clients. Freelance spécialisé en SEO, web design et expérience utilisateur, je conçois des sites modernes, rapides et responsives : site vitrine, e-commerce ou refonte complète. Mon objectif : transformer vos idées en un site performant, pensé pour l’humain et la conversion."
 
 blurb-btn-link: "/about"
 blurb-btn-name: Apprendre plus sur moi
@@ -135,11 +135,6 @@ education:
       name: "Diplôme de Technicien Supérieur",
       date: "2016",
       organization: "ISIME",
-    }
-  - {
-      name: "Baccalauréat Série A2",
-      date: "2015",
-      organization: "LP Idéal",
     }
 #-------------------------------
 # Services Section
