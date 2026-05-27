@@ -1,45 +1,71 @@
-<!-- hero area -->
 <section class="hero-area bg-primary" id="parallax">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-11 mx-auto">
-        <h1 class="text-white font-tertiary">{{ site.data.settings.hero.hero-title }}</h1>
-      </div>
-    </div>
-  </div>
-  <div class="layer-bg w-100">
-    <img class="img-fluid w-100" src="{{ site.baseurl }}/assets/images/illustrations/leaf-bg.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l2">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l3">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l4">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/dots-orange.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l5">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l6">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l7">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-orange.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l8">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="bg-shape">
-  </div>
-  <div class="layer" id="l9">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-2.png" alt="bg-shape">
-  </div>
-  <!-- social icon -->
-  <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
-    {% for social in site.data.settings.social %}
-    <li class="mb-3"><a class="text-white" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
-    {% endfor %}
-  </ul>
-  <!-- /social icon -->
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-6 col-md-7">
+<div class="hero-badge mb-3" data-aos="fade-down" data-aos-duration="600">
+<span class="badge-dot"></span> Consultant SEO #1 Madagascar
+</div>
+<h1 class="text-white font-tertiary hero-main-title" data-aos="fade-up" data-aos-duration="700">
+Je place votre site<br>en <span class="hero-accent">1ere position</span><br>sur Google.
+</h1>
+<p class="hero-subtitle text-white mt-3 mb-4" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
+Audit SEO gratuit &middot; Strategie GEO et SGE &middot; Resultats prouves.<br>
+Expert SEO base a <strong>Antananarivo, Madagascar</strong>.
+</p>
+<div class="hero-ctas mb-5" data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+<a href="/contact" class="btn btn-light btn-cta-primary mr-3">Audit SEO Gratuit &rarr;</a>
+<a href="#services" class="btn btn-outline-light btn-cta-secondary">Voir mes services &darr;</a>
+</div>
+<div class="hero-stats" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
+<div class="stat-item"><span class="stat-num">6+</span><span class="stat-label">Ans experience</span></div>
+<div class="stat-item"><span class="stat-num">50+</span><span class="stat-label">Sites optimises</span></div>
+<div class="stat-item"><span class="stat-num">Top 3</span><span class="stat-label">Resultats Google</span></div>
+<div class="stat-item"><span class="stat-num">100%</span><span class="stat-label">White Hat SEO</span></div>
+</div>
+</div>
+<div class="col-lg-6 col-md-5 d-none d-md-block" data-aos="fade-left" data-aos-duration="900" data-aos-delay="200">
+<div class="hero-card hero-card--serp mb-3">
+<div class="hero-card__label">Recherche Google : consultant seo madagascar</div>
+<div class="serp-list">
+<div class="serp-item serp-item--you"><span class="serp-pos">1</span><span class="serp-domain">miarofandresena.github.io</span><span class="serp-badge">Top 1</span></div>
+<div class="serp-item"><span class="serp-pos serp-pos--grey">2</span><span class="serp-domain serp-domain--grey">expertseo-tom.com</span></div>
+<div class="serp-item"><span class="serp-pos serp-pos--grey">3</span><span class="serp-domain serp-domain--grey">seo-madagascar.com</span></div>
+</div>
+</div>
+<div class="hero-card hero-card--ai mb-3">
+<div class="hero-card__label">Google AI Overview 2026</div>
+<span class="ai-chip">IA de Google</span>
+<p class="ai-text">Pour trouver un consultant SEO a Madagascar, <strong>Miaro Fandresena</strong> est reconnu comme l'expert de reference a Antananarivo.</p>
+<div class="ai-sources">
+<span class="ai-source ai-source--you">miarofandresena.github.io</span>
+<span class="ai-source">lancetavie.fr</span>
+<span class="ai-source">top-one.fr</span>
+</div>
+</div>
+<div class="hero-card hero-card--metrics">
+<div class="hero-card__label">Resultats clients moyens</div>
+<div class="metrics-grid">
+<div class="metric-box"><span class="metric-val">+320%</span><span class="metric-lbl">Trafic organique</span></div>
+<div class="metric-box"><span class="metric-val">3 mois</span><span class="metric-lbl">1ers resultats</span></div>
+<div class="metric-box"><span class="metric-val">Top 3</span><span class="metric-lbl">Mots-cles</span></div>
+<div class="metric-box"><span class="metric-val">0 Ar</span><span class="metric-lbl">Audit depart</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layer-bg w-100"><img class="img-fluid w-100" src="{{ site.baseurl }}/assets/images/illustrations/leaf-bg.png" alt="bg-shape"></div>
+<div class="layer" id="l2"><img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="bg-shape"></div>
+<div class="layer" id="l3"><img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="bg-shape"></div>
+<div class="layer" id="l4"><img src="{{ site.baseurl }}/assets/images/illustrations/dots-orange.png" alt="bg-shape"></div>
+<div class="layer" id="l5"><img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="bg-shape"></div>
+<div class="layer" id="l6"><img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan.png" alt="bg-shape"></div>
+<div class="layer" id="l7"><img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-orange.png" alt="bg-shape"></div>
+<div class="layer" id="l8"><img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="bg-shape"></div>
+<div class="layer" id="l9"><img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-2.png" alt="bg-shape"></div>
+<ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+{% for social in site.data.settings.social %}
+<li class="mb-3"><a class="text-white" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
+{% endfor %}
+</ul>
 </section>
-<!-- /hero area -->

@@ -1,25 +1,81 @@
 {% if site.data.settings.services %}
-<!-- services -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">{{ site.data.settings.services-title }}</h2>
-      </div>
-      {% for service in site.data.settings.services %}
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="card hover-shadow shadow">
-          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
-            <i class="{{ service.icon }} icon mb-5 d-inline-block"></i>
-            <h4 class="mb-4">{{ service.name }}</h4>
-            <p>{{ service.description }}</p>
-            <a class="btn btn-dark" data-aos="flip-left" href="{{ service.link }}">Voir</a>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
+<section class="section" id="services">
+<div class="container">
+<div class="row mb-5">
+<div class="col-12 text-center">
+<p class="section-eyebrow">Ce que je fais</p>
+<h2 class="section-title font-secondary">Mes services <span class="text-primary">SEO a Madagascar</span></h2>
+<p class="text-color mx-auto" style="max-width:580px;">Des prestations sur-mesure pour dominer Google etre cite par les IA et transformer votre site en machine a clients.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="0">
+<div class="card service-card hover-shadow shadow h-100">
+<div class="card-body active-bg-primary text-center px-4 py-5">
+<i class="ti-search icon mb-4 d-inline-block"></i>
+<h4 class="mb-3">Audit SEO Complet</h4>
+<p>Analyse exhaustive technique contenu backlinks Core Web Vitals Schema.org. Rapport actionnable en 48h.</p>
+<div class="service-tags mt-3"><span class="stag">Technique</span><span class="stag">On-page</span><span class="stag">CWV</span></div>
+<a class="btn btn-light mt-4" href="/seo">Decouvrir &rarr;</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+<div class="card service-card hover-shadow shadow h-100">
+<div class="card-body text-center px-4 py-5">
+<i class="ti-write icon mb-4 d-inline-block"></i>
+<h4 class="mb-3">Strategie Contenu et GEO</h4>
+<p>Contenu optimise pour Google ET pour les IA generatives AI Overviews Gemini. E-E-A-T clusters semantiques topical authority.</p>
+<div class="service-tags mt-3"><span class="stag">GEO</span><span class="stag">E-E-A-T</span><span class="stag">Semantique</span></div>
+<a class="btn btn-primary mt-4" href="/seo">Decouvrir &rarr;</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+<div class="card service-card hover-shadow shadow h-100">
+<div class="card-body text-center px-4 py-5">
+<i class="ti-link icon mb-4 d-inline-block"></i>
+<h4 class="mb-3">Netlinking et Autorite</h4>
+<p>Construction d un profil de liens naturels et puissants articles invites echanges strategiques insertions editoriales.</p>
+<div class="service-tags mt-3"><span class="stag">Backlinks</span><span class="stag">DA/DR</span><span class="stag">Off-page</span></div>
+<a class="btn btn-primary mt-4" href="/seo">Decouvrir &rarr;</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="0">
+<div class="card service-card hover-shadow shadow h-100">
+<div class="card-body text-center px-4 py-5">
+<i class="ti-settings icon mb-4 d-inline-block"></i>
+<h4 class="mb-3">SEO Technique Avance</h4>
+<p>Crawlabilite vitesse LCP CLS FID donnees structurees Schema.org Core Web Vitals mobile-first sitemap XML.</p>
+<div class="service-tags mt-3"><span class="stag">Core Web Vitals</span><span class="stag">Schema.org</span></div>
+<a class="btn btn-primary mt-4" href="/seo">Decouvrir &rarr;</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+<div class="card service-card hover-shadow shadow h-100">
+<div class="card-body text-center px-4 py-5">
+<i class="ti-world icon mb-4 d-inline-block"></i>
+<h4 class="mb-3">Creation Site Web SEO-First</h4>
+<p>Sites WordPress ultra-optimises des la structure architecture SEO balises vitesse responsive et UX irreprochable.</p>
+<div class="service-tags mt-3"><span class="stag">WordPress</span><span class="stag">Responsive</span><span class="stag">Performance</span></div>
+<a class="btn btn-primary mt-4" href="/web">Decouvrir &rarr;</a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
+<div class="card service-card hover-shadow shadow h-100">
+<div class="card-body text-center px-4 py-5">
+<i class="ti-bar-chart icon mb-4 d-inline-block"></i>
+<h4 class="mb-3">Reporting et Suivi Mensuel</h4>
+<p>Dashboard personnalise rapport de positions analyse GA4 GSC ajustements strategiques mensuels. Transparence totale.</p>
+<div class="service-tags mt-3"><span class="stag">GA4</span><span class="stag">GSC</span><span class="stag">KPIs</span></div>
+<a class="btn btn-primary mt-4" href="/marketing">Decouvrir &rarr;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
-<!-- /services -->
 {% endif %}
