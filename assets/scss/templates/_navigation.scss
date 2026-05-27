@@ -1,15 +1,15 @@
 .navigation{
-  padding: 40px 130px;
+  padding: 12px 130px;
   transition: .3s ease;
   &.nav-bg {
     background-color: $primary-color;
-    padding: 15px 100px;
+    padding: 8px 100px;
     @include desktop {
-      padding: 15px 20px;
+      padding: 8px 16px;
     }
   }
   @include desktop {
-    padding: 20px;
+    padding: 8px 16px;
     background: $primary-color;
   }
 }
@@ -19,7 +19,7 @@
     .nav-link{
       font-family: $secondary-font;
       text-transform: uppercase;
-      padding: 15px;
+      padding: 7px 12px;
     }
     &.active{
       font-weight: bold;
@@ -29,4 +29,26 @@
 
 .navbar-dark .navbar-nav .nav-link{
   color: $white;
+}
+
+// Logo et brand compacts
+.navbar-brand {
+  h3 { font-size: 1.2rem; margin-bottom: 0; line-height: 1; }
+  .logo { height: 32px; width: auto; }
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+// Menu mobile : items serres
+@include desktop {
+  .navbar-collapse .nav-item .nav-link {
+    padding: 6px 12px;
+    font-size: .82rem;
+  }
+  .navbar-collapse .btn.nav-link {
+    margin: 6px 12px 8px;
+    display: inline-block;
+    width: auto;
+  }
 }

@@ -6,6 +6,7 @@ image:  /assets/images/blog/post-5.jpg
 author: Miaro
 tags:   Web
 description: "Besoin d'un consultant SEO à Madagascar? Miaro Fandresena, expert en référencement naturel basé à Antananarivo, vous aide à atteindre les premières positions sur Google. Audit gratuit!"
+redirect_to: /
 ---
 
 ## Votre Consultant SEO à Madagascar pour booster le positionnement de votre site internet dans les pages de résultats (SERP).
