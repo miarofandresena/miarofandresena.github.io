@@ -1,0 +1,38 @@
+# robots.txt — miarofandresena.github.io
+# Consultant SEO Madagascar — Miaro Fandresena
+
+# ── Crawlers generaux ─────────────────────────────────────────────
+User-agent: *
+Allow: /
+Disallow: /assets/resources/
+
+# ── Crawlers IA (autorises pour visibilite GEO & AI Overviews) ────
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Gemini
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# ── Sitemap ───────────────────────────────────────────────────────
+Sitemap: https://miarofandresena.github.io/sitemap.xml

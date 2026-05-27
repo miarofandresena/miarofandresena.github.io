@@ -6,7 +6,6 @@ domain: miarofandresena.github.io
 markdown: kramdown
 permalink: pretty
 plugins:
-  - jekyll-sitemap
   - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
