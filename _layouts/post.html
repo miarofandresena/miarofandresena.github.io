@@ -2,46 +2,76 @@
 layout: default
 ---
 
-<!-- page title -->
-<section class="page-title bg-primary position-relative">
+<!-- barre de progression de lecture -->
+<div id="post-progress-bar"></div>
+
+<!-- héro de l'article -->
+<section class="post-hero bg-primary position-relative">
   <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Blog</h1>
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-10">
+        <div class="post-hero-breadcrumb">
+          <a href="{{ site.baseurl }}/blog">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="15 18 9 12 15 6"/></svg>
+            Blog
+          </a>
+        </div>
+        <div class="post-hero-meta">
+          <span class="post-hero-date">{{ page.date | date: '%d %B %Y' }}</span>
+          <span class="post-hero-sep" aria-hidden="true">·</span>
+          <span id="post-reading-time"></span>
+          {% for tag in page.tags %}
+          <span class="post-hero-sep" aria-hidden="true">·</span>
+          <span class="post-hero-tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+        <h1 class="post-hero-title font-tertiary">{{ page.title | escape }}</h1>
+        <p class="post-hero-author">Par <strong>{{ page.author }}</strong></p>
       </div>
     </div>
   </div>
-  <!-- background shapes -->
-  <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+  <!-- formes décoratives -->
+  <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="" class="bg-shape-1 w-100">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="" class="bg-shape-2">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="" class="bg-shape-3">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="" class="bg-shape-4">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="" class="bg-shape-5">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-cyan.png" alt="" class="bg-shape-6">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="" class="bg-shape-7">
 </section>
-<!-- /page title -->
+<!-- /héro de l'article -->
 
-<section class="section">
+<!-- contenu de l'article -->
+<section class="post-section">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
-        <p class="font-secondary">Publié le {{ page.date | date: '%b %d, %Y' }} par <span class="text-primary">{{ page.author }}</span
-            class="text-primary"> dans {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
-        <div class="content">
-          <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-10">
+
+        {% if page.image %}
+        <div class="post-featured-img">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="img-fluid">
+        </div>
+        {% endif %}
+
+        <div id="post-toc" class="post-toc">
+          <p class="post-toc-label">Sommaire</p>
+          <nav id="post-toc-nav"></nav>
+        </div>
+
+        <div class="post-body">
           {{ content }}
         </div>
+
       </div>
     </div>
   </div>
 </section>
+<!-- /contenu de l'article -->
 
 {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
-<!-- blog -->
-<section class="section">
+<!-- articles similaires -->
+<section class="section post-related">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -53,4 +83,50 @@ layout: default
     </div>
   </div>
 </section>
-<!-- /blog -->
+<!-- /articles similaires -->
+
+<script>
+(function () {
+  'use strict';
+
+  // Temps de lecture
+  var body = document.querySelector('.post-body');
+  if (body) {
+    var words = body.innerText.trim().split(/\s+/).length;
+    var mins = Math.max(1, Math.round(words / 200));
+    var el = document.getElementById('post-reading-time');
+    if (el) el.textContent = mins + ' min de lecture';
+  }
+
+  // Sommaire automatique
+  var headings = document.querySelectorAll('.post-body h2, .post-body h3');
+  var tocContainer = document.getElementById('post-toc');
+  var tocNav = document.getElementById('post-toc-nav');
+  if (headings.length >= 3 && tocContainer && tocNav) {
+    var ul = document.createElement('ul');
+    headings.forEach(function (h, i) {
+      if (!h.id) h.id = 'section-' + i;
+      var li = document.createElement('li');
+      if (h.tagName === 'H3') li.classList.add('toc-h3');
+      var a = document.createElement('a');
+      a.href = '#' + h.id;
+      a.textContent = h.textContent;
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+    tocNav.appendChild(ul);
+  } else if (tocContainer) {
+    tocContainer.style.display = 'none';
+  }
+
+  // Barre de progression
+  var bar = document.getElementById('post-progress-bar');
+  if (bar) {
+    window.addEventListener('scroll', function () {
+      var scrolled = window.scrollY || document.documentElement.scrollTop;
+      var total = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      bar.style.width = (total > 0 ? (scrolled / total) * 100 : 0) + '%';
+    }, { passive: true });
+  }
+})();
+</script>

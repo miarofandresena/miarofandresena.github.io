@@ -12,9 +12,11 @@ Vous avez du bon contenu. Votre site est propre. Mais Google ne vous positionne 
 
 Voici ce qui se passe probablement :
 
-Votre **SEO on-page** est bancal. Et c'est exactement ce qu'on va corriger dans cet article.
+Votre **SEO on-page** est bancal.
 
-Fort de plusieurs années d'expérience sur des [projets SEO réussis](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/), je vais vous partager mes méthodes exactes — celles que j'applique sur chaque page que j'optimise.
+Et c'est exactement ce qu'on va corriger dans cet article.
+
+Après plusieurs années sur des [projets SEO concrets](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/), voici mes méthodes exactes — celles que j'applique sur chaque page que j'optimise.
 
 Pas de théorie. Pas de blabla. Juste ce qui fonctionne.
 
@@ -28,19 +30,19 @@ Contenu, balises, images, URLs, maillage interne — tout ça relève du on-page
 
 C'est l'opposé du SEO off-page, qui lui s'occupe des backlinks et des signaux externes.
 
-**Pourquoi c'est crucial ?** Parce que si Google ne comprend pas le sujet de votre page, il ne peut pas vous positionner dessus — peu importe combien de liens vous avez.
+**Pourquoi c'est crucial ?** Si Google ne comprend pas le sujet de votre page, il ne peut pas vous positionner dessus — peu importe combien de liens vous avez.
 
 ---
 
-## Les Éléments Clés du SEO On-Page
+## Les 7 Éléments Clés du SEO On-Page
 
 ### 1. La Balise Title
 
 C'est l'élément SEO on-page le plus important.
 
-Voici mes règles :
+Voici mes règles exactes :
 
-- **50-60 caractères maximum** (sinon Google tronque)
+- **50-60 caractères maximum** — sinon Google tronque
 - **Mot-clé principal en début de titre**
 - **Chaque page = un titre unique**
 
@@ -56,25 +58,25 @@ Mes règles :
 - **Un appel à l'action clair**
 - **Mot-clé principal inclus naturellement**
 
-Évitez les descriptions génériques. Elles tuent votre taux de clic.
+Les descriptions génériques tuent votre taux de clic. Évitez-les à tout prix.
 
 ### 3. Les Balises d'En-Tête (H1, H2, H3)
 
-La structure Hn, c'est comme un plan de document. Elle dit à Google : "voici comment mon contenu est organisé."
+La structure Hn, c'est comme un plan de document. Elle dit à Google : voici comment mon contenu est organisé.
 
 Mes règles d'or :
 
 - **Un seul H1 par page** — contient le mot-clé principal
 - **H2 pour les sections principales** — intégrer les variantes sémantiques
-- **H3 pour les sous-sections** — complémenter les H2
+- **H3 pour les sous-sections** — complémentaires aux H2
 
 Pensez également à vérifier que chaque **URL** est optimisée et que votre **nom de domaine** reflète bien votre identité.
 
 ### 4. Le Contenu de Qualité
 
-Le contenu est roi. Et un roi digne de ce nom doit être **original, utile et complet**.
+Le contenu est roi. Et un roi digne de ce nom est **original, utile et complet**.
 
-**Ce que je vérifie sur chaque page :**
+Ce que je vérifie sur chaque page :
 
 - Répond-elle vraiment à l'intention de recherche ?
 - Est-elle plus complète que les résultats en première page ?
@@ -86,26 +88,27 @@ La longueur idéale ? Celle qu'il faut pour couvrir le sujet. Pas plus, pas moin
 
 Une image non optimisée peut à elle seule ralentir votre page de 50%.
 
-**Mon process systématique :**
+Mon process systématique :
 
-- Format **WebP** en priorité (30-40% plus léger que JPEG)
+- Format **WebP** en priorité — 30 à 40% plus léger que JPEG
 - Compression avant upload via Squoosh ou ShortPixel
 - **Balise ALT descriptive** sur chaque image
-- Nom de fichier descriptif (pas "image1.jpg")
+- Nom de fichier descriptif — pas "image1.jpg"
 
 ### 6. La Structure des URLs
 
 Des URLs propres et descriptives aident à la fois les utilisateurs et Google.
 
-**Mes règles :**
+Mes règles :
 
 - Courtes et descriptives
 - Mot-clé principal inclus
 - Tirets pour séparer les mots
 - Pas de caractères spéciaux ni de paramètres inutiles
 
-Bon exemple : `/consultant-seo-madagascar/`
-Mauvais exemple : `/index.php?id=123&cat=seo`
+**Bon exemple :** `/consultant-seo-madagascar/`
+
+**Mauvais exemple :** `/index.php?id=123&cat=seo`
 
 ### 7. Le Maillage Interne
 
@@ -117,7 +120,7 @@ Créer des liens entre vos propres pages fait trois choses simultanément :
 2. Distribue l'autorité vers vos pages plus faibles
 3. Garde les visiteurs plus longtemps sur votre site
 
-**Mes stratégies :**
+Mes stratégies :
 
 - Liens contextuels dans le corps de l'article
 - Navigation claire avec breadcrumbs
@@ -131,13 +134,13 @@ Créer des liens entre vos propres pages fait trois choses simultanément :
 
 ## Techniques Avancées de SEO On-Page
 
-### Optimisation de la Vitesse de Chargement
+### La Vitesse de Chargement
 
-Un site lent, c'est moins de trafic. Ça, c'est prouvé.
+Un site lent = moins de trafic. C'est prouvé.
 
-**Les gains rapides :**
+Les gains rapides :
 
-- **Minification CSS/JS** — UglifyJS, CSSNano (réduction de 20 à 40% du poids des fichiers)
+- **Minification CSS/JS** — UglifyJS, CSSNano. Réduction de 20 à 40% du poids des fichiers.
 - **Mise en cache navigateur** — les visiteurs qui reviennent chargent votre site beaucoup plus vite
 - **CDN** — réduisez les temps de chargement via un réseau de distribution
 - **Lazy loading des images** — les images se chargent seulement quand l'utilisateur scrolle
@@ -164,7 +167,7 @@ Google observe comment les utilisateurs interagissent avec votre site.
 
 Taux de rebond élevé + temps court sur la page = signal négatif.
 
-**Pour améliorer l'UX :**
+Pour améliorer l'UX :
 
 - Menus clairs et intuitifs
 - Breadcrumbs pour aider la navigation
@@ -173,13 +176,13 @@ Taux de rebond élevé + temps court sur la page = signal négatif.
 
 ---
 
-## Mon Approche — Résultats Concrets
+## Résultats Concrets sur Mes Projets
 
-**Projet A** : Augmentation du trafic organique de **150%** en 6 mois grâce à une optimisation on-page et une stratégie de backlinks.
+**Projet A** : +**150% de trafic organique** en 6 mois grâce à une optimisation on-page et une stratégie de backlinks.
 
-**Projet B** : Amélioration du taux de conversion de **30%** grâce à une refonte du contenu et du maillage interne.
+**Projet B** : +**30% de taux de conversion** grâce à une refonte du contenu et du maillage interne.
 
-**Projet C** : En identifiant des mots-clés de longue traîne ignorés, j'ai créé du contenu ultra-ciblé. Résultat : **+200% de trafic organique en 3 mois**.
+**Projet C** : en identifiant des mots-clés de longue traîne ignorés, j'ai créé du contenu ultra-ciblé. Résultat : **+200% de trafic organique en 3 mois**.
 
 ---
 
@@ -202,7 +205,7 @@ Taux de rebond élevé + temps court sur la page = signal négatif.
 
 ---
 
-## Outils Indispensables
+## Les 5 Outils Indispensables
 
 - **Google Search Console** — surveiller les performances et détecter les erreurs
 - **SEMrush** — recherche de mots-clés et analyse concurrence
@@ -218,6 +221,6 @@ Le SEO on-page, c'est la fondation de tout.
 
 Avant de vous lancer dans une stratégie de backlinks, assurez-vous que chaque page de votre site est parfaitement optimisée.
 
-En appliquant ces techniques — des **URLs** propres au **maillage interne** efficace, en passant par les **balises** et la **vitesse** — vous maximisez le référencement naturel de votre site.
+Des **URLs** propres au **maillage interne** efficace, en passant par les **balises** et la **vitesse** — chaque détail compte.
 
 Si vous souhaitez un audit personnalisé de votre site, [contactez-moi](https://miarofandresena.github.io/contact). Je suis là pour vous aider à booster votre référencement et à atteindre vos objectifs.

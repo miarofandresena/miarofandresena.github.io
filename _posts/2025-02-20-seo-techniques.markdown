@@ -8,15 +8,17 @@ tags:   Web
 description: "Techniques SEO avancées, méthodes d'optimisation on-page et off-page, et conseils concrets pour booster votre référencement naturel. Du vrai, pas du remplissage."
 ---
 
-Je vais être direct avec vous.
+Je vais être direct.
 
-La plupart des articles sur le SEO à Madagascar vous donnent les mêmes conseils génériques copiés-collés de blogs américains. "Faites du contenu de qualité." "Obtenez des backlinks." Merci, très utile.
+La plupart des articles sur le SEO vous donnent les mêmes conseils génériques copiés-collés de blogs américains. "Faites du contenu de qualité." "Obtenez des backlinks."
+
+Merci, très utile.
 
 Ce n'est pas ce que vous allez lire ici.
 
-Dans cet article, je partage **exactement ce que j'applique** sur mes propres projets et ceux de mes clients — avec des chiffres réels, des erreurs avouées, et des étapes concrètes que vous pouvez implémenter aujourd'hui.
+Dans cet article, je partage **exactement ce que j'applique** sur mes projets et ceux de mes clients — avec des chiffres réels, des erreurs avouées, et des étapes concrètes que vous pouvez implémenter aujourd'hui.
 
-Pas de théorie creuse. Pas de raccourcis miracles. Juste du SEO qui fonctionne.
+Pas de théorie creuse. Pas de raccourcis miracles.
 
 ---
 
@@ -26,25 +28,25 @@ Voici ce que j'observe régulièrement : le contenu est bon, l'équipe est motiv
 
 Pourquoi ?
 
-Parce que la fondation technique est bancale.
+La fondation technique est bancale.
 
 Le **SEO technique**, c'est s'assurer que Google peut entrer chez vous, se repérer, et comprendre ce que vous proposez.
 
-**Les 5 piliers que j'inspecte systématiquement :**
+Les 5 piliers que j'inspecte systématiquement :
 
-- **L'architecture du site** — N'importe quelle page est-elle accessible en 3 clics depuis la homepage ?
-- **La vitesse de chargement** — Sur mobile avec une connexion 3G malgache, ça charge en moins de 3 secondes ?
+- **L'architecture du site** — n'importe quelle page est-elle accessible en 3 clics depuis la homepage ?
+- **La vitesse de chargement** — sur mobile, ça charge en moins de 3 secondes ?
 - **La compatibilité mobile** — Google indexe d'abord la version mobile. Si elle est cassée, tout le reste ne sert à rien.
 - **Le code propre** — CSS et JavaScript minifiés, mise en cache activée, images compressées.
-- **Les données structurées** — Le schema markup qui dit à Google "cette page, c'est un article / une fiche produit / un événement."
+- **Les données structurées** — le schema markup qui dit à Google "cette page, c'est un article / une fiche produit / un événement."
 
 > **Ce que signifie "SEO technique" concrètement :** l'ensemble des optimisations qui permettent aux moteurs de recherche de crawler, indexer et comprendre votre site sans obstacle. Aucun contenu brillant ne compense une fondation technique défaillante.
 
-J'explore en détail ma philosophie de la visibilité en ligne sur [ma page dédiée au SEO](https://miarofandresena.github.io/seo) — mais plongeons directement dans les techniques.
+J'explore ma philosophie complète de la visibilité en ligne sur [ma page dédiée au SEO](https://miarofandresena.github.io/seo) — mais plongeons directement dans les techniques.
 
 ---
 
-## Ce qui a Changé, Ce qui ne Change Pas
+## Ce Qui a Changé, Ce Qui Ne Change Pas
 
 ### Du Keyword Stuffing aux Algorithmes Intelligents
 
@@ -56,7 +58,7 @@ Les mises à jour Google Panda, Penguin, Hummingbird — et plus récemment les 
 
 L'algorithme ne cherche plus "est-ce que ce mot-clé est présent ?" Il cherche "est-ce que cette page répond vraiment à l'intention de recherche ?"
 
-### Ce qui, lui, ne change pas
+### Ce Qui Ne Change Pas
 
 Voici la bonne nouvelle :
 
@@ -82,35 +84,35 @@ Les outils que j'utilise au quotidien :
 - **SEMrush** — pour voir exactement ce que font mes concurrents
 - **Ahrefs** — imbattable pour les opportunités cachées
 
-La règle d'or : un mot-clé qui convertit vaut mieux que dix mots-clés qui génèrent du trafic vide.
+**La règle d'or** : un mot-clé qui convertit vaut mieux que dix mots-clés qui génèrent du trafic vide.
 
 ### La Structuration du Contenu
 
 - **H1 unique** — une seule fois, contient le mot-clé principal
 - **H2 et H3** — structurent les sous-thèmes, intègrent les variantes sémantiques
 - **Méta description** — 150-160 caractères maximum, avec un appel à l'action clair
-- **Contenu en profondeur** — pas de remplissage, mais une vraie réponse complète à l'intention de recherche
+- **Contenu en profondeur** — pas de remplissage, une vraie réponse complète à l'intention de recherche
 
 ### L'Optimisation des Images
 
 Une image non optimisée peut à elle seule doubler votre temps de chargement.
 
-**Mon process systématique :**
+Mon process :
 
-- Format **WebP** prioritairement (30-40% plus léger que JPEG)
+- Format **WebP** prioritairement — 30 à 40% plus léger que JPEG
 - Compression avant upload — j'utilise Squoosh ou ShortPixel
 - **Balise ALT descriptive** sur chaque image
 
 ### Le Maillage Interne
 
-Le maillage interne, c'est simplement créer des liens entre vos propres pages.
+Le maillage interne, c'est créer des liens entre vos propres pages.
 
 Ça fait trois choses simultanément :
 1. Aide Google à découvrir toutes vos pages
 2. Distribue l'autorité vers vos pages plus faibles
 3. Garde les visiteurs plus longtemps sur votre site
 
-**Mes stratégies préférées :**
+Mes stratégies préférées :
 
 - **Liens contextuels** — dans le corps de l'article, vers du contenu complémentaire
 - **Navigation claire** — menus bien structurés, breadcrumbs sur chaque page
@@ -122,17 +124,17 @@ Le maillage interne, c'est simplement créer des liens entre vos propres pages.
 
 ### Les Backlinks : La Qualité Écrase la Quantité
 
-Un seul lien depuis un site malgache reconnu vaut mille fois plus que 100 liens depuis des annuaires douteux.
+Un seul lien depuis un site reconnu vaut mille fois plus que 100 liens depuis des annuaires douteux.
 
 C'est brutal, mais c'est la réalité.
 
-**Les stratégies qui fonctionnent vraiment :**
+Les stratégies qui fonctionnent vraiment :
 
 - **Guest blogging** — j'écris des articles invités sur des blogs influents du secteur en échange d'un lien
 - **Partenariats stratégiques** — vous leur apportez de la valeur, ils vous donnent un lien
 - **Contenu digne d'être cité** — études de cas avec de vraies données, guides pratiques uniques
 
-La règle absolue : jamais acheter des backlinks en masse. Les gains sont à court terme. Les pénalités peuvent durer des années.
+**La règle absolue** : jamais acheter des backlinks en masse. Les gains sont à court terme. Les pénalités peuvent durer des années.
 
 ### Les Signaux Sociaux
 
@@ -170,7 +172,7 @@ Les outils que j'utilise :
 
 Depuis 2021, Google évalue officiellement trois indicateurs :
 
-- **LCP** (Largest Contentful Paint) — Objectif : moins de 2,5 secondes.
+- **LCP** (Largest Contentful Paint) — objectif : moins de 2,5 secondes.
 - **FID/INP** — réactivité à la première interaction. Objectif : moins de 100ms.
 - **CLS** (Cumulative Layout Shift) — stabilité visuelle. Objectif : moins de 0,1.
 
@@ -180,43 +182,52 @@ Si ces scores sont mauvais, votre positionnement en souffre. Point.
 
 Le schema markup, c'est du code qui dit à Google exactement ce que contient votre page.
 
-Résultat concret : des **rich snippets** dans les résultats — étoiles d'avis, horaires, prix, FAQ directement affichés.
+Résultat : des **rich snippets** dans les résultats — étoiles d'avis, horaires, prix, FAQ directement affichés.
 
 Dans certains de mes projets, implémenter le schema a augmenté le taux de clic de 20 à 35% **sans bouger d'une position**.
 
 ---
 
-## Comment je Mène une Intervention Technique SEO
+## Comment Je Mène une Intervention Technique SEO
 
 **Étape 1 — Audit complet (jour 1-2)**
+
 Je crawle le site entier avec Screaming Frog et Google Search Console. Je cherche : erreurs 404, redirections en chaîne, pages lentes, balises dupliquées, contenu mince.
 
 **Étape 2 — Priorisation par impact**
+
 Tout ne mérite pas la même urgence. Je classe chaque problème par : impact sur l'indexation × facilité de correction.
 
 **Étape 3 — Corrections techniques**
+
 Dans l'ordre : minification du code, activation du cache, compression des images, correction des redirections, mise en place du schema markup.
 
 **Étape 4 — Tests et mesure**
+
 Je ne suppose pas que ça marche. Je mesure. Google Search Console après 4 semaines, comparaison des Core Web Vitals avant/après.
 
 **Étape 5 — Itération**
+
 Le SEO n'est pas un projet ponctuel. C'est un processus continu.
 
 ---
 
 ## Ce que Mes Projets Ont Vraiment Donné
 
-### Projet A — Site e-commerce malgache
+### Projet A — Site e-commerce
 
 **Problème :** bon trafic direct, trafic organique quasi nul.
+
 **Actions :** audit technique complet, restructuration de l'architecture, création de 40 pages de contenu ciblé, stratégie de backlinks via guest blogging.
+
 **Résultat après 6 mois :** +150% de trafic organique.
 
 ### Projet B — Site de services professionnels
 
 **Problème :** bon positionnement, mais taux de conversion de 2%.
+
 **Actions :** refonte du maillage interne, amélioration de la vitesse (de 8s à 2,3s), restructuration des pages de services.
+
 **Résultat :** taux de conversion passé à 5%. +30% de leads sans augmenter le trafic.
 
 ### Le Cas le Plus Intéressant
@@ -259,7 +270,7 @@ Résultat en 3 mois : **+200% de trafic organique**.
 
 ---
 
-## Checklist — Ce que Vous Pouvez Faire Maintenant
+## Ce que Vous Pouvez Faire Maintenant
 
 **Cette semaine :**
 - [ ] Ouvrez Google Search Console. Regardez les erreurs de couverture. Corrigez les erreurs 404.
@@ -282,6 +293,6 @@ Résultat en 3 mois : **+200% de trafic organique**.
 
 Le SEO n'est pas de la magie. C'est de la méthode, de la rigueur, et de la patience.
 
-Mais quand ça marche — et ça marche — c'est le canal d'acquisition le plus rentable qui existe. Un contenu bien positionné génère du trafic 24h/24, 7j/7, sans que vous ayez à payer pour chaque clic.
+Mais quand ça marche — et ça marche — c'est le canal d'acquisition le plus rentable qui existe. Un contenu bien positionné génère du trafic 24h/24, 7j/7, sans payer pour chaque clic.
 
 Si vous voulez que j'audite votre site ou simplement poser des questions — [contactez-moi directement](https://miarofandresena.github.io/contact). Je vous répondrai personnellement.
