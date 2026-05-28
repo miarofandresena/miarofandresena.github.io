@@ -1,29 +1,35 @@
 {% comment %}
   FICHIER : _includes/schema-markup.html
-  IMPORTANT : Les accolades dans l'URL SearchAction sont échappées
-  avec {% raw %}...{% endraw %} pour éviter l'interprétation Liquid.
+  Schémas JSON-LD contextuels — base globale + blocs conditionnels par type de page
 {% endcomment %}
+
+<!-- Base : Person + LocalBusiness + WebSite (toutes les pages) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://miarofandresena.github.io/#person",
+      "@id": "{{ site.url }}/#person",
       "name": "Miaro Fandresena",
       "givenName": "Miaro",
       "familyName": "Fandresena",
       "jobTitle": "Consultant SEO Madagascar",
-      "description": "Expert en SEO, GEO et stratégie digitale bas\u00e9 \u00e0 Antananarivo, Madagascar. 6 ans d'exp\u00e9rience, 50+ sites optimis\u00e9s.",
-      "url": "https://miarofandresena.github.io/",
-      "email": "miarofandresena@gmail.com",
-      "telephone": "+261343388363",
+      "description": "Expert en SEO, GEO et stratégie digitale basé à Antananarivo, Madagascar. 6 ans d'expérience, 50+ sites optimisés.",
+      "url": "{{ site.url }}/about/",
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/assets/images/about/author.jpg"
+      },
+      "email": "{{ site.data.settings.email }}",
+      "telephone": "{{ site.data.settings.phone }}",
       "sameAs": [
         "https://www.linkedin.com/in/miaro-fandresena-rafanomezaniavo-574208161",
         "https://web.facebook.com/miarofandresena.rafanomezaniavo",
         "https://github.com/miarofandresena"
       ],
-      "knowsAbout": ["SEO", "GEO", "R\u00e9f\u00e9rencement naturel", "Audit SEO", "Netlinking", "Google AI Overviews", "Core Web Vitals", "Schema.org", "WordPress"],
+      "knowsAbout": ["SEO", "GEO", "Référencement naturel", "Audit SEO", "Netlinking", "Google AI Overviews", "Core Web Vitals", "Schema.org", "WordPress"],
+      "worksFor": { "@id": "{{ site.url }}/#business" },
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Sabotsy Namehana",
@@ -33,18 +39,20 @@
     },
     {
       "@type": "LocalBusiness",
-      "@id": "https://miarofandresena.github.io/#business",
-      "name": "Miaro Fandresena \u2013 Consultant SEO Madagascar",
-      "url": "https://miarofandresena.github.io/",
-      "description": "Services SEO complets \u00e0 Madagascar : audit SEO, strat\u00e9gie de contenu GEO, netlinking, optimisation technique et cr\u00e9ation de sites WordPress. Expert bas\u00e9 \u00e0 Antananarivo.",
-      "telephone": "+261343388363",
-      "email": "miarofandresena@gmail.com",
-      "priceRange": "\u20ac\u20ac",
+      "@id": "{{ site.url }}/#business",
+      "name": "Miaro Fandresena – Consultant SEO Madagascar",
+      "url": "{{ site.url }}/",
+      "description": "Services SEO complets à Madagascar : audit SEO, stratégie de contenu GEO, netlinking, optimisation technique et création de sites WordPress. Expert basé à Antananarivo.",
+      "telephone": "{{ site.data.settings.phone }}",
+      "email": "{{ site.data.settings.email }}",
+      "priceRange": "€€",
+      "founder": { "@id": "{{ site.url }}/#person" },
+      "employee": [{ "@id": "{{ site.url }}/#person" }],
       "areaServed": [
-        {"@type": "Country", "name": "Madagascar"},
-        {"@type": "Country", "name": "France"},
-        {"@type": "Country", "name": "Belgique"},
-        {"@type": "Country", "name": "Suisse"}
+        { "@type": "Country", "name": "Madagascar" },
+        { "@type": "Country", "name": "France" },
+        { "@type": "Country", "name": "Belgique" },
+        { "@type": "Country", "name": "Suisse" }
       ],
       "address": {
         "@type": "PostalAddress",
@@ -56,77 +64,201 @@
         "@type": "OfferCatalog",
         "name": "Services SEO Madagascar",
         "itemListElement": [
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Audit SEO complet"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Strat\u00e9gie de contenu et GEO"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Netlinking et autorit\u00e9 de domaine"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "SEO technique avanc\u00e9"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Cr\u00e9ation de site web SEO-First"}},
-          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Reporting et suivi mensuel"}}
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Audit SEO complet" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stratégie de contenu et GEO" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Netlinking et autorité de domaine" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SEO technique avancé" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Création de site web SEO-First" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reporting et suivi mensuel" } }
         ]
       }
     },
     {
       "@type": "WebSite",
-      "@id": "https://miarofandresena.github.io/#website",
-      "name": "Miaro Fandresena \u2013 Consultant SEO Madagascar",
-      "url": "https://miarofandresena.github.io/",
+      "@id": "{{ site.url }}/#website",
+      "name": "Miaro Fandresena – Consultant SEO Madagascar",
+      "url": "{{ site.url }}/",
       "inLanguage": "fr-FR",
-      "publisher": {"@id": "https://miarofandresena.github.io/#person"}
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://miarofandresena.github.io/#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Pourquoi choisir Miaro Fandresena comme consultant SEO \u00e0 Madagascar ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Miaro Fandresena est un expert SEO bas\u00e9 \u00e0 Antananarivo avec 6 ans d'exp\u00e9rience en r\u00e9f\u00e9rencement naturel, audit technique, strat\u00e9gie de contenu et optimisation GEO. Il offre un accompagnement personnalis\u00e9, des r\u00e9sultats mesurables et un audit SEO gratuit pour d\u00e9marrer."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Qu'est-ce que le GEO et pourquoi est-ce important en 2026 ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Le GEO (Generative Engine Optimization) est l'optimisation pour \u00eatre cit\u00e9 dans les r\u00e9sum\u00e9s IA de Google AI Overviews, Gemini, Perplexity et ChatGPT. En 2026, ces IA r\u00e9pondent directement \u00e0 plus de 50% des recherches Google."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Combien de temps faut-il pour voir des r\u00e9sultats SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Les corrections techniques produisent des effets en 2 \u00e0 4 semaines. Les premiers gains de positions significatifs apparaissent g\u00e9n\u00e9ralement entre 3 et 6 mois."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quel est le prix d'un consultant SEO \u00e0 Madagascar ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Les tarifs varient selon la complexit\u00e9 du projet. Miaro Fandresena propose des prestations sur-mesure comp\u00e9titives. Un premier audit SEO gratuit est offert pour d\u00e9marrer."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Quels sont les 3 piliers du SEO ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Le SEO repose sur 3 piliers : le SEO technique (vitesse, Core Web Vitals), le SEO on-page (contenu, mots-cl\u00e9s, E-E-A-T) et le SEO off-page (netlinking, autorit\u00e9 de domaine). En 2026, le GEO s'ajoute comme 4e pilier pour les IA g\u00e9n\u00e9ratives."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Miaro Fandresena travaille-t-il avec des clients hors Madagascar ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Oui. Miaro Fandresena travaille avec des clients en France, Belgique, Suisse, Canada et dans l'Oc\u00e9an Indien, \u00e0 des tarifs comp\u00e9titifs gr\u00e2ce \u00e0 son positionnement \u00e0 Madagascar."
-          }
-        }
-      ]
+      "publisher": { "@id": "{{ site.url }}/#person" }
     }
   ]
 }
 </script>
+
+{% if page.url == "/" %}
+<!-- FAQPage — Page d'accueil uniquement -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "{{ site.url }}/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pourquoi choisir Miaro Fandresena comme consultant SEO à Madagascar ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Miaro Fandresena est un expert SEO basé à Antananarivo avec 6 ans d'expérience en référencement naturel, audit technique, stratégie de contenu et optimisation GEO. Il offre un accompagnement personnalisé, des résultats mesurables et un audit SEO gratuit pour démarrer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le GEO et pourquoi est-ce important en 2026 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le GEO (Generative Engine Optimization) est l'optimisation pour être cité dans les résumés IA de Google AI Overviews, Gemini, Perplexity et ChatGPT. En 2026, ces IA répondent directement à plus de 50% des recherches Google."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien de temps faut-il pour voir des résultats SEO ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les corrections techniques produisent des effets en 2 à 4 semaines. Les premiers gains de positions significatifs apparaissent généralement entre 3 et 6 mois."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le prix d'un consultant SEO à Madagascar ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les tarifs varient selon la complexité du projet. Miaro Fandresena propose des prestations sur-mesure compétitives. Un premier audit SEO gratuit est offert pour démarrer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les 3 piliers du SEO ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le SEO repose sur 3 piliers : le SEO technique (vitesse, Core Web Vitals), le SEO on-page (contenu, mots-clés, E-E-A-T) et le SEO off-page (netlinking, autorité de domaine). En 2026, le GEO s'ajoute comme 4e pilier pour les IA génératives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Miaro Fandresena travaille-t-il avec des clients hors Madagascar ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Miaro Fandresena travaille avec des clients en France, Belgique, Suisse, Canada et dans l'Océan Indien, à des tarifs compétitifs grâce à son positionnement à Madagascar."
+      }
+    }
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == "about-temp" %}
+<!-- ProfilePage — Page À propos uniquement -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ site.url }}/about/",
+  "url": "{{ site.url }}/about/",
+  "name": "À propos — Miaro Fandresena, Consultant SEO Madagascar",
+  "description": "Consultant SEO basé à Antananarivo avec 6 ans d'expérience. Audit technique, stratégie de contenu E-E-A-T, netlinking White Hat et GEO pour des résultats durables.",
+  "inLanguage": "fr-FR",
+  "isPartOf": { "@id": "{{ site.url }}/#website" },
+  "about": { "@id": "{{ site.url }}/#person" },
+  "mainEntity": { "@id": "{{ site.url }}/#person" }
+}
+</script>
+<!-- FAQPage — Page À propos uniquement -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "{{ site.url }}/about/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Combien d'années d'expérience Miaro Fandresena a-t-il en SEO ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Miaro Fandresena exerce en tant que consultant SEO depuis 2019, soit plus de 6 ans d'expérience dans le référencement naturel, le développement web et la stratégie digitale à Madagascar et pour des clients francophones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la méthode SEO de Miaro Fandresena ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La méthode repose sur trois piliers : audit SEO technique complet, stratégie de contenu E-E-A-T (Expertise, Expérience, Autorité, Fiabilité) et netlinking White Hat. En 2026, le GEO (Generative Engine Optimization) s'y ajoute pour optimiser la visibilité dans les résumés IA comme Google AI Overviews, Gemini et Perplexity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Miaro Fandresena peut-il intervenir directement dans le code du site ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Formé en développement web avant de se spécialiser en SEO, Miaro Fandresena peut corriger directement les problèmes techniques : vitesse de chargement, architecture du code, données structurées Schema.org, Core Web Vitals et optimisation mobile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien de sites a-t-il optimisés ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Miaro Fandresena a optimisé plus de 50 sites web pour des entreprises malgaches et des clients francophones (France, Belgique, Suisse), du commerce local à l'e-commerce international."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Propose-t-il un audit SEO gratuit ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Miaro Fandresena offre un audit SEO gratuit en premier contact pour évaluer le potentiel de visibilité d'un site et identifier les axes d'amélioration prioritaires avant tout engagement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Travaille-t-il uniquement avec des entreprises malgaches ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Bien que basé à Antananarivo, Miaro Fandresena accompagne des clients en France, Belgique, Suisse et dans l'Océan Indien. Son positionnement à Madagascar lui permet d'offrir une expertise senior à des tarifs compétitifs pour les PME francophones."
+      }
+    }
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == "post" %}
+{% assign post_full_url = site.url | append: page.url %}
+{% if page.image %}{% assign post_img_url = site.url | append: page.image %}{% else %}{% assign post_img_url = site.url | append: "/assets/images/about/author.jpg" %}{% endif %}
+{% assign post_keywords = page.tags | join: "," %}
+{% if post_keywords == "" %}{% assign post_keywords = "SEO, Madagascar, référencement naturel" %}{% endif %}
+<!-- BlogPosting — Articles de blog uniquement -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "{{ post_full_url }}",
+  "url": "{{ post_full_url }}",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: "" | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "inLanguage": "fr-FR",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ post_img_url }}",
+    "width": 1200,
+    "height": 630
+  },
+  "author": {
+    "@id": "{{ site.url }}/#person"
+  },
+  "publisher": {
+    "@id": "{{ site.url }}/#person"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ post_full_url }}"
+  },
+  "isPartOf": {
+    "@id": "{{ site.url }}/#website"
+  },
+  "keywords": {{ post_keywords | jsonify }}
+}
+</script>
+{% endif %}

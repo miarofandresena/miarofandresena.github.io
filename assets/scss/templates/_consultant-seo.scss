@@ -1,0 +1,194 @@
+// Consultant SEO Madagascar landing page
+
+// Hero
+.csl-hero {
+  padding: 160px 0 100px;
+  overflow: hidden;
+
+  @include desktop {
+    padding: 100px 0 80px;
+  }
+
+  @include tablet {
+    padding: 80px 0 60px;
+  }
+
+  .bg-shape-1 { position: absolute; left: 0; top: 0; }
+  .bg-shape-2 { position: absolute; left: 70px; top: 100px; }
+  .bg-shape-6 { position: absolute; bottom: 100px; right: -100px; }
+}
+
+.csl-hero-eyebrow {
+  font-size: .85rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  opacity: .85;
+  margin-bottom: 1.2rem;
+}
+
+.csl-hero-title {
+  font-size: 2.6rem;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+
+  @include tablet {
+    font-size: 2rem;
+  }
+}
+
+.csl-hero-sub {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  opacity: .9;
+  max-width: 720px;
+  margin: 0 auto 2rem;
+
+  @include tablet {
+    font-size: 1rem;
+  }
+}
+
+.csl-hero-ctas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .75rem;
+}
+
+// Offer cards
+.csl-offer-card {
+  transition: transform .2s ease, box-shadow .2s ease;
+  position: relative;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,.12) !important;
+  }
+
+  &.csl-offer-featured {
+    border: 2px solid $primary-color;
+    transform: translateY(-6px);
+
+    &:hover {
+      transform: translateY(-10px);
+    }
+  }
+}
+
+.csl-offer-badge {
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: $primary-color;
+  color: $white;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  padding: .3rem .9rem;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+
+.csl-offer-price {
+  font-size: 1rem;
+  color: $text-color-dark;
+
+  strong {
+    font-size: 1.25rem;
+  }
+}
+
+.csl-offer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: .35rem 0;
+    font-size: .9rem;
+    color: $text-color;
+    display: flex;
+    align-items: flex-start;
+  }
+}
+
+// Method step cards
+.csl-step-card {
+  background: $white;
+  border-radius: 8px;
+  box-shadow: 0 2px 20px rgba(0,0,0,.06);
+  height: 100%;
+  transition: transform .2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+}
+
+.csl-step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba($primary-color, .1);
+  color: $primary-color;
+  font-size: 1.4rem;
+  font-weight: 800;
+  font-family: $secondary-font;
+  margin: 0 auto;
+}
+
+// Tools row
+.csl-tools-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  justify-content: center;
+}
+
+.csl-tool-badge {
+  display: inline-block;
+  padding: .45rem 1rem;
+  border-radius: 30px;
+  border: 1.5px solid $border-color;
+  font-size: .85rem;
+  font-weight: 600;
+  color: $text-color-dark;
+  background: $white;
+  transition: .2s ease;
+
+  &:hover {
+    border-color: $primary-color;
+    color: $primary-color;
+  }
+}
+
+// Final CTA section
+.csl-cta-final {
+  padding: 100px 0;
+
+  @include tablet {
+    padding: 70px 0;
+  }
+}
+
+.csl-cta-sub {
+  font-size: 1.1rem;
+  opacity: .9;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+// Section eyebrow label (used across landing pages)
+.section-eyebrow {
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: $primary-color;
+  margin-bottom: .5rem;
+}

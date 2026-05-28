@@ -12,6 +12,7 @@ address: Sabotsy Namehana, Antananarivo, Madagascar
 copyright: Copyright &copy; Miaro Fandresena 2026
 
 menu:
+  - { name: Consultant SEO, link: "/consultant-seo-madagascar" }
   - { name: A propos, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }

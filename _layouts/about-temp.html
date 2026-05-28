@@ -83,3 +83,94 @@ layout: default
 {% include skills-section.html %}
 {% include experience-section.html %}
 {% include education-section.html %}
+
+<!-- FAQ À propos -->
+<section class="section about-faq bg-gray">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h2 class="section-title text-center">Questions fréquentes</h2>
+
+        <div class="faq-item" data-aos="fade-up" data-aos-delay="0">
+          <button class="faq-question" aria-expanded="false">
+            Combien d'années d'expérience avez-vous en SEO ?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>Je travaille en SEO depuis 2019, soit plus de 6 ans d'expérience dans le référencement naturel, le développement web et la stratégie digitale — pour des entreprises malgaches et des clients francophones en France, Belgique et Suisse.</p>
+          </div>
+        </div>
+
+        <div class="faq-item" data-aos="fade-up" data-aos-delay="50">
+          <button class="faq-question" aria-expanded="false">
+            Quelle est votre méthode de travail ?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>Chaque projet commence par un <strong>audit SEO complet</strong>. Ensuite j'interviens sur trois piliers : SEO technique (vitesse, indexation, Core Web Vitals), contenu E-E-A-T et netlinking White Hat. En 2026, j'y intègre le <strong>GEO</strong> pour optimiser la visibilité dans les résumés IA (Google AI Overviews, Gemini, Perplexity).</p>
+          </div>
+        </div>
+
+        <div class="faq-item" data-aos="fade-up" data-aos-delay="100">
+          <button class="faq-question" aria-expanded="false">
+            Pouvez-vous intervenir directement dans le code du site ?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>Oui. Formé en développement web avant de me spécialiser en SEO, je corrige directement les problèmes techniques dans le code : architecture, vitesse de chargement, données structurées Schema.org, balises canoniques, optimisation mobile. Pas besoin de passer par un développeur séparé pour les corrections SEO techniques.</p>
+          </div>
+        </div>
+
+        <div class="faq-item" data-aos="fade-up" data-aos-delay="150">
+          <button class="faq-question" aria-expanded="false">
+            Combien de sites avez-vous optimisés ?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>Plus de <strong>50 sites web</strong> optimisés depuis 2019, du commerce local à l'e-commerce international. Des entreprises malgaches aux PME francophones en France et en Belgique, dans des secteurs variés : services, immobilier, e-commerce, médias.</p>
+          </div>
+        </div>
+
+        <div class="faq-item" data-aos="fade-up" data-aos-delay="200">
+          <button class="faq-question" aria-expanded="false">
+            Proposez-vous un audit SEO gratuit ?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>Oui. Pour tout premier contact, j'offre un <strong>audit SEO gratuit</strong> pour évaluer le potentiel de visibilité de votre site et identifier les axes d'amélioration prioritaires — avant tout engagement commercial.</p>
+          </div>
+        </div>
+
+        <div class="faq-item" data-aos="fade-up" data-aos-delay="250">
+          <button class="faq-question" aria-expanded="false">
+            Travaillez-vous uniquement avec des entreprises à Madagascar ?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer">
+            <p>Non. Bien que basé à Antananarivo, j'accompagne des clients en <strong>France, Belgique, Suisse</strong> et dans l'Océan Indien. Mon positionnement à Madagascar me permet d'offrir une expertise senior à des tarifs compétitifs — en moyenne 3 à 5 fois moins chers qu'une agence parisienne équivalente.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /FAQ À propos -->
+
+<script>
+(function () {
+  document.querySelectorAll('.faq-question').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      document.querySelectorAll('.faq-question').forEach(function (b) {
+        b.setAttribute('aria-expanded', 'false');
+        b.closest('.faq-item').classList.remove('faq-open');
+      });
+      if (!expanded) {
+        this.setAttribute('aria-expanded', 'true');
+        this.closest('.faq-item').classList.add('faq-open');
+      }
+    });
+  });
+})();
+</script>
