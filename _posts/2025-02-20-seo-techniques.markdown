@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mes Techniques SEO : Ce Qui Marche Vraiment (Testé sur des Vrais Projets)"
-date:   2026-05-27 10:05:55 +0300
+date:   2025-02-20 10:05:55 +0300
 image:  /assets/images/blog/seo-techniques.webp
 author: Miaro
 tags:   Web

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEO à Madagascar : Ma Méthode Concrète pour Dominer Google (Sans Budget Pub)"
-date: 2026-05-27 10:05:55 +0300
+date: 2025-02-11 10:05:55 +0300
 image: /assets/images/blog/SEO.webp
 author: Miaro
 tags: Web

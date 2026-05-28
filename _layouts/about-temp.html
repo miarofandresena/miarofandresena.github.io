@@ -33,23 +33,53 @@ layout: default
         </div>
         <img src="{{ site.baseurl }}/{{ page.signature }}" alt="signature" class="img-fluid">
         <h4>{{ page.author }}</h4>
+        <p class="text-light">Consultant SEO — Antananarivo, Madagascar</p>
+        <div class="about-social mt-3">
+          {% for social in site.data.settings.social %}
+          <a href="{{ social.link }}" target="_blank" rel="noopener" class="about-social-link">
+            <i class="{{ social.icon }}"></i>
+          </a>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
 </section>
 <!-- /about -->
 
-<!-- {% include work-process-section.html %} -->
-
-<!-- {% include team-section.html %} -->
-  
-<!-- <section class="section">
+<!-- stats -->
+<section class="section about-stats bg-gray py-5">
   <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Mes Clients</h2>
+    <div class="row text-center">
+      <div class="col-lg-3 col-md-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="0">
+        <div class="stat-item">
+          <span class="stat-number">6+</span>
+          <p class="stat-label">Années d'expérience</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
+        <div class="stat-item">
+          <span class="stat-number">50+</span>
+          <p class="stat-label">Sites optimisés</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-4 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+        <div class="stat-item">
+          <span class="stat-number">3</span>
+          <p class="stat-label">Piliers SEO maîtrisés</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+        <div class="stat-item">
+          <span class="stat-number text-primary">GEO</span>
+          <p class="stat-label">Optimisation IA &amp; LLM</p>
+        </div>
       </div>
     </div>
-    {% include client-slider.html %}
   </div>
-</section> -->
+</section>
+<!-- /stats -->
+
+{% include skills-section.html %}
+{% include experience-section.html %}
+{% include education-section.html %}

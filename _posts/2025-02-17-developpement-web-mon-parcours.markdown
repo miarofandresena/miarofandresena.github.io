@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Développement Web : De Zéro à Dev en 4 Ans (Mon Parcours Exact)"
-date:   2026-05-27 10:05:55 +0300
+date:   2025-02-17 10:05:55 +0300
 image:  /assets/images/blog/developpement-web.webp
 author: Miaro
 tags:   Web

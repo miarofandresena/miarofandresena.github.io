@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SEO On-Page : Mes Techniques Exactes pour Optimiser Chaque Page (Et Attirer Plus de Trafic)"
-date:   2026-05-27 10:05:55 +0300
+date:   2025-02-20 10:05:55 +0300
 image:  /assets/images/blog/seo-on-page.webp
 author: Miaro
 tags:   Web

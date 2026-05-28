@@ -1,37 +1,37 @@
 ---
 layout: about-temp
 permalink : /about/
-title: "À propos de Miaro : Passionné de Web"
+title: "À propos — Miaro Fandresena, Consultant SEO Madagascar"
 author: Miaro Fandresena Rafanomezaniavo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
-description : "Découvrez mon expertise en SEO, développement web, et marketing digital. Fort d'une expérience de plus de 4 ans, je combine technique et stratégie pour des résultats concrets."
+description : "Consultant SEO basé à Antananarivo avec 6 ans d'expérience. Audit technique, stratégie de contenu E-E-A-T, netlinking White Hat et GEO pour des résultats durables."
 ---
- 
-## Expert en Référencement Naturel (SEO) et Passionné du Web
 
-Depuis plus de quatre ans, je me consacre avec passion au monde du **référencement naturel (SEO)**. Ce domaine en constante évolution m’a permis d’acquérir une expertise approfondie dans la **gestion de sites web**, la création et la gestion de **réseaux de sites**, ainsi que dans l'optimisation de **sites d'affiliation**. Ces compétences me permettent d'améliorer non seulement la visibilité en ligne des projets sur lesquels je travaille, mais aussi d’optimiser leur performance sur les moteurs de recherche, assurant ainsi un **trafic qualifié** et des **résultats durables**.
+## 6 ans à construire des visibilités durables
 
-Si vous souhaitez découvrir certains de mes projets les plus marquants et les résultats obtenus, je vous invite à explorer mon [portfolio professionnel](https://miarofandresena.github.io/portfolio). Vous y trouverez des exemples concrets de mon travail, ainsi que les stratégies mises en place pour maximiser le retour sur investissement de chaque initiative.
+Je suis Miaro Fandresena, consultant SEO basé à **Antananarivo, Madagascar**. Depuis 2019, j'ai optimisé plus de **50 sites web** pour des entreprises malgaches et des clients francophones — du commerce local à l'e-commerce international.
 
-## Spécialiste en Marketing Digital et Influence
+Mon profil est atypique : j'ai commencé comme **développeur web** avant de me spécialiser en référencement naturel. Cette double compétence me permet de repérer — et corriger — les problèmes que beaucoup de consultants ignorent : architecture du code, vitesse de chargement, données structurées Schema.org, Core Web Vitals. Je ne me contente pas de conseiller, **j'interviens directement dans le code**.
 
-Mon engagement envers le **marketing digital** m’a conduit à développer une expertise particulière dans le **marketing d'affiliation** et le **marketing d'influence**. Travaillant étroitement avec des sites de vente, j’ai appris à maîtriser les mécanismes qui génèrent non seulement du **trafic qualifié**, mais aussi des **conversions élevées**. En tant que professionnel du marketing, je comprends l’importance d’adapter les stratégies aux spécificités de chaque marché, ce qui m’a permis de livrer des résultats exceptionnels.
+## Ma méthode : audit rigoureux + contenu E-E-A-T + netlinking White Hat
 
-Pour mieux comprendre mon rôle en tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), découvrez cette présentation complète de mon expertise, de mes services et de ma méthode de travail.
+Chaque projet commence par un **audit SEO complet**. Pas de recette générique — un diagnostic précis suivi d'une stratégie sur trois piliers :
 
-## Développeur Web et Optimiseur SEO
+**SEO technique** — Vitesse, indexation, structure des URLs, balisage Schema.org, optimisation mobile-first
 
-Fort de ma formation en **développement d'applications web**, j’ai acquis des compétences techniques solides que j’applique quotidiennement pour améliorer l’efficacité de mes stratégies SEO. La combinaison de **développement web** et de **SEO** me permet de concevoir des sites web non seulement esthétiques, mais également parfaitement optimisés pour les moteurs de recherche. De la structure du site à l’intégration des **mots-clés pertinents**, chaque élément est pensé pour maximiser la **performance SEO**.
+**Contenu E-E-A-T** — Rédaction et optimisation de contenus qui prouvent expertise, autorité et fiabilité aux yeux de Google
 
-Cette double compétence est un atout majeur pour les projets sur lesquels je travaille, car elle permet une approche holistique, où la **technique** et la **stratégie SEO** sont parfaitement alignées pour atteindre des objectifs ambitieux.
+**Netlinking White Hat** — Construction de liens entrants de qualité, durables, sans risque de pénalité algorithmique
 
-## Innovation et Stratégies de Marketing Digital
+## SEO + GEO : la visibilité de 2026
 
-Dans un secteur aussi dynamique que le **marketing digital**, il est essentiel de rester à jour avec les dernières tendances et technologies. C’est pourquoi je suis constamment à la recherche de nouvelles **stratégies de marketing digital innovantes**. Mon objectif est d’intégrer ces innovations dans mes projets pour offrir des solutions qui répondent aux besoins actuels et futurs du marché.
+En 2026, Google AI Overviews intercède sur plus de 50 % des recherches avant le clic. Être en position 1 ne suffit plus si votre contenu n'est pas **cité par l'IA**. Je maîtrise le **GEO (Generative Engine Optimization)** — l'optimisation pour apparaître dans les résumés de Google, Gemini, Perplexity et ChatGPT. C'est la prochaine frontière du référencement, et mes clients y sont déjà positionnés.
 
-## Un Parcours Unique pour des Résultats Concrets
+## Des résultats mesurables
 
-Mon parcours professionnel, alliant **développement web** et **SEO**, me permet de proposer une approche unique, à la fois **technique** et **stratégique**. Cette synergie est le gage de résultats concrets et mesurables pour chaque projet sur lequel je travaille. Mon engagement envers l’excellence se reflète dans chaque étape du processus, de la conception à l’exécution.
+Pas de promesses vagues. Premiers gains de positions significatifs entre **3 et 6 mois**, trafic organique qualifié qui progresse sans dépendance à un budget publicitaire. Retrouvez des exemples concrets dans mon [portfolio professionnel](/portfolio).
 
-Si vous souhaitez discuter d’un projet ou en savoir plus sur mes services, n’hésitez pas à [me contacter](https://miarofandresena.github.io/contact). Je suis toujours ouvert à de nouvelles opportunités de collaboration et serais ravi de discuter de la manière dont je peux contribuer à la réussite de vos projets en ligne.
+## Travaillons ensemble
+
+Entreprise malgache souhaitant dominer les résultats locaux, ou client francophone cherchant un expert SEO à tarif compétitif — je suis disponible pour discuter de votre projet. [Contactez-moi](/contact) pour démarrer par un **audit SEO gratuit**.

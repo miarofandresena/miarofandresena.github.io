@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Votre Guide Complet du Marketing Digital : Stratégies, Outils et Conseils d'Expert"
-date:   2026-05-27 10:05:55 +0300
+date:   2025-02-15 10:05:55 +0300
 image:  /assets/images/blog/marketing-digital.webp
 author: Miaro
 tags:   Web
