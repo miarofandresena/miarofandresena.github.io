@@ -1,5 +1,5 @@
 # Miaro Fandresena Rafanomezaniavo
-[Consultant SEO à Madagascar](https://miarofandresena.github.io)
+[Consultant SEO à Madagascar](https://miarofandresena.com)
 
 
 <!-- licence -->
