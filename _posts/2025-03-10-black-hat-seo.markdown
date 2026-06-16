@@ -6,7 +6,10 @@ image:  /assets/images/blog/black-hat-seo.webp
 author: Miaro
 tags:   Web
 description: "Plongez dans l'univers secret du Black Hat SEO, découvrez des histoires de pénalités, des techniques détournées et comment mes méthodes d'audit ont redressé la barre pour des sites en péril."
+sitemap: false
 ---
+
+> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.github.io/2025/03/15/white-black-gray-hat-seo/).
 
 J'ai testé le Black Hat SEO en 2021.
 

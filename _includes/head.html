@@ -14,7 +14,13 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 {% if page.title %}<meta property="og:title" content="{{ page.title }}">{% else %}<meta property="og:title" content="Consultant SEO Madagascar | Miaro Fandresena">{% endif %}
 {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="{{ site.data.settings.description }}">{% endif %}
-<meta property="og:locale" content="fr_MG">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:locale:alternate" content="fr_MG">
+<meta property="og:locale:alternate" content="fr_BE">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}">
+<link rel="alternate" hreflang="fr-MG" href="{{ site.url }}{{ page.url }}">
+<link rel="alternate" hreflang="fr-FR" href="{{ site.url }}{{ page.url }}">
+<link rel="alternate" hreflang="fr-BE" href="{{ site.url }}{{ page.url }}">
 <meta name="theme-name" content="kross-jekyll">
 {% for css in site.data.plugins.css %}<link rel="stylesheet" href="{{ css | relative_url }}">{% endfor %}
 <link href="{{ '/assets/scss/style.css' | relative_url }}" rel="stylesheet">

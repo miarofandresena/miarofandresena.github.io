@@ -6,6 +6,7 @@ image:  /assets/images/blog/seo-vocal.webp
 author: Miaro
 tags:   Web
 description: "Découvrez comment optimiser votre site pour le SEO vocal et transformez-le en star des recherches vocales."
+sitemap: false
 ---
 
 Un client est venu me voir avec un problème précis.

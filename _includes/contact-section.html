@@ -1,6 +1,19 @@
+<!-- Calendly widget script -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
 <!-- contact -->
 <section class="section section-on-footer" data-background="{{site.baseurl}}/assets/images/backgrounds/bg-dots.png">
   <div class="container">
+    <div class="row mb-5">
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="bg-white rounded p-5 shadow-down">
+          <h4 class="mb-3">Prendre un rendez-vous</h4>
+          <p class="text-muted mb-4">Réservez directement un créneau de 30 minutes pour discuter de votre projet SEO.</p>
+          <div class="calendly-inline-widget" data-url="https://calendly.com/miarofandresena/30min" style="min-width:320px;height:700px;"></div>
+        </div>
+      </div>
+    </div>
     <div class="row">
       <!-- <div class="col-12 text-center">
         <h2 class="section-title">{{ site.data.settings.contact-title }}</h2>
@@ -8,8 +21,11 @@
       <div class="col-lg-8 mx-auto">
         <div class="bg-white rounded text-center p-5 shadow-down">
           <h4 class="mb-80">Formulaire de contact</h4>
-          <form action="https://formspree.io/{{ site.data.settings.contact-info }}" method="POST" class="row">
-            <!-- <form action="https://hook.eu2.make.com/utgd8de0crcr75vpfjk5nycbhb9rp9t6" method="POST" class="row"> -->
+          <form action="https://api.web3forms.com/submit" method="POST" class="row">
+            <input type="hidden" name="access_key" value="654da77a-0cfa-4b58-9486-579b63aa2196">
+            <input type="hidden" name="subject" value="Nouveau message de contact - miarofandresena.github.io">
+            <input type="hidden" name="from_name" value="Site Miaro Fandresena">
+            <input type="hidden" name="redirect" value="https://web3forms.com/success">
             <div class="col-md-6">
               <input type="text" id="name" name="name" placeholder="Nom complet" class="form-control px-0 mb-4">
             </div>

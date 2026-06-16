@@ -6,7 +6,10 @@ image:  /assets/images/blog/gray-hat-seo.webp
 author: Miaro
 tags:   Web
 description: "Découvrez les secrets du Gray Hat SEO et comment j'ai navigué entre audace et prudence pour redéfinir la frontière entre génie et risque."
+sitemap: false
 ---
+
+> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.github.io/2025/03/15/white-black-gray-hat-seo/).
 
 En 2021, j'ai boosté un site avec une technique "presque propre".
 
