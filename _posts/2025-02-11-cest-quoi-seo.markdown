@@ -6,6 +6,17 @@ image: /assets/images/blog/SEO.webp
 author: Miaro
 tags: Web
 description: "4 ans de SEO. Des dizaines de clients. Des résultats mesurables. Je vous montre exactement comment j'améliore la visibilité en ligne de mes clients à Madagascar — étape par étape, sans jargon inutile."
+faq:
+  - q: "Le SEO, c'est vraiment gratuit ?"
+    a: "Le référencement naturel ne coûte pas de budget publicitaire par clic. Il coûte du temps — ou les honoraires d'un spécialiste. Mais contrairement aux pubs, les résultats s'accumulent et durent dans le temps."
+  - q: "Combien de temps pour voir des résultats SEO ?"
+    a: "En général, 3 à 6 mois pour des résultats significatifs sur des mots-clés compétitifs. Certaines optimisations techniques donnent des résultats visibles en quelques semaines."
+  - q: "Comment choisir ses mots-clés SEO ?"
+    a: "Pensez à ce que vos clients tapent réellement dans Google — pas à ce que vous imaginez qu'ils tapent. Utilisez Google Keyword Planner pour valider les volumes. Privilégiez systématiquement la longue traîne."
+  - q: "SEO on-page vs off-page : par quoi commencer ?"
+    a: "Toujours commencer par l'on-page. Construire des liens vers un site mal optimisé, c'est remplir un seau percé. Une fois les bases techniques et éditoriales solides, travaillez le netlinking."
+  - q: "Comment mesurer ses progrès SEO ?"
+    a: "Google Search Console (gratuit), Google Analytics 4 (gratuit), et un outil comme SEMrush ou Ahrefs. Suivez trois métriques clés : trafic organique, positions des mots-clés, taux de clics (CTR)."
 ---
 
 La plupart des articles sur le SEO sont indigestes.

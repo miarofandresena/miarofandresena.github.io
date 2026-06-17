@@ -6,6 +6,17 @@ image:  /assets/images/blog/seo-ou-geo.webp
 author: Miaro
 tags:   Web
 description: "SEO vs GEO : comprendre les différences entre référencement naturel et Generative Engine Optimization, et construire une stratégie combinée efficace en 2026."
+faq:
+  - q: "Le GEO va-t-il rendre le SEO obsolète ?"
+    a: "Non, pas à court ou moyen terme. Google continue de maintenir ses résultats organiques classiques aux côtés des AI Overviews. Les requêtes commerciales, transactionnelles et à forte intention locale résistent bien aux réponses génératives. Le SEO évolue, il ne disparaît pas."
+  - q: "Dois-je changer toute ma stratégie de contenu pour le GEO ?"
+    a: "Non, l'ajustement est marginal si votre SEO est déjà sérieux. Ajoutez des réponses directes en début d'article, structurez vos FAQ avec le Schema markup, et renforcez la visibilité de votre expertise dans le contenu. Ce n'est pas une refonte — c'est une couche supplémentaire."
+  - q: "Dois-je cibler différents mots-clés pour le GEO ?"
+    a: "Pas nécessairement différents, mais avec un angle différent. Les requêtes informationnelles (comment, qu'est-ce que, pourquoi) sont celles que les IA traitent le plus souvent en réponse directe. Les requêtes commerciales (prix, tarif, devis) restent dans la logique SEO classique."
+  - q: "Un site avec peu d'autorité peut-il quand même être cité en GEO ?"
+    a: "Oui, mais de manière limitée et sur des niches spécifiques. Si votre site est la seule source sérieuse sur un sujet très précis, les IA tendent à citer la source disponible. C'est particulièrement vrai pour des thématiques locales spécifiques à Madagascar."
+  - q: "Combien de temps faut-il pour voir des résultats GEO ?"
+    a: "Les premiers résultats GEO apparaissent généralement entre 1 et 3 mois après l'optimisation du contenu. Contrairement au SEO classique, le GEO peut progresser plus rapidement car les IA mettent à jour leurs index plus fréquemment que Google ne recrawle les pages."
 ---
 
 Il y a quelques années, le débat c'était SEO vs réseaux sociaux.

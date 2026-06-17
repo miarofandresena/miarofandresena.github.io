@@ -6,6 +6,17 @@ image:  /assets/images/blog/google-my-business-madagascar.webp
 author: Miaro
 tags:   Web
 description: "Optimisez votre fiche Google Business Profile à Madagascar en 2026 : création, photos, avis, posts et stratégie locale. Guide complet et sans bullshit par Miaro Fandresena."
+faq:
+  - q: "Google Business Profile est-il gratuit ?"
+    a: "Oui, totalement gratuit. Il n'y a aucun abonnement à payer pour créer et gérer votre fiche. Google propose des services publicitaires locaux payants, mais la fiche elle-même est gratuite."
+  - q: "Combien de temps avant de voir des résultats avec Google My Business à Madagascar ?"
+    a: "En général, quelques semaines pour les premières améliorations de visibilité après une optimisation complète. Pour apparaître dans le top 3 du Local Pack sur des mots-clés compétitifs, comptez 2 à 4 mois de travail constant."
+  - q: "Puis-je avoir plusieurs fiches Google My Business pour la même entreprise ?"
+    a: "Non. Chaque emplacement physique correspond à une fiche. Si vous avez deux boutiques dans deux quartiers différents, vous pouvez avoir deux fiches — une par adresse. Créer plusieurs fiches pour le même emplacement est sanctionné par Google."
+  - q: "Ma fiche Google My Business a été suspendue. Que faire ?"
+    a: "Les causes les plus fréquentes sont le keyword stuffing dans le nom, une adresse non vérifiable, ou trop de modifications en peu de temps. La procédure : identifiez la violation, corrigez-la, puis faites une demande de réintégration via le formulaire officiel Google."
+  - q: "Dois-je publier mes posts Google My Business en français ou en malgache ?"
+    a: "Les deux, idéalement. 57% des recherches commerciales à Madagascar se font en français, 38% en malgache. Commencez par le français si vous manquez de temps, et ajoutez progressivement du contenu en malgache."
 ---
 
 Quand un client potentiel cherche votre service sur Google à Antananarivo, il y a deux scénarios possibles.

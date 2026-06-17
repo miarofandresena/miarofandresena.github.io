@@ -6,6 +6,17 @@ image:  /assets/images/blog/seo-wordpress-mada.webp
 author: Miaro
 tags:   Web
 description: "Guide complet pour optimiser le SEO de votre site WordPress à Madagascar : thème, plugins, vitesse, on-page et pièges à éviter. Par Miaro Fandresena, consultant SEO."
+faq:
+  - q: "Yoast ou RankMath pour un débutant ?"
+    a: "RankMath si vous voulez plus de fonctionnalités gratuitement. Yoast si vous préférez une interface plus simple et une documentation plus abondante. Les deux font le travail. Le plus important : en choisir un et bien le configurer."
+  - q: "Mon site WordPress est déjà en ligne depuis 2 ans. Par où commencer ?"
+    a: "Commencez par un audit SEO de votre site. Il y a probablement des problèmes techniques accumulés — pages indexées par erreur, images non compressées, cache absent — qui freinent votre référencement. Réglez les problèmes techniques en premier. Ensuite seulement, travaillez le contenu et les backlinks."
+  - q: "Est-ce que je dois payer pour WP Rocket ou les plugins gratuits suffisent ?"
+    a: "Pour la majorité des sites malgaches, LiteSpeed Cache (gratuit) + ShortPixel (100 images/mois gratuit) + Cloudflare (gratuit) donnent d'excellents résultats sans débourser un centime. WP Rocket devient intéressant si vous avez un site e-commerce complexe ou si vous voulez gagner du temps sur la configuration."
+  - q: "Mon thème Elementor est-il mauvais pour le SEO ?"
+    a: "Pas nécessairement. Elementor lui-même génère du code un peu lourd, mais ça se compense avec une bonne configuration de cache et de compression. Le problème vient généralement du cumul : Elementor + thème lourd + plugins inutiles + images non optimisées."
+  - q: "Comment vérifier que mon SEO WordPress s'améliore ?"
+    a: "Google Search Console est votre outil principal. Suivez le nombre de pages indexées, les requêtes qui génèrent des impressions, et le taux de clic moyen. Comptez 3 à 4 mois avant de voir des résultats significatifs sur des mots-clés concurrentiels."
 ---
 
 WordPress est le CMS le plus utilisé à Madagascar.

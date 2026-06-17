@@ -6,6 +6,17 @@ image:  /assets/images/blog/cocon-semantique-seo.webp
 author: Miaro
 tags:   Web
 description: "Qu'est-ce qu'un cocon sémantique en SEO et comment le construire étape par étape ? Guide complet avec exemple concret et checklist par Miaro Fandresena."
+faq:
+  - q: "Combien de pages faut-il pour un cocon sémantique ?"
+    a: "Il n'y a pas de minimum absolu. Un cocon peut fonctionner avec 10 pages comme avec 100. Ce qui compte : la complétude thématique. En pratique, la plupart des cocons efficaces comptent entre 15 et 50 pages."
+  - q: "Un blog existant peut-il devenir un cocon sémantique ?"
+    a: "Oui. Faites l'inventaire de vos articles existants. Identifiez ceux qui peuvent constituer une page pilier, des pages de niveau 2, des pages de niveau 3. Réorganisez votre maillage interne en conséquence et complétez les niveaux manquants."
+  - q: "Est-ce que le cocon sémantique marche pour les sites e-commerce ?"
+    a: "Oui, mais l'architecture est légèrement différente. Pour un e-commerce, la page pilier peut être une page de catégorie principale, les pages de niveau 2 sont des sous-catégories, et les pages de niveau 3 sont des fiches produits ou pages de comparaison."
+  - q: "Combien de temps avant de voir des résultats avec un cocon sémantique ?"
+    a: "Comptez 3 à 6 mois pour les premiers effets mesurables sur les mots-clés de niveau 3 (longue traîne). 6 à 12 mois pour les niveaux 2. Le cocon sémantique est une stratégie de long terme — c'est une infrastructure, pas un raccourci."
+  - q: "Cocon sémantique et GEO : est-ce compatible ?"
+    a: "Très compatible. Un cocon bien construit — avec des réponses directes, des structures FAQ, une couverture thématique exhaustive — correspond exactement aux signaux que les IA génératifs recherchent pour citer une source."
 ---
 
 Vous publiez des articles depuis des mois. Votre contenu est bon. Mais vos pages n'arrivent pas à décoller sur Google.

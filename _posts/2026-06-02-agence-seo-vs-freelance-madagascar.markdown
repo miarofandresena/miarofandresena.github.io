@@ -6,6 +6,17 @@ image:  /assets/images/blog/agence-seo-vs-freelance-mada.webp
 author: Miaro
 tags:   Web
 description: "Agence SEO ou consultant freelance à Madagascar : comparatif honnête des coûts, avantages et risques pour faire le bon choix. Par Miaro Fandresena."
+faq:
+  - q: "Une agence internationale vaut-elle mieux qu'un prestataire SEO local à Madagascar ?"
+    a: "Pas nécessairement. Une agence internationale peut avoir plus de ressources, mais elle connaît rarement les spécificités du marché malgache : comportements de recherche locaux, opportunités de backlinks malgaches, contexte bilingue français/malgache. Le SEO local requiert une connaissance locale."
+  - q: "Le prix est-il un bon indicateur de qualité pour un prestataire SEO ?"
+    a: "Corrélé mais imparfaitement. Un tarif très bas est presque toujours un signal d'alarme. Un tarif élevé n'est pas une garantie. Le meilleur indicateur reste les résultats démontrables sur des projets passés."
+  - q: "Puis-je changer de prestataire SEO en cours de route ?"
+    a: "Oui, mais ça a un coût. Le nouveau prestataire doit reprendre l'historique, comprendre votre projet, auditer ce qui a été fait. Comptez 4 à 6 semaines de remontée en régime. Mieux vaut bien choisir au départ."
+  - q: "Dois-je signer un contrat SEO long ou court ?"
+    a: "Commencez par 3 mois minimum — le SEO ne produit pas de résultats en moins de temps. Évitez les engagements de 12 mois d'entrée sans avoir vu de premiers livrables. Un bon prestataire ne vous oblige pas à vous engager sur un an dès le premier contrat."
+  - q: "Est-ce qu'un freelance SEO peut sous-traiter une partie du travail ?"
+    a: "Oui, et c'est normal. La rédaction de contenu, certains aspects techniques, l'acquisition de backlinks sont des tâches que beaucoup de freelances délèguent. Ce qui compte : que le freelance garde la main sur la stratégie et que vous soyez informé."
 ---
 
 Je suis freelance. Je dois vous le dire dès le départ.

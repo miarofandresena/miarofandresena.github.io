@@ -6,6 +6,15 @@ image:  /assets/images/blog/core-web-vitals-mada.webp
 author: Miaro
 tags:   Web
 description: "Core Web Vitals 2026 : LCP, INP, CLS expliqués et optimisés pour le contexte malgache. Guide pratique avec outils, seuils et checklist par Miaro Fandresena."
+faq:
+  - q: "Qu'est-ce que les Core Web Vitals ?"
+    a: "Les Core Web Vitals sont trois métriques de performance définies par Google : LCP (Largest Contentful Paint, temps d'affichage du contenu principal), INP (Interaction to Next Paint, réactivité aux interactions) et CLS (Cumulative Layout Shift, stabilité visuelle). Depuis 2021, ces métriques sont des facteurs de classement Google."
+  - q: "Quels sont les seuils Core Web Vitals à respecter en 2026 ?"
+    a: "En 2026, les seuils recommandés sont : LCP inférieur à 2,5 secondes (bon) ou inférieur à 4 secondes (à améliorer) ; INP inférieur à 200 ms (bon) ou inférieur à 500 ms (à améliorer) ; CLS inférieur à 0,1 (bon) ou inférieur à 0,25 (à améliorer). Au-delà, Google considère l'expérience utilisateur comme mauvaise."
+  - q: "Pourquoi les Core Web Vitals sont-ils difficiles à optimiser pour les sites malgaches ?"
+    a: "Les sites malgaches font face à des défis spécifiques : connexions internet plus lentes (3G/4G instables), hébergement souvent localisé hors de Madagascar augmentant la latence, images non optimisées, et thèmes WordPress lourds. Ces facteurs aggravent les scores LCP et INP par rapport aux sites hébergés en Europe."
+  - q: "Comment améliorer rapidement les Core Web Vitals d'un site malgache ?"
+    a: "Les actions prioritaires sont : convertir les images en WebP et les compresser, activer le cache navigateur et serveur, utiliser un CDN proche de Madagascar, différer le chargement des scripts non essentiels, et réduire le CSS/JavaScript inutilisé. Ces optimisations peuvent améliorer le LCP de 40 à 60% en quelques semaines."
 ---
 
 Voici une vérité inconfortable.

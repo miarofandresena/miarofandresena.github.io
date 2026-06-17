@@ -22,7 +22,8 @@
   font-size: .85rem;
   letter-spacing: .1em;
   text-transform: uppercase;
-  opacity: .85;
+  color: #ffffff;
+  opacity: 1;
   margin-bottom: 1.2rem;
 }
 
@@ -30,6 +31,7 @@
   font-size: 2.6rem;
   line-height: 1.2;
   margin-bottom: 1.5rem;
+  color: #ffffff;
 
   @include tablet {
     font-size: 2rem;
@@ -39,7 +41,8 @@
 .csl-hero-sub {
   font-size: 1.1rem;
   line-height: 1.7;
-  opacity: .9;
+  color: #ffffff;
+  opacity: 1;
   max-width: 720px;
   margin: 0 auto 2rem;
 

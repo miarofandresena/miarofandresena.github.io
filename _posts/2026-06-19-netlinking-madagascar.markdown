@@ -6,6 +6,17 @@ image: /assets/img/netlinking-mada.webp
 author: Miaro
 tags: Web
 description: "Découvrez comment obtenir des backlinks de qualité à Madagascar : stratégies concrètes, sources locales, erreurs à éviter. Guide complet netlinking 2026."
+faq:
+  - q: "Est-ce que les liens nofollow comptent pour le SEO ?"
+    a: "Directement pour le PageRank, non. Mais ils ont deux utilités indirectes : ils diversifient votre profil de liens (un profil 100% dofollow est suspect) et ils génèrent du trafic référant réel."
+  - q: "Un lien depuis un site malgache est-il moins puissant qu'un lien français ?"
+    a: "Pas nécessairement. Ce qui compte : la pertinence thématique, l'autorité du domaine référent, et la qualité éditoriale. Un lien depuis un média malgache de référence peut valoir bien plus qu'un lien depuis un blog français de faible qualité."
+  - q: "Combien de temps avant de voir l'effet d'un nouveau backlink ?"
+    a: "Entre 2 et 8 semaines en général. Google doit crawler le site qui vous link, découvrir le nouveau lien, puis réévaluer votre page. Sur un marché peu concurrentiel comme Madagascar, les effets peuvent se voir en 3 à 4 semaines."
+  - q: "Qu'est-ce qu'un toxic link et dois-je m'en inquiéter ?"
+    a: "Un toxic link est un lien depuis un site de spam, une ferme de liens ou un PBN. Si vous en avez beaucoup, vous pouvez les désavouer dans Google Search Console. En dehors de ça, quelques liens de mauvaise qualité naturels ne vont pas vous pénaliser."
+  - q: "Les réseaux sociaux comptent-ils comme backlinks ?"
+    a: "Les liens depuis Facebook, LinkedIn et Twitter/X sont en nofollow — ils ne transmettent pas de PageRank directement. Mais ils augmentent la visibilité du contenu, ce qui peut générer des backlinks indirects depuis des personnes qui le découvrent."
 ---
 
 Voici une vérité que personne ne te dit sur le SEO à Madagascar.

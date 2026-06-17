@@ -6,6 +6,17 @@ image: /assets/images/blog/liens-internes-seo.webp
 author: Miaro
 tags: Web
 description: "Apprenez à optimiser vos liens internes pour améliorer votre crawlabilité, distribuer le PageRank et ranker plus vite sur Google. Méthode pratique étape par étape."
+faq:
+  - q: "Combien de liens internes faut-il sur une page ?"
+    a: "Il n'y a pas de maximum officiel, mais au-delà de 100 liens par page (internes + externes), Google commence à diluer la valeur transmise. Pour un article de blog standard, 3 à 7 liens internes contextuels est une bonne fourchette."
+  - q: "Est-ce qu'un lien en footer a autant de valeur qu'un lien dans le texte ?"
+    a: "Non. Les liens contextuels dans le corps de l'article sont plus puissants. Les liens de footer apparaissent sur toutes les pages et sont donc plus dilués."
+  - q: "Doit-on utiliser des ancres exactes (exact match) pour les liens internes ?"
+    a: "Pas obligatoirement. Google comprend le contexte sémantique autour du lien. Une ancre partielle ou une ancre de marque fonctionnent très bien. La diversité des ancres est même recommandée pour un profil naturel."
+  - q: "Comment savoir si mes liens internes améliorent mon ranking ?"
+    a: "Regardez dans Google Search Console l'évolution de la position des pages vers lesquelles vous avez augmenté les liens internes. Sur un petit site malgache, les effets peuvent être visibles en 4 à 8 semaines."
+  - q: "Est-ce qu'un nofollow sur un lien interne est utile ?"
+    a: "Rarement. Dans la plupart des cas, mettre un nofollow sur un lien interne est contre-productif. Vous bloquez le flux d'autorité vers une page de votre propre site. Réservez le nofollow aux liens externes vers des pages que vous ne voulez pas cautionner."
 ---
 
 La plupart des sites malgaches que j'audite ont le même problème.

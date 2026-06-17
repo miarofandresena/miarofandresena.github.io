@@ -6,6 +6,15 @@ image:  /assets/images/blog/recherche-mots-cles.webp
 author: Miaro
 tags:   Web
 description: "Méthode complète pour faire une recherche de mots-clés efficace en 2026 : intention de recherche, outils gratuits, analyse et priorisation. Par Miaro Fandresena."
+faq:
+  - q: "Combien de temps prend une bonne recherche de mots-clés ?"
+    a: "Pour un site de PME malgache couvrant un secteur d'activité, comptez une demi-journée à une journée complète : 1-2h de brainstorming, 2-3h d'expansion avec les outils, 2-4h d'analyse de l'intention, 1-2h d'organisation en clusters. C'est la fondation de toute votre stratégie de contenu."
+  - q: "Combien de mots-clés dois-je cibler ?"
+    a: "Pas de chiffre magique. Un petit site de PME malgache peut très bien fonctionner avec 30 à 50 mots-clés cibles bien choisis. Mieux vaut 30 mots-clés bien travaillés que 300 traités superficiellement."
+  - q: "Dois-je cibler des mots-clés en français ou en malgache ?"
+    a: "Les deux, mais le français en priorité si votre budget est limité. 57% des recherches commerciales à Madagascar se font en français. Le malgache représente une opportunité supplémentaire, pas un remplacement. Si vous créez du contenu en malgache, faites-le vraiment — pas une traduction mot-à-mot."
+  - q: "Un même mot-clé peut-il avoir deux intentions différentes ?"
+    a: "Oui, et c'est un cas délicat. 'Consultant SEO Madagascar' peut être cherché par quelqu'un qui veut comprendre ce qu'est un consultant SEO (informationnelle) ou par quelqu'un qui veut en engager un (transactionnelle). Regardez les SERP actuelles pour déterminer quelle intention Google favorise."
 ---
 
 La plupart des gens font leur recherche de mots-clés à l'envers.

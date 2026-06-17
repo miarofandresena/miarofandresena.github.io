@@ -6,6 +6,17 @@ image:  /assets/images/blog/seo-vs-google-ads-mada.webp
 author: Miaro
 tags:   Web
 description: "SEO ou Google Ads à Madagascar : comparaison honnête des coûts, délais et ROI pour choisir la bonne stratégie selon votre situation. Par Miaro Fandresena."
+faq:
+  - q: "Google Ads fonctionne-t-il vraiment à Madagascar ?"
+    a: "Oui, Google Ads fonctionne techniquement à Madagascar. Mais selon votre secteur et votre ciblage, le volume de recherches locales peut être insuffisant pour justifier une campagne. Sur des mots-clés très locaux à faible volume, le SEO local est souvent plus efficace."
+  - q: "Le SEO est-il moins cher que Google Ads à Madagascar ?"
+    a: "Pas nécessairement sur le court terme. Mais sur 12 à 24 mois, le coût par acquisition en SEO devient généralement bien inférieur à celui des Ads, parce que le trafic SEO ne vous coûte rien à l'unité. La vraie question n'est pas le coût mais le ROI à l'horizon visé."
+  - q: "Mes concurrents font des Ads. Est-ce que je dois en faire aussi ?"
+    a: "Pas automatiquement. Si votre site est mieux optimisé en SEO, vous pouvez capter du trafic organique gratuit pendant que vos concurrents payent chaque clic. C'est une position avantageuse."
+  - q: "Mon site n'est pas encore lancé. Par quoi commencer, SEO ou Ads ?"
+    a: "Lancez votre site d'abord. Ensuite commencez l'optimisation SEO — le travail technique de fond prend du temps. Les Ads peuvent attendre que vous ayez une landing page qui convertit vraiment."
+  - q: "Et le SEO sur Facebook à Madagascar ?"
+    a: "Facebook n'est pas un moteur de recherche — il ne peut pas remplacer le SEO Google ni les Google Ads pour capter une intention de recherche. Facebook est très utilisé à Madagascar, mais pour créer de la notoriété, pas pour capter une intention d'achat immédiate."
 ---
 
 J'entends les deux camps en permanence.

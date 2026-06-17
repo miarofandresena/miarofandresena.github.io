@@ -6,6 +6,17 @@ image: /assets/img/seo-ecommerce-mada.webp
 author: Miaro
 tags: Web
 description: "Guide complet SEO e-commerce Madagascar : structure de site, fiches produits, vitesse mobile, Schema markup, stratégie de contenu. Tout ce qu'il faut pour ranker et vendre."
+faq:
+  - q: "Combien de temps pour voir des résultats SEO sur un e-commerce à Madagascar ?"
+    a: "Entre 3 et 6 mois pour les premières positions sur des requêtes longue traîne. Sur un marché peu concurrentiel comme Madagascar, des catégories bien optimisées peuvent ranker en 6 à 8 semaines."
+  - q: "Faut-il optimiser toutes les fiches produits en même temps ?"
+    a: "Non. Commencez par vos meilleures ventes et vos catégories principales. L'effort doit être proportionnel au potentiel commercial du produit. Ensuite élargissez progressivement."
+  - q: "Les avis clients aident-ils vraiment le SEO e-commerce ?"
+    a: "Oui, de deux façons. Ils enrichissent le contenu de la page avec du vocabulaire naturel et des variantes de mots-clés. Et avec le Schema ReviewsMarkup, ils affichent les étoiles dans les résultats Google, ce qui augmente le taux de clics."
+  - q: "Comment gérer les produits en rupture de stock en SEO ?"
+    a: "Ne supprimez pas ces pages — elles retourneraient une 404 et vous perdriez le SEO accumulé. Redirigez vers la catégorie ou gardez la page active avec une mention 'rupture temporaire' et des produits similaires."
+  - q: "Un e-commerce malgache peut-il ranker sur des requêtes sans le mot Madagascar ?"
+    a: "Oui. Si Google détecte que vous êtes à Madagascar via votre adresse, votre Search Console, votre Google Business Profile et vos citations NAP, il vous montre en priorité aux recherches depuis Madagascar même sans le mot-clé géographique."
 ---
 
 L'e-commerce à Madagascar est encore un terrain vierge.

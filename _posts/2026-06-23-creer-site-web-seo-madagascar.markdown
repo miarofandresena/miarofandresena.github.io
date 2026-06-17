@@ -6,6 +6,17 @@ image: /assets/img/creer-site-web-seo-mada.webp
 author: Miaro
 tags: Web
 description: "Guide complet pour créer un site web optimisé SEO à Madagascar dès le départ : plateforme, hébergement, structure, technique, contenu. Checklist de lancement incluse."
+faq:
+  - q: "Combien de temps faut-il pour créer un site web optimisé SEO ?"
+    a: "Pour un site vitrine de 5 à 10 pages bien fait : 3 à 6 semaines. Pour un e-commerce : 2 à 4 mois. L'erreur à éviter : se précipiter pour lancer vite et corriger l'architecture après."
+  - q: "Faut-il absolument un développeur pour créer un site SEO-friendly ?"
+    a: "Avec WordPress, Astra et RankMath, un entrepreneur motivé peut créer un site fonctionnel et bien optimisé sans coder. Les difficultés arrivent sur le SEO technique avancé (Core Web Vitals, Schema markup complexe, migrations) où un professionnel fait gagner beaucoup de temps."
+  - q: "Est-ce qu'un site en malgache rankera mieux qu'un site en français à Madagascar ?"
+    a: "Ça dépend des mots-clés cibles. Les recherches en malgache existent mais leur volume est bien inférieur au français. Pour maximiser la portée, une structure bilingue avec le français en langue principale est la stratégie optimale."
+  - q: "Faut-il un blog pour avoir un bon SEO ?"
+    a: "Pas obligatoire, mais fortement recommandé. Un site sans blog est limité aux mots-clés transactionnels liés à vos services. Un blog multiplie par 3 à 5 le nombre de mots-clés sur lesquels vous pouvez ranker."
+  - q: "Combien coûte la création d'un site web SEO-friendly à Madagascar ?"
+    a: "La fourchette est large : de 200 000 Ariary (DIY avec WordPress) à plusieurs millions d'Ariary pour un projet e-commerce sur-mesure. Le SEO n'est pas une option coûteuse — c'est une approche de travail qui s'intègre à chaque étape de la création."
 ---
 
 La plupart des sites malgaches commettent la même erreur.

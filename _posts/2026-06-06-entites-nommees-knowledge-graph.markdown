@@ -6,6 +6,17 @@ image:  /assets/images/blog/entites-nommees-knowledge-graph.webp
 author: Miaro
 tags:   Web
 description: "Entités nommées et Knowledge Graph Google : comprendre comment Google identifie les entités et comment les exploiter pour améliorer votre référencement. Par Miaro Fandresena."
+faq:
+  - q: "Combien de temps pour apparaître dans le Knowledge Graph ?"
+    a: "Il n'y a pas de délai garanti. Google alimente son Knowledge Graph à son propre rythme, en recoupant des sources multiples. Certaines entités y apparaissent en quelques semaines après une publication Wikipedia ou une couverture médiatique significative. D'autres mettent des années."
+  - q: "Peut-on revendiquer ou modifier son Knowledge Panel Google ?"
+    a: "Oui. Si votre entité dispose d'un Knowledge Panel, vous pouvez le revendiquer via l'option 'Revendiquer ce graphique de connaissances'. Une fois revendiqué, vous pouvez suggérer des modifications. Google conserve le contrôle final sur ce qui apparaît."
+  - q: "Le Schema markup seul suffit-il pour entrer dans le Knowledge Graph ?"
+    a: "Non. Le Schema markup est un signal important, mais Google recroupe cette déclaration avec ce qu'il observe sur d'autres sources. Plus ces sources convergent, plus votre empreinte d'entité est crédible."
+  - q: "Les entités ont-elles remplacé les mots-clés en SEO ?"
+    a: "Non — elles les ont complétés. Les mots-clés restent le point d'entrée de la plupart des recherches. Mais Google interprète ces mots-clés à travers le prisme des entités. Travailler les deux en parallèle est la bonne approche."
+  - q: "Dois-je m'inquiéter si mon concurrent a un Knowledge Panel et pas moi ?"
+    a: "C'est un signe que son empreinte d'entité est plus solide. Vous pouvez avoir une empreinte d'entité solide sans Knowledge Panel visible si vos signaux internes (Schema markup, cohérence, mentions) sont forts. Mais si c'est le cas sur des requêtes brandées, c'est un chantier à prioriser."
 ---
 
 Voici ce que la plupart des guides SEO ne vous disent pas.

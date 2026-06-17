@@ -6,6 +6,15 @@ image:  /assets/images/blog/geo-mada.webp
 author: Miaro
 tags:   Web
 description: "Generative Engine Optimization à Madagascar : stratégies concrètes pour apparaître dans les réponses de Google AI Overviews, Gemini et ChatGPT. Par Miaro Fandresena."
+faq:
+  - q: "Qu'est-ce que le GEO (Generative Engine Optimization) ?"
+    a: "Le GEO est l'ensemble des techniques permettant d'optimiser un site web pour apparaître dans les réponses générées par les intelligences artificielles comme Google AI Overviews, Gemini, ChatGPT et Perplexity. Contrairement au SEO classique qui vise les positions dans les SERP, le GEO vise à être cité comme source dans les résumés IA."
+  - q: "Les sites malgaches peuvent-ils apparaître dans Google AI Overviews ?"
+    a: "Oui. Les AI Overviews de Google indexent des sources en français et citent des sites basés à Madagascar si leur contenu est jugé pertinent, autoritaire et bien structuré. La clé est d'avoir un contenu factuel, bien organisé avec des données structurées (Schema.org) et des réponses directes aux questions."
+  - q: "Combien de temps faut-il pour être cité par une IA générative ?"
+    a: "Les délais varient selon l'IA : Google AI Overviews peut commencer à citer votre contenu en 4 à 8 semaines après une bonne optimisation. ChatGPT et Gemini mettent à jour leurs modèles moins fréquemment (tous les 6 à 12 mois). Perplexity, qui utilise un index web en temps réel, peut vous citer en quelques jours."
+  - q: "Le GEO remplace-t-il le SEO traditionnel à Madagascar ?"
+    a: "Non, le GEO complète le SEO sans le remplacer. En 2026, plus de 50% des recherches Google génèrent un AI Overview en France et dans les marchés francophones. Mais les clics organiques restent essentiels. La stratégie optimale combine SEO pour les positions classiques et GEO pour les citations IA."
 ---
 
 Quelqu'un pose une question à Google. Au lieu d'une liste de liens, Google génère une réponse directe — avec des sources citées en dessous.
