@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO est mort ? La Preuve par 3 Cadavres (et Comment J'ai Ressuscité des Sites avec une Méthode Interdite)"
 date:   2025-03-10 10:05:55 +0300
@@ -12,7 +12,7 @@ En 2023, j'ai enterré 12 stratégies SEO que je pensais infaillibles.
 
 Des techniques que j'utilisais depuis des années. Des approches que je recommandais à mes clients. Obsolètes, toutes.
 
-C'est là que j'ai compris : [le SEO](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/) n'est pas mort. Il s'est métamorphosé. Et ceux qui n'ont pas suivi l'évolution se retrouvent avec des sites fantômes.
+C'est là que j'ai compris : [le SEO](https://miarofandresena.com/2025/02/11/cest-quoi-seo/) n'est pas mort. Il s'est métamorphosé. Et ceux qui n'ont pas suivi l'évolution se retrouvent avec des sites fantômes.
 
 Depuis 2020, j'ai analysé plus de 200 sites en difficulté. Voici ce que j'ai trouvé — et comment j'ai redressé les plus mal en point.
 

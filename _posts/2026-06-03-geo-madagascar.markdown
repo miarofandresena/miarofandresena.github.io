@@ -52,7 +52,7 @@ Les sites qui sont le mieux cités dans les réponses d'IA sont exactement ceux 
 
 Le GEO amplifie les bons fondamentaux. Il ne remplace pas le travail de fond.
 
-J'ai abordé l'impact de l'IA sur le SEO en profondeur dans mon article [SEO et IA](https://miarofandresena.github.io/2025/04/08/seo-et-ia/). Ce guide va plus loin sur les actions concrètes.
+J'ai abordé l'impact de l'IA sur le SEO en profondeur dans mon article [SEO et IA](https://miarofandresena.com/2025/04/08/seo-et-ia/). Ce guide va plus loin sur les actions concrètes.
 
 <a id="comment-ai-overviews-decide"></a>
 
@@ -225,7 +225,7 @@ Conséquence : pour être cité par les IA actuelles, **le contenu en français 
 
 Ce n'est pas une raison d'abandonner le malgache — c'est une raison de ne pas négliger le français dans votre stratégie de contenu.
 
-La stratégie bilingue recommandée dans le [guide SEO pour les entreprises à Madagascar](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/) prend encore plus de sens dans une perspective GEO.
+La stratégie bilingue recommandée dans le [guide SEO pour les entreprises à Madagascar](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/) prend encore plus de sens dans une perspective GEO.
 
 ### Le déploiement progressif des AI Overviews
 
@@ -267,7 +267,7 @@ Voici ce que je mettrais en place si je démarrais la stratégie GEO d'un site m
 
 Vérifiez : avez-vous une page Auteur complète ? Vos articles sont-ils signés avec un nom réel ? Votre expertise est-elle explicitement mentionnée dans vos contenus ? Si non, commencez par là.
 
-Un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) complet vous donnera une vision claire de vos lacunes actuelles.
+Un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) complet vous donnera une vision claire de vos lacunes actuelles.
 
 **Identifiez vos 10 questions prioritaires.**
 
@@ -287,7 +287,7 @@ Pour chaque question prioritaire identifiée, créez un article qui répond dire
 
 Article, FAQ, LocalBusiness si vous avez une adresse physique, Breadcrumb pour la navigation. Yoast et RankMath gèrent tout ça — vérifiez que c'est correctement configuré.
 
-Consultez mon guide sur le [SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/) pour les détails d'implémentation.
+Consultez mon guide sur le [SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/) pour les détails d'implémentation.
 
 **Commencez à construire des mentions tierces.**
 
@@ -353,7 +353,7 @@ Les sites qui structurent leur contenu correctement aujourd'hui — réponses di
 
 C'est un pari sur le futur avec des fondamentaux qui valent aussi dans le présent.
 
-Si vous voulez intégrer une dimension GEO à votre stratégie digitale, [contactez-moi](https://miarofandresena.github.io/contact). En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), c'est une dimension que j'intègre progressivement dans les stratégies que je construis pour mes clients.
+Si vous voulez intégrer une dimension GEO à votre stratégie digitale, [contactez-moi](https://miarofandresena.com/contact). En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), c'est une dimension que j'intègre progressivement dans les stratégies que je construis pour mes clients.
 
 **Coordonnées :**
 

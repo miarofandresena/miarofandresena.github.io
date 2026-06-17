@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Netlinking Madagascar : comment obtenir des backlinks de qualité"
 date: 2026-06-19 08:00:00 +0300
@@ -47,7 +47,7 @@ Pourquoi ? Parce qu'un lien externe est un vote de confiance. Quand un site de q
 - Ils renforcent ta crédibilité thématique (les liens contextuels en particulier)
 - Ils envoient du trafic référant direct
 
-J'ai détaillé tous les signaux off-page dans mon [guide SEO off-page](https://miarofandresena.github.io/2025/03/05/seo-off-page/) si tu veux aller plus loin.
+J'ai détaillé tous les signaux off-page dans mon [guide SEO off-page](https://miarofandresena.com/2025/03/05/seo-off-page/) si tu veux aller plus loin.
 
 ---
 
@@ -177,7 +177,7 @@ Les citations (mentions de ton NAP : Nom, Adresse, Téléphone) et les liens dep
 - Répertoires sectoriels (associations professionnelles de ton secteur)
 - Réseaux comme LinkedIn Company Pages
 
-J'ai développé toute la stratégie locale dans mon article sur le [SEO local à Madagascar](https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/).
+J'ai développé toute la stratégie locale dans mon article sur le [SEO local à Madagascar](https://miarofandresena.com/2025/05/21/seo-local-madagascar/).
 
 ---
 
@@ -233,7 +233,7 @@ Si 80% de tes backlinks ont l'ancre exacte "consultant SEO Madagascar", c'est un
 **Tout acheter auprès du même vendeur**
 Même si tu achètes des liens (que je déconseille), les obtenir tous depuis la même source crée un footprint détectable.
 
-J'ai listé d'autres erreurs critiques dans mon article sur les [erreurs SEO des sites malgaches](https://miarofandresena.github.io/2025/06/04/erreurs-seo-sites-web-malgaches/).
+J'ai listé d'autres erreurs critiques dans mon article sur les [erreurs SEO des sites malgaches](https://miarofandresena.com/2025/06/04/erreurs-seo-sites-web-malgaches/).
 
 ---
 
@@ -255,7 +255,7 @@ Trust Flow et Citation Flow — deux métriques utiles pour évaluer la qualité
 **OpenLinkProfiler (gratuit)**
 Alternative pour analyser rapidement le profil de liens d'un concurrent.
 
-J'ai comparé tous ces outils dans mon article sur les [meilleurs outils SEO gratuits](https://miarofandresena.github.io/2026/06/17/meilleurs-outils-seo-gratuits/).
+J'ai comparé tous ces outils dans mon article sur les [meilleurs outils SEO gratuits](https://miarofandresena.com/2026/06/17/meilleurs-outils-seo-gratuits/).
 
 ---
 
@@ -307,7 +307,7 @@ Les backlinks depuis des sources d'autorité (Wikipedia, médias reconnus, sites
 
 Quand L'Express de Madagascar te cite comme "expert SEO à Antananarivo", Google associe ton nom à cette entité géographique et sectorielle. C'est un signal de réalité pour l'algorithme.
 
-J'ai détaillé ce mécanisme dans mon article sur les [entités nommées et le Knowledge Graph](https://miarofandresena.github.io/2026/06/06/entites-nommees-knowledge-graph/).
+J'ai détaillé ce mécanisme dans mon article sur les [entités nommées et le Knowledge Graph](https://miarofandresena.com/2026/06/06/entites-nommees-knowledge-graph/).
 
 ---
 
@@ -360,4 +360,4 @@ Les sites qui font ce travail sérieusement prennent une avance difficile à com
 
 **Tu veux un audit de ton profil de backlinks et une stratégie netlinking adaptée à ton secteur ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/) et on construit un plan sur mesure.
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) et on construit un plan sur mesure.

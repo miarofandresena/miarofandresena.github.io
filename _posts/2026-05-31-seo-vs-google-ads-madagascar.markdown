@@ -70,7 +70,7 @@ Voici ce que j'observe après cinq ans de travail sur des sites malgaches.
 
 **L'investissement initial.** Un bon SEO demande du travail : audit, optimisation technique, création de contenu régulière, construction de backlinks. C'est un investissement réel, pas une solution gratuite.
 
-Pour comprendre ce que représente concrètement cet investissement, consultez mon guide sur le [coût d'une stratégie SEO à Madagascar](https://miarofandresena.github.io/2025/05/26/cout-strategie-seo-madagascar/).
+Pour comprendre ce que représente concrètement cet investissement, consultez mon guide sur le [coût d'une stratégie SEO à Madagascar](https://miarofandresena.com/2025/05/26/cout-strategie-seo-madagascar/).
 
 <a id="google-ads-avantages-limites"></a>
 
@@ -147,7 +147,7 @@ Si vous avez 1 000 000 Ariary par mois, la question se pose différemment.
 
 84% des recherches se font sur mobile à Madagascar. Google Ads offre des options de ciblage mobile très précises — extension d'appel, click-to-call — particulièrement utiles quand votre conversion finale est un appel téléphonique plutôt qu'un achat en ligne.
 
-Pour le SEO local mobile, la [fiche Google Business Profile](https://miarofandresena.github.io/2026/05/28/google-my-business-madagascar/) reste souvent plus efficace que les Ads pour capter ces recherches locales immédiates.
+Pour le SEO local mobile, la [fiche Google Business Profile](https://miarofandresena.com/2026/05/28/google-my-business-madagascar/) reste souvent plus efficace que les Ads pour capter ces recherches locales immédiates.
 
 <a id="choisir-seo"></a>
 
@@ -163,7 +163,7 @@ Pour le SEO local mobile, la [fiche Google Business Profile](https://miarofandre
 
 **Votre budget mensuel est limité mais régulier.** 400 000 à 800 000 Ariary par mois investis sur 12 mois en SEO donnent des résultats durables. Le même montant en Ads s'évapore.
 
-Pour évaluer si votre site est dans l'état pour commencer une stratégie SEO sérieuse, un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) est souvent la meilleure première étape.
+Pour évaluer si votre site est dans l'état pour commencer une stratégie SEO sérieuse, un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) est souvent la meilleure première étape.
 
 <a id="choisir-google-ads"></a>
 
@@ -245,7 +245,7 @@ Publiez du contenu de valeur régulièrement pour le SEO de long terme. Lancez d
 
 Pour un commerce de quartier — épicerie, pharmacie, quincaillerie — la fiche Google Business Profile bien remplie est souvent suffisante pour apparaître sur les recherches locales immédiates. C'est gratuit et rapide. C'est votre point de départ.
 
-Consultez mon guide complet sur la [stratégie SEO locale à Madagascar](https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/) pour aller plus loin.
+Consultez mon guide complet sur la [stratégie SEO locale à Madagascar](https://miarofandresena.com/2025/05/21/seo-local-madagascar/) pour aller plus loin.
 
 ### Startup / nouveau service sans trafic établi
 
@@ -285,7 +285,7 @@ Pour les budgets significatifs (500 000 Ariary/mois et plus), déléguer à quel
 
 Lancez votre site d'abord. Ensuite commencez l'optimisation SEO — le travail technique de fond prend du temps et autant l'amorcer dès le début. Les Ads peuvent attendre que vous ayez une landing page qui convertit vraiment.
 
-Lisez mon [guide SEO pour les entreprises à Madagascar](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/) avant de lancer quoi que ce soit.
+Lisez mon [guide SEO pour les entreprises à Madagascar](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/) avant de lancer quoi que ce soit.
 
 ### Et le SEO sur Facebook à Madagascar ?
 
@@ -303,11 +303,11 @@ Ma position personnelle, après avoir travaillé les deux approches sur des site
 
 **Si vous avez besoin de résultats rapidement, commencez par les Ads.** Mais ayez un plan pour basculer progressivement vers le SEO pendant que les Ads travaillent.
 
-**Si vous hésitez encore**, je vous encourage à lire la section [comment choisir son consultant SEO à Madagascar](https://miarofandresena.github.io/2025/05/13/comment-choisir-son-consultant-seo-madagascar/) — les critères pour évaluer un prestataire s'appliquent aussi bien au SEO qu'à la gestion Ads.
+**Si vous hésitez encore**, je vous encourage à lire la section [comment choisir son consultant SEO à Madagascar](https://miarofandresena.com/2025/05/13/comment-choisir-son-consultant-seo-madagascar/) — les critères pour évaluer un prestataire s'appliquent aussi bien au SEO qu'à la gestion Ads.
 
-Et si vous voulez un regard externe sur votre situation spécifique, [contactez-moi directement](https://miarofandresena.github.io/contact). Je vous dis honnêtement ce qui correspond à votre cas — même si la réponse n'est pas "faites du SEO".
+Et si vous voulez un regard externe sur votre situation spécifique, [contactez-moi directement](https://miarofandresena.com/contact). Je vous dis honnêtement ce qui correspond à votre cas — même si la réponse n'est pas "faites du SEO".
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), je préfère vous recommander ce qui vous convient plutôt que de vous vendre quelque chose qui ne correspond pas à votre situation.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), je préfère vous recommander ce qui vous convient plutôt que de vous vendre quelque chose qui ne correspond pas à votre situation.
 
 **Coordonnées :**
 

@@ -84,7 +84,7 @@ AnswerThePublic génère des listes de questions que les internautes posent auto
 
 Tapez "SEO Madagascar" et vous obtenez des dizaines de questions : "comment faire du SEO à Madagascar ?", "pourquoi le SEO est important à Madagascar ?", "SEO Madagascar ou Google Ads ?".
 
-**Ce que j'utilise :** identifier les angles de contenu pour alimenter un [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/) ou pour construire des sections FAQ. Les 3 recherches gratuites quotidiennes suffisent pour un usage ponctuel.
+**Ce que j'utilise :** identifier les angles de contenu pour alimenter un [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/) ou pour construire des sections FAQ. Les 3 recherches gratuites quotidiennes suffisent pour un usage ponctuel.
 
 **Mon avis en une phrase :** excellent pour trouver des angles de contenu, limité par le quota quotidien.
 
@@ -136,7 +136,7 @@ Screaming Frog crawle votre site comme le ferait Google — page par page — et
 
 La version gratuite couvre 500 URLs. Pour la majorité des sites de PME malgaches, c'est suffisant.
 
-**Ce que j'utilise :** le premier outil que je lance sur un nouveau projet. En 10 minutes, il me donne une vue complète des problèmes techniques — exactement ce qu'un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) demande en premier.
+**Ce que j'utilise :** le premier outil que je lance sur un nouveau projet. En 10 minutes, il me donne une vue complète des problèmes techniques — exactement ce qu'un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) demande en premier.
 
 **Limitation à connaître :** l'interface est lourde à télécharger et à faire tourner. Sur une connexion lente, le téléchargement initial peut prendre du temps. Une fois installé, il fonctionne en local — pas besoin de connexion internet pour crawler.
 
@@ -195,7 +195,7 @@ Pas besoin de coder. Pas besoin d'exporter des fichiers CSV manuellement chaque 
 
 **Mon avis en une phrase :** le meilleur outil de reporting SEO gratuit qui existe.
 
-Pour aller plus loin sur la façon d'analyser vos performances, consultez mon guide sur l'[analyse et le reporting SEO](https://miarofandresena.github.io/2025/03/01/analyse-reporting-seo/).
+Pour aller plus loin sur la façon d'analyser vos performances, consultez mon guide sur l'[analyse et le reporting SEO](https://miarofandresena.com/2025/03/01/analyse-reporting-seo/).
 
 ---
 
@@ -217,7 +217,7 @@ Yoast reste un excellent choix si vous préférez une interface plus simple.
 
 **Mon avis en une phrase :** un indispensable sur WordPress — choisissez-en un, configurez-le bien, ne changez plus.
 
-Pour les détails de configuration, j'en parle dans mon guide [SEO WordPress Madagascar](https://miarofandresena.github.io/2026/05/29/seo-wordpress-madagascar/).
+Pour les détails de configuration, j'en parle dans mon guide [SEO WordPress Madagascar](https://miarofandresena.com/2026/05/29/seo-wordpress-madagascar/).
 
 ---
 
@@ -301,7 +301,7 @@ Il combine des données terrain réelles (ce que vos vrais visiteurs expériment
 
 **Mon avis en une phrase :** le test de vitesse obligatoire avant et après chaque optimisation.
 
-J'ai couvert en détail l'interprétation et l'optimisation des Core Web Vitals dans mon guide [Core Web Vitals 2026 pour les sites malgaches](https://miarofandresena.github.io/2026/06/09/core-web-vitals-madagascar/).
+J'ai couvert en détail l'interprétation et l'optimisation des Core Web Vitals dans mon guide [Core Web Vitals 2026 pour les sites malgaches](https://miarofandresena.com/2026/06/09/core-web-vitals-madagascar/).
 
 ---
 
@@ -345,7 +345,7 @@ Google Business Profile (anciennement Google My Business) est l'outil gratuit le
 
 **Mon avis en une phrase :** pour toute entreprise avec une adresse physique à Madagascar, c'est le premier outil à configurer — avant même un site web.
 
-J'ai écrit un guide complet sur [Google My Business Madagascar](https://miarofandresena.github.io/2026/05/28/google-my-business-madagascar/) avec toutes les étapes d'optimisation.
+J'ai écrit un guide complet sur [Google My Business Madagascar](https://miarofandresena.com/2026/05/28/google-my-business-madagascar/) avec toutes les étapes d'optimisation.
 
 ---
 
@@ -468,11 +468,11 @@ Les outils de suivi de positions tiers (SERP Robot, etc.) ont des versions gratu
 
 Ces outils sont le point de départ. Mais un outil ne produit des résultats que si vous savez quoi chercher, comment interpréter les données, et quelles actions prioriser.
 
-Si vous voulez qu'on travaille ensemble sur votre stratégie SEO — audit, mots-clés, optimisations — ou si vous avez besoin d'aide pour interpréter ce que vous voyez dans Search Console ou PageSpeed Insights, [contactez-moi](https://miarofandresena.github.io/contact).
+Si vous voulez qu'on travaille ensemble sur votre stratégie SEO — audit, mots-clés, optimisations — ou si vous avez besoin d'aide pour interpréter ce que vous voyez dans Search Console ou PageSpeed Insights, [contactez-moi](https://miarofandresena.com/contact).
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), j'utilise ces mêmes outils gratuits combinés à des outils premium pour mes clients — et je sais exactement ce que chacun peut vous apporter selon votre situation.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), j'utilise ces mêmes outils gratuits combinés à des outils premium pour mes clients — et je sais exactement ce que chacun peut vous apporter selon votre situation.
 
-Pour comprendre les erreurs techniques que ces outils vont révéler sur votre site, lisez aussi les [erreurs SEO les plus courantes des sites web malgaches](https://miarofandresena.github.io/2025/06/04/erreurs-seo-sites-web-malgaches/).
+Pour comprendre les erreurs techniques que ces outils vont révéler sur votre site, lisez aussi les [erreurs SEO les plus courantes des sites web malgaches](https://miarofandresena.com/2025/06/04/erreurs-seo-sites-web-malgaches/).
 
 **Coordonnées :**
 

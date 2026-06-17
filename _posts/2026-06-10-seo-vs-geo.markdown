@@ -44,7 +44,7 @@ Je ne vais pas refaire des guides complets ici — j'en ai déjà écrit sur les
 
 **Le GEO** (Generative Engine Optimization) : l'optimisation de votre contenu pour être **cité ou paraphrasé** par les systèmes d'IA génératifs — Google AI Overviews, Gemini, ChatGPT, Perplexity — dans leurs réponses directes aux utilisateurs.
 
-Pour les tactiques GEO appliquées au contexte malgache, consultez mon article dédié : [GEO Madagascar : comment être cité dans Google AI Overviews, Gemini et ChatGPT](https://miarofandresena.github.io/2026/06/03/geo-madagascar/).
+Pour les tactiques GEO appliquées au contexte malgache, consultez mon article dédié : [GEO Madagascar : comment être cité dans Google AI Overviews, Gemini et ChatGPT](https://miarofandresena.com/2026/06/03/geo-madagascar/).
 
 Ce guide traite d'un niveau différent : le positionnement stratégique entre les deux.
 
@@ -171,7 +171,7 @@ Le SEO reste prioritaire dans la majorité des situations actuelles — particul
 
 **Votre site est jeune ou mal optimisé.**
 
-Si vous avez encore des problèmes techniques non résolus — vitesse, mobile, balises, structure —, le GEO est prématuré. Réglez le SEO d'abord. Un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) vous dira où vous en êtes.
+Si vous avez encore des problèmes techniques non résolus — vitesse, mobile, balises, structure —, le GEO est prématuré. Réglez le SEO d'abord. Un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) vous dira où vous en êtes.
 
 **Vous ciblez des requêtes commerciales et transactionnelles.**
 
@@ -262,7 +262,7 @@ Gardez vos pages commerciales en SEO. Ajoutez du contenu GEO **en plus**, pas **
 
 Google Search Console pour les positions, impressions et clics organiques. Google Analytics 4 pour les conversions depuis le trafic organique. Ahrefs ou SEMrush pour le suivi de positionnement et l'analyse de backlinks.
 
-Ces outils sont matures, fiables, directement actionnables. Pour les détails, j'ai couvert ça dans mon guide sur l'[analyse et le reporting SEO](https://miarofandresena.github.io/2025/03/01/analyse-reporting-seo/).
+Ces outils sont matures, fiables, directement actionnables. Pour les détails, j'ai couvert ça dans mon guide sur l'[analyse et le reporting SEO](https://miarofandresena.com/2025/03/01/analyse-reporting-seo/).
 
 ### Mesure GEO : l'outillage émergent
 
@@ -344,9 +344,9 @@ Pour une entreprise dont le SEO tourne bien et qui publie régulièrement du con
 
 Pour les deux : évitez de sacrifier ce qui fonctionne au profit d'une nouveauté dont les mécaniques ne sont pas encore entièrement comprises.
 
-Si vous voulez qu'on regarde ensemble où vous en êtes et ce qui fait sens pour votre situation spécifique, [contactez-moi](https://miarofandresena.github.io/contact). En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), j'accompagne des projets sur ces deux dimensions — en commençant toujours par les fondamentaux.
+Si vous voulez qu'on regarde ensemble où vous en êtes et ce qui fait sens pour votre situation spécifique, [contactez-moi](https://miarofandresena.com/contact). En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), j'accompagne des projets sur ces deux dimensions — en commençant toujours par les fondamentaux.
 
-Et si vous voulez comparer avec d'autres arbitrages stratégiques courants, lisez aussi [SEO vs Google Ads à Madagascar](https://miarofandresena.github.io/2026/05/31/seo-vs-google-ads-madagascar/) — la logique de décision est similaire.
+Et si vous voulez comparer avec d'autres arbitrages stratégiques courants, lisez aussi [SEO vs Google Ads à Madagascar](https://miarofandresena.com/2026/05/31/seo-vs-google-ads-madagascar/) — la logique de décision est similaire.
 
 **Coordonnées :**
 

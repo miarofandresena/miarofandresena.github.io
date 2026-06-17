@@ -122,7 +122,7 @@ C'est un avantage concret : les décisions sont prises plus vite, les ajustement
 
 Un freelance expérimenté a des frais généraux limités. Pas de loyer commercial, pas de charges salariales d'une équipe. Il peut proposer une expertise senior à un tarif que l'agence ne peut pas atteindre sans rogner sur la qualité.
 
-Pour avoir une idée des fourchettes de prix pratiquées à Madagascar, mon article sur le [coût d'une stratégie SEO à Madagascar](https://miarofandresena.github.io/2025/05/26/cout-strategie-seo-madagascar/) détaille les tarifs des deux types de prestataires.
+Pour avoir une idée des fourchettes de prix pratiquées à Madagascar, mon article sur le [coût d'une stratégie SEO à Madagascar](https://miarofandresena.com/2025/05/26/cout-strategie-seo-madagascar/) détaille les tarifs des deux types de prestataires.
 
 ### L'agilité
 
@@ -199,7 +199,7 @@ Ni l'agence ni le freelance ne vous garantissent des résultats — et quiconque
 
 Ce que vous cherchez dans les deux cas : une méthode solide, une transparence sur les actions menées, et des résultats mesurables progressivement.
 
-Mon article sur [comment choisir son consultant SEO à Madagascar](https://miarofandresena.github.io/2025/05/13/comment-choisir-son-consultant-seo-madagascar/) détaille les critères de vetting qui s'appliquent aux deux types de prestataires.
+Mon article sur [comment choisir son consultant SEO à Madagascar](https://miarofandresena.com/2025/05/13/comment-choisir-son-consultant-seo-madagascar/) détaille les critères de vetting qui s'appliquent aux deux types de prestataires.
 
 <a id="red-flags"></a>
 
@@ -215,7 +215,7 @@ Mon article sur [comment choisir son consultant SEO à Madagascar](https://miaro
 
 **Des backlinks "garantis" en masse.** Les liens achetés en volume sont une pratique sanctionnée par Google. Une agence sérieuse ne vend pas ça.
 
-**Un devis sans audit préalable.** Comment proposer une stratégie sans connaître l'état de votre site ? Un prestataire sérieux commence toujours par un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) avant de chiffrer.
+**Un devis sans audit préalable.** Comment proposer une stratégie sans connaître l'état de votre site ? Un prestataire sérieux commence toujours par un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) avant de chiffrer.
 
 ### Red flags côté freelance
 
@@ -257,7 +257,7 @@ La qualité prime sur la catégorie. Un excellent freelance vaut mieux qu'une ag
 
 Vérifiez les résultats passés. Parlez à des clients précédents si possible. Demandez un audit ou un premier deliverable limité avant de vous engager sur un contrat long.
 
-Pour comprendre l'ensemble des leviers disponibles avant de faire votre choix, le [guide SEO pour les entreprises à Madagascar](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/) pose bien le contexte du marché local.
+Pour comprendre l'ensemble des leviers disponibles avant de faire votre choix, le [guide SEO pour les entreprises à Madagascar](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/) pose bien le contexte du marché local.
 
 <a id="questions-avant-signer"></a>
 
@@ -333,11 +333,11 @@ Ce que ce guide ne dit pas explicitement mais que je dis ici : si votre projet e
 
 Mon positionnement est clair : PME et startups malgaches qui veulent un interlocuteur direct, une expertise locale réelle et un travail qui se voit dans les chiffres.
 
-Si ça correspond à ce que vous cherchez, [contactez-moi](https://miarofandresena.github.io/contact). On commence par parler de votre projet — sans engagement. Je vous dirai honnêtement si je suis le bon prestataire pour vous ou si une autre configuration a plus de sens.
+Si ça correspond à ce que vous cherchez, [contactez-moi](https://miarofandresena.com/contact). On commence par parler de votre projet — sans engagement. Je vous dirai honnêtement si je suis le bon prestataire pour vous ou si une autre configuration a plus de sens.
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), j'ai accompagné des projets très différents depuis plusieurs années. Et j'ai appris à reconnaître les cas où je ne suis pas la meilleure option.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), j'ai accompagné des projets très différents depuis plusieurs années. Et j'ai appris à reconnaître les cas où je ne suis pas la meilleure option.
 
-Si vous hésitez encore entre SEO et d'autres leviers digitaux avant même de choisir votre prestataire, lisez d'abord [SEO vs Google Ads à Madagascar](https://miarofandresena.github.io/2026/05/31/seo-vs-google-ads-madagascar/).
+Si vous hésitez encore entre SEO et d'autres leviers digitaux avant même de choisir votre prestataire, lisez d'abord [SEO vs Google Ads à Madagascar](https://miarofandresena.com/2026/05/31/seo-vs-google-ads-madagascar/).
 
 **Coordonnées :**
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Audit SEO : Le Guide Secret d'un Détective du Référencement"
 date:   2025-03-21 10:05:55 +0300
@@ -36,7 +36,7 @@ Depuis 2020, j'ai audité des centaines de sites. Et j'ai compris que les probl�
 
 Mon processus : analyse des logs de crawl, audit du netlinking, étude des intentions de recherche pour chaque page clé. Pas seulement identifier les erreurs — comprendre leur impact réel sur la visibilité.
 
-Pour approfondir les aspects techniques, vous pouvez consulter mon article sur [le SEO techniques](https://miarofandresena.github.io/2025/02/19/seo-techniques/).
+Pour approfondir les aspects techniques, vous pouvez consulter mon article sur [le SEO techniques](https://miarofandresena.com/2025/02/19/seo-techniques/).
 
 ## Les 3 problèmes invisibles que 90% des audits ratent
 
@@ -99,7 +99,7 @@ Je passe ensuite au contenu et à sa structure.
 - **Contenu dupliqué** : interne (plusieurs pages quasi-identiques) ou externe (contenu repris d'autres sources) ?
 - **Pages à faible valeur** : pages trop courtes, sans trafic, sans backlinks — à enrichir ou supprimer
 
-Pour comprendre [le vrai SEO](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/) derrière ces concepts, j'ai écrit un article dédié.
+Pour comprendre [le vrai SEO](https://miarofandresena.com/2025/02/11/cest-quoi-seo/) derrière ces concepts, j'ai écrit un article dédié.
 
 ### Phase 3 : Audit du netlinking
 
@@ -216,4 +216,4 @@ Les problèmes les plus impactants sont rarement ceux qui s'affichent en rouge d
 
 C'est ce que j'ai appris après des centaines d'audits depuis 2020.
 
-Vous voulez auditer votre site avec la même méthode ? [Contactez-moi](https://miarofandresena.github.io/contact) pour un audit SEO personnalisé.
+Vous voulez auditer votre site avec la même méthode ? [Contactez-moi](https://miarofandresena.com/contact) pour un audit SEO personnalisé.

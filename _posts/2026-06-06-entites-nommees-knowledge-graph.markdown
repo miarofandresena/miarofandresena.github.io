@@ -154,7 +154,7 @@ Google évalue l'Experience, Expertise, Authoritativeness, Trustworthiness (E-E-
 
 Largement par les entités. Un auteur qui est une entité reconnue — avec des mentions sur des sites d'autorité, une cohérence d'information sur le web, une présence dans le Knowledge Graph — a un E-E-A-T plus élevé qu'un auteur anonyme.
 
-Le lien entre entités et [SEO et IA](https://miarofandresena.github.io/2025/04/08/seo-et-ia/) est direct : les modèles d'IA génératifs s'appuient sur les mêmes signaux d'entité pour décider quelles sources citer.
+Le lien entre entités et [SEO et IA](https://miarofandresena.com/2025/04/08/seo-et-ia/) est direct : les modèles d'IA génératifs s'appuient sur les mêmes signaux d'entité pour décider quelles sources citer.
 
 ### Avantage 4 : La résistance aux mises à jour algorithmiques
 
@@ -182,7 +182,7 @@ C'est la méthode la plus directe pour dire à Google : "Je suis une entité de 
   "@type": "Person",
   "name": "Miaro Fandresena",
   "jobTitle": "Consultant SEO",
-  "url": "https://miarofandresena.github.io",
+  "url": "https://miarofandresena.com",
   "sameAs": [
     "https://www.linkedin.com/in/miaro-fandresena",
     "https://twitter.com/miarofandresena"
@@ -247,7 +247,7 @@ Google fait confiance à certaines sources pour alimenter son Knowledge Graph. L
 
 **Google Business Profile :** Pour les entreprises locales, c'est une entrée directe dans l'écosystème Google — donc une entrée potentielle dans le Knowledge Graph. Une fiche bien remplie, vérifiée et active est un signal d'entité fort.
 
-Mon guide sur [Google My Business Madagascar](https://miarofandresena.github.io/2026/05/28/google-my-business-madagascar/) couvre l'optimisation de cette fiche en détail.
+Mon guide sur [Google My Business Madagascar](https://miarofandresena.com/2026/05/28/google-my-business-madagascar/) couvre l'optimisation de cette fiche en détail.
 
 **Les annuaires et bases de données sectoriels :** Pour les professionnels, les organismes de référence de votre secteur (chambres de commerce, associations professionnelles, répertoires d'experts) sont des sources que Google considère.
 
@@ -299,7 +299,7 @@ C'est l'équivalent des backlinks, mais pour les entités.
 
 **Construisez des relations avec des entités locales d'autorité.** Pour Madagascar spécifiquement : la Chambre de Commerce et d'Industrie d'Antananarivo, l'EDBM (Economic Development Board of Madagascar), les associations professionnelles reconnues. Être associé à ces entités — même par une simple mention dans un article — renforce votre propre statut d'entité locale.
 
-**Évitez les co-occurrences négatives.** Si votre nom apparaît régulièrement aux côtés de termes ou d'entités associés à des pratiques douteuses, ce signal peut jouer contre vous. Ça rejoint les principes du [white hat SEO](https://miarofandresena.github.io/2025/03/07/white-hat-seo/) : votre réputation d'entité se construit dans la durée et se détruit aussi.
+**Évitez les co-occurrences négatives.** Si votre nom apparaît régulièrement aux côtés de termes ou d'entités associés à des pratiques douteuses, ce signal peut jouer contre vous. Ça rejoint les principes du [white hat SEO](https://miarofandresena.com/2025/03/07/white-hat-seo/) : votre réputation d'entité se construit dans la durée et se détruit aussi.
 
 <a id="verifier-presence"></a>
 
@@ -353,11 +353,11 @@ Dans votre Schema markup, dans votre contenu, dans vos mentions — associez sys
 
 ### Le lien avec le GEO
 
-J'ai développé dans mon article sur le [GEO à Madagascar](https://miarofandresena.github.io/2026/06/03/geo-madagascar/) pourquoi les IA génératifs s'appuient largement sur le Knowledge Graph de Google et les signaux d'entité pour décider quelles sources citer.
+J'ai développé dans mon article sur le [GEO à Madagascar](https://miarofandresena.com/2026/06/03/geo-madagascar/) pourquoi les IA génératifs s'appuient largement sur le Knowledge Graph de Google et les signaux d'entité pour décider quelles sources citer.
 
 Construire votre empreinte d'entité n'est pas seulement un investissement SEO — c'est aussi un investissement GEO. Les deux logiques convergent sur la question de l'autorité d'entité.
 
-### L'avantage du [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/) en contexte d'entités
+### L'avantage du [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/) en contexte d'entités
 
 Un cocon sémantique bien construit renforce naturellement votre empreinte d'entité. La couverture exhaustive d'un sujet envoie un signal de saillance élevée pour les entités liées à ce sujet.
 
@@ -437,7 +437,7 @@ Avoir un Knowledge Panel est un avantage — mais ce n'est pas la seule façon d
 
 En revanche, si votre concurrent a un panel et pas vous sur des requêtes brandées, c'est un signe que son empreinte d'entité est plus solide. C'est un chantier à prioriser.
 
-### Les entités et le [SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/) classique sont-ils compatibles ?
+### Les entités et le [SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/) classique sont-ils compatibles ?
 
 Totalement. L'optimisation on-page classique — title, H1, meta description, structure du contenu — reste pertinente. L'approche par entités s'y superpose.
 
@@ -451,11 +451,11 @@ Le SEO des entités est l'un des aspects les moins travaillés par les sites mal
 
 Ce n'est pas une technique spectaculaire. Il n'y a pas de résultat visible dans les 30 jours. Mais c'est une infrastructure qui renforce tout le reste : vos positions SEO, votre crédibilité E-E-A-T, votre visibilité dans les IA génératifs.
 
-Si vous voulez qu'on construise ensemble votre empreinte d'entité — Schema markup, cohérence de présence, stratégie de mentions — [contactez-moi](https://miarofandresena.github.io/contact).
+Si vous voulez qu'on construise ensemble votre empreinte d'entité — Schema markup, cohérence de présence, stratégie de mentions — [contactez-moi](https://miarofandresena.com/contact).
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), c'est une dimension que j'intègre systématiquement dans les stratégies que je construis, parce qu'elle renforce tous les autres leviers sur la durée.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), c'est une dimension que j'intègre systématiquement dans les stratégies que je construis, parce qu'elle renforce tous les autres leviers sur la durée.
 
-Pour un panorama complet des enjeux SEO actuels à Madagascar, le [guide SEO pour les entreprises malgaches](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/) reste la meilleure porte d'entrée.
+Pour un panorama complet des enjeux SEO actuels à Madagascar, le [guide SEO pour les entreprises malgaches](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/) reste la meilleure porte d'entrée.
 
 **Coordonnées :**
 

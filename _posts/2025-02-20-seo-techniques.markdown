@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Mes Techniques SEO : Ce Qui Marche Vraiment (Testé sur des Vrais Projets)"
 date:   2025-02-20 10:05:55 +0300
@@ -42,7 +42,7 @@ Les 5 piliers que j'inspecte systématiquement :
 
 > **Ce que signifie "SEO technique" concrètement :** l'ensemble des optimisations qui permettent aux moteurs de recherche de crawler, indexer et comprendre votre site sans obstacle. Aucun contenu brillant ne compense une fondation technique défaillante.
 
-J'explore ma philosophie complète de la visibilité en ligne sur [ma page dédiée au SEO](https://miarofandresena.github.io/seo) — mais plongeons directement dans les techniques.
+J'explore ma philosophie complète de la visibilité en ligne sur [ma page dédiée au SEO](https://miarofandresena.com/seo) — mais plongeons directement dans les techniques.
 
 ---
 
@@ -295,4 +295,4 @@ Le SEO n'est pas de la magie. C'est de la méthode, de la rigueur, et de la pati
 
 Mais quand ça marche — et ça marche — c'est le canal d'acquisition le plus rentable qui existe. Un contenu bien positionné génère du trafic 24h/24, 7j/7, sans payer pour chaque clic.
 
-Si vous voulez que j'audite votre site ou simplement poser des questions — [contactez-moi directement](https://miarofandresena.github.io/contact). Je vous répondrai personnellement.
+Si vous voulez que j'audite votre site ou simplement poser des questions — [contactez-moi directement](https://miarofandresena.com/contact). Je vous répondrai personnellement.

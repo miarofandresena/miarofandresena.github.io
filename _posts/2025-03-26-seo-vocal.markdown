@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO Vocal : La Symphonie Cachée de Google que 99% des Experts Ignorent (Et Comment J'ai Appris à l'Orchestrer)"
 date:   2025-03-26 10:05:55 +0300
@@ -11,7 +11,7 @@ sitemap: false
 
 Un client est venu me voir avec un problème précis.
 
-Son site dominait le [SEO d'un site web](https://miarofandresena.github.io/seo) sur les recherches textuelles. Mais sur les recherches vocales ? Invisible.
+Son site dominait le [SEO d'un site web](https://miarofandresena.com/seo) sur les recherches textuelles. Mais sur les recherches vocales ? Invisible.
 
 Le diagnostic : son contenu était écrit pour être lu, pas pour être entendu. Google Assistant ne le trouvait pas parce que personne ne parle comme il écrit.
 
@@ -41,7 +41,7 @@ Cette différence est fondamentale. Elle change complètement comment vous devez
 - Des featured snippets — ce sont les extraits que les assistants lisent à voix haute
 - Des données structurées — elles aident Google à comprendre exactement ce que contient votre page
 
-**Le rôle du [référencement local](https://miarofandresena.github.io/2025/02/22/seo-local) :**
+**Le rôle du [référencement local](https://miarofandresena.com/2025/02/22/seo-local) :**
 
 70% des recherches vocales proviennent de smartphones et d'appareils connectés. Et la majorité sont locales : "Où est le pharmacien le plus proche ?", "À quelle heure ferme ce restaurant ?".
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Liens internes SEO : comment les optimiser pour ranker plus vite"
 date: 2026-06-11 08:00:00 +0300
@@ -49,7 +49,7 @@ Ou pire : il la trouve, mais ne comprend pas son importance.
 2. **Ils transmettent de l'autorité** — une page forte qui pointe vers une page faible lui donne un coup de pouce
 3. **Ils communiquent la thématique** — le texte du lien (l'ancre) dit à Google de quoi parle la page cible
 
-Si tu veux approfondir les fondamentaux, j'ai écrit un [guide complet du SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/) qui couvre tous les signaux techniques.
+Si tu veux approfondir les fondamentaux, j'ai écrit un [guide complet du SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/) qui couvre tous les signaux techniques.
 
 ---
 
@@ -167,7 +167,7 @@ Chaque fois que tu publies un nouvel article, passe 15 minutes à identifier 3-5
 
 Et inversement : depuis ton nouvel article, link vers des anciens articles pertinents.
 
-C'est exactement ce que j'explique dans ma [méthode de recherche de mots-clés](https://miarofandresena.github.io/2026/06/18/recherche-mots-cles/) — les clusters thématiques se renforcent mutuellement via les liens internes.
+C'est exactement ce que j'explique dans ma [méthode de recherche de mots-clés](https://miarofandresena.com/2026/06/18/recherche-mots-cles/) — les clusters thématiques se renforcent mutuellement via les liens internes.
 
 ---
 
@@ -179,7 +179,7 @@ Ils définissent la **structure thématique** de ton site.
 
 Un groupe de pages bien liées entre elles sur un même sujet envoie un signal très fort à Google : "ce site est une référence sur cette thématique."
 
-C'est le principe du [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/) : une page pilier principale, entourée de pages thématiques, elle-même entourées de pages longue traîne. Toutes liées entre elles de façon cohérente.
+C'est le principe du [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/) : une page pilier principale, entourée de pages thématiques, elle-même entourées de pages longue traîne. Toutes liées entre elles de façon cohérente.
 
 ---
 
@@ -242,7 +242,7 @@ C'est le travail concret.
 4. Édite l'article → ajoute le lien avec une ancre descriptive
 
 **Exemple concret :**
-Dans mon article sur l'[audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/), j'ai ajouté un lien vers l'article sur les [erreurs SEO des sites malgaches](https://miarofandresena.github.io/2025/06/04/erreurs-seo-sites-web-malgaches/) parce que les deux sujets se complètent naturellement.
+Dans mon article sur l'[audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/), j'ai ajouté un lien vers l'article sur les [erreurs SEO des sites malgaches](https://miarofandresena.com/2025/06/04/erreurs-seo-sites-web-malgaches/) parce que les deux sujets se complètent naturellement.
 
 ---
 
@@ -276,7 +276,7 @@ Un lien interne qui pointe vers une page 404, c'est de l'autorité qui part dans
 **Erreur 5 : Oublier de linker depuis la nouvelle page**
 On pense toujours à linker *vers* la nouvelle page. On oublie souvent de linker *depuis* elle vers les articles connexes.
 
-Ce point est aussi listé dans les [erreurs SEO fréquentes des sites malgaches](https://miarofandresena.github.io/2025/06/04/erreurs-seo-sites-web-malgaches/).
+Ce point est aussi listé dans les [erreurs SEO fréquentes des sites malgaches](https://miarofandresena.com/2025/06/04/erreurs-seo-sites-web-malgaches/).
 
 ---
 
@@ -297,7 +297,7 @@ Sous "Liens" → "Liens internes", tu vois exactement quelles pages reçoivent l
 **Ahrefs Webmaster Tools (gratuit pour ton propre site)**
 Permet de voir les "Best by links" (tes pages avec le plus d'autorité) pour planifier depuis où linker vers tes pages faibles.
 
-J'ai détaillé l'utilisation de ces trois outils dans mon article sur les [meilleurs outils SEO gratuits](https://miarofandresena.github.io/2026/06/17/meilleurs-outils-seo-gratuits/).
+J'ai détaillé l'utilisation de ces trois outils dans mon article sur les [meilleurs outils SEO gratuits](https://miarofandresena.com/2026/06/17/meilleurs-outils-seo-gratuits/).
 
 ---
 
@@ -312,7 +312,7 @@ La plupart des sites d'entreprises malgaches ont entre 10 et 50 pages. Bonne nou
 En France, un article bien optimisé peut mettre 6-12 mois à ranker. À Madagascar, j'ai vu des articles bien maillés gagner les premières positions en quelques semaines. Les liens internes ont donc un effet levier encore plus fort ici.
 
 **WordPress domine**
-La plupart des sites malgaches tournent sur WordPress. Yoast et RankMath ont tous les deux des fonctionnalités de suggestions de liens internes. Profites-en. J'en parle dans mon [guide SEO WordPress Madagascar](https://miarofandresena.github.io/2026/05/30/seo-wordpress-madagascar/).
+La plupart des sites malgaches tournent sur WordPress. Yoast et RankMath ont tous les deux des fonctionnalités de suggestions de liens internes. Profites-en. J'en parle dans mon [guide SEO WordPress Madagascar](https://miarofandresena.com/2026/05/30/seo-wordpress-madagascar/).
 
 **Le multilinguisme FR/MG**
 Si ton site a des versions en français et en malgache, ne links que les pages de même langue entre elles dans le contenu. Les liens cross-language perturbent le signal thématique.
@@ -367,4 +367,4 @@ Optimise ta structure de liens internes avant de chercher de nouveaux backlinks.
 
 **Tu veux qu'on regarde ensemble la structure de liens internes de ton site ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/) et on fait un audit rapide de ton maillage interne.
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) et on fait un audit rapide de ton maillage interne.

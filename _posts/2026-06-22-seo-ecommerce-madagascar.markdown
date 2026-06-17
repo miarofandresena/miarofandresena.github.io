@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "SEO pour e-commerce à Madagascar : guide complet"
 date: 2026-06-22 08:00:00 +0300
@@ -82,7 +82,7 @@ Ce qu'il faut chercher :
 - Termes de paiement locaux ("MVola", "Orange Money")
 - Noms de marques populaires localement (Samsung, Tecno, Infinix, LG, Brandt)
 
-J'ai détaillé la méthode complète de recherche de mots-clés dans mon [guide dédié](https://miarofandresena.github.io/2026/06/18/recherche-mots-cles/).
+J'ai détaillé la méthode complète de recherche de mots-clés dans mon [guide dédié](https://miarofandresena.com/2026/06/18/recherche-mots-cles/).
 
 ---
 
@@ -252,7 +252,7 @@ Un hébergeur avec des serveurs proches de l'Afrique ou avec CDN est préférabl
 - Différer le chargement des scripts non critiques
 - Éviter les plugins inutiles si tu es sous WooCommerce
 
-J'ai couvert tous les seuils et outils de mesure dans mon guide [Core Web Vitals Madagascar](https://miarofandresena.github.io/2026/06/09/core-web-vitals-madagascar/).
+J'ai couvert tous les seuils et outils de mesure dans mon guide [Core Web Vitals Madagascar](https://miarofandresena.com/2026/06/09/core-web-vitals-madagascar/).
 
 ---
 
@@ -308,7 +308,7 @@ Ces pages répondent aux questions des acheteurs hésitants et renforcent la con
 **Le contenu saisonnier**
 Rentrée scolaire, fêtes de fin d'année, Saint-Valentin, Noël — anticipe ces pics de demande avec du contenu préparé à l'avance.
 
-Pour construire une architecture de contenu cohérente, j'applique les principes du [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/) : les articles de blog pointent vers les pages catégories, qui pointent vers les fiches produits.
+Pour construire une architecture de contenu cohérente, j'applique les principes du [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/) : les articles de blog pointent vers les pages catégories, qui pointent vers les fiches produits.
 
 ---
 
@@ -326,7 +326,7 @@ La structure de liens internes d'un e-commerce est plus complexe qu'un blog.
 **La règle de profondeur :**
 Aucun produit ne doit être à plus de 3 clics de la page d'accueil. Si tu as des milliers de produits, c'est ta structure de catégories qui doit permettre d'y arriver.
 
-J'ai expliqué toute la logique du maillage dans mon article sur les [liens internes SEO](https://miarofandresena.github.io/2026/06/11/liens-internes-seo/).
+J'ai expliqué toute la logique du maillage dans mon article sur les [liens internes SEO](https://miarofandresena.com/2026/06/11/liens-internes-seo/).
 
 ---
 
@@ -388,7 +388,7 @@ Hébergé, facile à gérer, performances bonnes. Moins flexible sur le SEO tech
 Bon SEO technique out-of-the-box, adapté aux catalogues larges. Courbe d'apprentissage plus élevée. Peu de développeurs locaux maîtrisent PrestaShop à Madagascar.
 
 **Ma recommandation pour Madagascar :**
-WooCommerce pour 90% des cas. Tu as accès à des développeurs WordPress locaux, la communauté est large, et le contrôle SEO est maximal. J'ai détaillé les optimisations dans mon guide [SEO WordPress Madagascar](https://miarofandresena.github.io/2026/05/30/seo-wordpress-madagascar/).
+WooCommerce pour 90% des cas. Tu as accès à des développeurs WordPress locaux, la communauté est large, et le contrôle SEO est maximal. J'ai détaillé les optimisations dans mon guide [SEO WordPress Madagascar](https://miarofandresena.com/2026/05/30/seo-wordpress-madagascar/).
 
 ---
 
@@ -402,7 +402,7 @@ Ma vision honnête :
 **Dès que le SEO donne des résultats :** réduire progressivement les Ads sur les termes où tu rankes bien organiquement.
 **Long terme :** le SEO doit être ta principale source de trafic. Les Ads servent pour les nouveaux produits, les promotions saisonnières et les termes très concurrentiels.
 
-J'ai fait une analyse complète de la question dans mon article [SEO vs Google Ads Madagascar](https://miarofandresena.github.io/2026/05/31/seo-vs-google-ads-madagascar/).
+J'ai fait une analyse complète de la question dans mon article [SEO vs Google Ads Madagascar](https://miarofandresena.com/2026/05/31/seo-vs-google-ads-madagascar/).
 
 ---
 
@@ -478,4 +478,4 @@ C'est le moment d'agir.
 
 **Tu veux une stratégie SEO sur-mesure pour ton e-commerce malgache ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/) et on commence par un audit de ton site.
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) et on commence par un audit de ton site.

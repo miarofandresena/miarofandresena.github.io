@@ -46,7 +46,7 @@ Apparaître en tête des résultats de recherche n'est plus un luxe. C'est une n
 
 Que vous soyez restaurateur au cœur d'Analakely, propriétaire d'un hôtel à Andraharo ou prestataire de services à Ankorondrano, ce guide vous donne les stratégies SEO locales les plus efficaces pour conquérir les premières positions à Antananarivo.
 
-Pour approfondir vos bases, consultez aussi notre guide sur le [référencement naturel local](https://miarofandresena.github.io/2025/02/22/seo-local/).
+Pour approfondir vos bases, consultez aussi notre guide sur le [référencement naturel local](https://miarofandresena.com/2025/02/22/seo-local/).
 
 <a id="pourquoi-le-seo-local"></a>
 
@@ -126,7 +126,7 @@ Les liens provenant de sites malgaches de confiance sont particulièrement valor
 -   **Collaborez avec des influenceurs malgaches** pertinents pour votre secteur
 -   **Soumettez des communiqués de presse** aux médias locaux comme L'Express de Madagascar, Midi Madagasikara ou Madagascar Tribune
 
-Pour une mise en œuvre efficace, consultez un [spécialiste référencement malgache](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/) qui connaît parfaitement les spécificités du marché local.
+Pour une mise en œuvre efficace, consultez un [spécialiste référencement malgache](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) qui connaît parfaitement les spécificités du marché local.
 
 <a id="techniques-avancees"></a>
 
@@ -269,7 +269,7 @@ Absolument ! Créez des pages spécifiques pour chaque quartier principal où vo
 
 ## Me contacter
 
-Vous souhaitez améliorer votre référencement local à Antananarivo ? Contactez-moi pour un audit SEO personnalisé. En tant que [spécialiste référencement malgache](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), je vous propose des solutions adaptées au contexte local pour dominer les recherches à Madagascar.
+Vous souhaitez améliorer votre référencement local à Antananarivo ? Contactez-moi pour un audit SEO personnalisé. En tant que [spécialiste référencement malgache](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), je vous propose des solutions adaptées au contexte local pour dominer les recherches à Madagascar.
 
 **Contactez-moi dès aujourd'hui :**
 

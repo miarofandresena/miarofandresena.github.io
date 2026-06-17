@@ -35,7 +35,7 @@ Voici les 7 critères que j'utilise pour distinguer les vrais professionnels des
 -   [Les signaux d'alerte à ne pas ignorer](#signaux-alerte)
 -   [Conclusion : un investissement stratégique pour votre entreprise](#conclusion)
 
-> **[AUDIT SEO GRATUIT]** Vous souhaitez connaître les points forts et les axes d'amélioration de votre site web ? Contactez-moi dès aujourd'hui pour bénéficier d'un audit SEO complet et sans engagement ! [Demander votre audit gratuit ici](https://miarofandresena.github.io/contact) →
+> **[AUDIT SEO GRATUIT]** Vous souhaitez connaître les points forts et les axes d'amélioration de votre site web ? Contactez-moi dès aujourd'hui pour bénéficier d'un audit SEO complet et sans engagement ! [Demander votre audit gratuit ici](https://miarofandresena.com/contact) →
 
 <a id="introduction"></a>
 
@@ -171,7 +171,7 @@ Exigez :
 
 Minimum requis dans un rapport mensuel : évolution du trafic organique, positions sur les mots-clés ciblés, taux de conversion, et actions réalisées pendant la période.
 
-> **[STRATÉGIE SEO PERSONNALISÉE]** Vous souhaitez une stratégie de référencement adaptée à votre activité et à vos objectifs ? Je vous propose une consultation pour élaborer un plan d'action sur mesure qui boostera votre visibilité en ligne. [Discuter de ma stratégie](https://miarofandresena.github.io/contact) →
+> **[STRATÉGIE SEO PERSONNALISÉE]** Vous souhaitez une stratégie de référencement adaptée à votre activité et à vos objectifs ? Je vous propose une consultation pour élaborer un plan d'action sur mesure qui boostera votre visibilité en ligne. [Discuter de ma stratégie](https://miarofandresena.com/contact) →
 
 <a id="procedure-selection"></a>
 
@@ -239,4 +239,4 @@ Mal choisi, il vous coûtera du temps, de l'argent et des opportunités manquée
 
 Appliquez ces 7 critères. Posez les bonnes questions. Vérifiez les références.
 
-Le bon [consultant Référencement Naturel à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/) ne vous promettra pas des miracles. Il vous montrera des résultats concrets sur des projets réels — et construira les vôtres avec la même rigueur.
+Le bon [consultant Référencement Naturel à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) ne vous promettra pas des miracles. Il vous montrera des résultats concrets sur des projets réels — et construira les vôtres avec la même rigueur.

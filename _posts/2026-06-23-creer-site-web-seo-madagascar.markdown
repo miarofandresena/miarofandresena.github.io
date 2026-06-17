@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Comment créer un site web optimisé SEO à Madagascar"
 date: 2026-06-23 08:00:00 +0300
@@ -46,7 +46,7 @@ Avant de créer une seule page, fais une recherche de mots-clés. Ces mots-clés
 **Question 3 : Quelle est la concurrence ?**
 Cherche tes mots-clés cibles sur Google. Qui est en première page ? Quels types de contenus sont mis en avant ? C'est ta feuille de route.
 
-J'ai détaillé la méthode complète dans mon [guide de recherche de mots-clés](https://miarofandresena.github.io/2026/06/18/recherche-mots-cles/).
+J'ai détaillé la méthode complète dans mon [guide de recherche de mots-clés](https://miarofandresena.com/2026/06/18/recherche-mots-cles/).
 
 ---
 
@@ -77,7 +77,7 @@ Ce que WordPress n'est pas : une solution "plug and play". Il faut choisir un bo
 **Ce que je déconseille :**
 Les créateurs de sites proposés par les hébergeurs locaux ou les opérateurs. Ils semblent pratiques mais offrent quasi zéro contrôle SEO et des performances souvent médiocres.
 
-J'ai détaillé toutes les optimisations SEO spécifiques à WordPress dans mon [guide SEO WordPress Madagascar](https://miarofandresena.github.io/2026/05/30/seo-wordpress-madagascar/).
+J'ai détaillé toutes les optimisations SEO spécifiques à WordPress dans mon [guide SEO WordPress Madagascar](https://miarofandresena.com/2026/05/30/seo-wordpress-madagascar/).
 
 ---
 
@@ -224,10 +224,10 @@ Page d'accueil
 ```
 
 **Structure type pour un e-commerce :**
-J'ai détaillé ça dans mon article [SEO e-commerce Madagascar](https://miarofandresena.github.io/2026/06/22/seo-ecommerce-madagascar/).
+J'ai détaillé ça dans mon article [SEO e-commerce Madagascar](https://miarofandresena.com/2026/06/22/seo-ecommerce-madagascar/).
 
 **La règle du cocon sémantique :**
-Chaque groupe de pages sur un même sujet doit être lié entre lui de façon bidirectionnelle. La page principale link vers les pages secondaires, et les pages secondaires linkent vers la page principale. C'est le principe du [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/).
+Chaque groupe de pages sur un même sujet doit être lié entre lui de façon bidirectionnelle. La page principale link vers les pages secondaires, et les pages secondaires linkent vers la page principale. C'est le principe du [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/).
 
 ---
 
@@ -295,7 +295,7 @@ Gratuit. CDN + protection DDoS + cache. Indispensable pour améliorer les temps 
 **Smush ou Imagify**
 Compression d'images automatique à l'upload. Gain de temps considérable.
 
-J'ai comparé tous ces outils dans mon article sur les [meilleurs outils SEO gratuits](https://miarofandresena.github.io/2026/06/17/meilleurs-outils-seo-gratuits/).
+J'ai comparé tous ces outils dans mon article sur les [meilleurs outils SEO gratuits](https://miarofandresena.com/2026/06/17/meilleurs-outils-seo-gratuits/).
 
 ---
 
@@ -327,7 +327,7 @@ Un site lancé sans aucun contenu informatif perd des opportunités de ranking. 
 Si ton activité a une dimension locale (et c'est le cas de la plupart des entreprises à Madagascar), configure ces éléments dès le lancement.
 
 **Google Business Profile**
-Crée et optimise ton profil Google Business Profile immédiatement. C'est gratuit et c'est le levier SEO local le plus puissant. J'ai écrit un [guide complet Google My Business Madagascar](https://miarofandresena.github.io/2026/05/28/google-my-business-madagascar/).
+Crée et optimise ton profil Google Business Profile immédiatement. C'est gratuit et c'est le levier SEO local le plus puissant. J'ai écrit un [guide complet Google My Business Madagascar](https://miarofandresena.com/2026/05/28/google-my-business-madagascar/).
 
 **Le Schema LocalBusiness**
 À intégrer dans le code de ta page d'accueil ou de ta page Contact :
@@ -351,7 +351,7 @@ Crée et optimise ton profil Google Business Profile immédiatement. C'est gratu
 **La cohérence NAP**
 Nom, Adresse, Téléphone — identiques partout : site web, Google Business Profile, réseaux sociaux, annuaires.
 
-J'ai détaillé toute la stratégie SEO locale dans mon article sur le [SEO local à Madagascar](https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/).
+J'ai détaillé toute la stratégie SEO locale dans mon article sur le [SEO local à Madagascar](https://miarofandresena.com/2025/05/21/seo-local-madagascar/).
 
 ---
 
@@ -371,7 +371,7 @@ Avec 84% des internautes malgaches sur mobile et une connexion moyenne de 13,2 M
 **Le test à faire avant de lancer :**
 PageSpeed Insights → Mobile. L'objectif : score > 70 sur mobile avant même de commencer à optimiser le contenu.
 
-Tout ce qu'il faut savoir sur les métriques de performance est dans mon guide [Core Web Vitals Madagascar](https://miarofandresena.github.io/2026/06/09/core-web-vitals-madagascar/).
+Tout ce qu'il faut savoir sur les métriques de performance est dans mon guide [Core Web Vitals Madagascar](https://miarofandresena.com/2026/06/09/core-web-vitals-madagascar/).
 
 ---
 
@@ -395,7 +395,7 @@ Contenu dupliqué = pénalité potentielle + aucun avantage différentiel. Écri
 **Erreur 6 : Ignorer les balises Title et méta-descriptions**
 Par défaut, WordPress utilise le titre de la page comme balise Title. Ce n'est pas toujours le format optimal pour le SEO. Configure-les manuellement dès le début.
 
-J'ai listé encore plus d'erreurs communes dans mon article sur les [erreurs SEO des sites malgaches](https://miarofandresena.github.io/2025/06/04/erreurs-seo-sites-web-malgaches/).
+J'ai listé encore plus d'erreurs communes dans mon article sur les [erreurs SEO des sites malgaches](https://miarofandresena.com/2025/06/04/erreurs-seo-sites-web-malgaches/).
 
 ---
 
@@ -469,4 +469,4 @@ Un site bien construit dès le départ, c'est une avance de 12 à 18 mois sur ce
 
 **Tu veux créer ou revoir ton site avec une vraie stratégie SEO adaptée à Madagascar ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/) et on démarre par un plan sur mesure.
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) et on démarre par un plan sur mesure.

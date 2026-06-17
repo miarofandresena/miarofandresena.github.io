@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "SEO à Madagascar : Ma Méthode Concrète pour Dominer Google (Sans Budget Pub)"
 date: 2025-02-11 10:05:55 +0300
@@ -25,7 +25,7 @@ Trop longs. Trop vagues. Écrits par des gens qui n'ont jamais optimisé un seul
 
 Moi, c'est différent.
 
-Je m'appelle Miaro Fandresena. Ça fait 6 ans que je fais du [SEO](https://miarofandresena.github.io/seo) — pas en théorie, mais dans la vraie vie, avec de vrais clients, de vrais résultats.
+Je m'appelle Miaro Fandresena. Ça fait 6 ans que je fais du [SEO](https://miarofandresena.com/seo) — pas en théorie, mais dans la vraie vie, avec de vrais clients, de vrais résultats.
 
 Dans cet article, je vous montre exactement ce que je fais. Pas de raccourcis douteux. Pas de promesses en l'air.
 

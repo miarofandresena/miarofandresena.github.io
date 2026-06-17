@@ -12,11 +12,11 @@ address: Sabotsy Namehana, Antananarivo, Madagascar
 copyright: Copyright &copy; Miaro Fandresena 2026
 
 menu:
-  - { name: Consultant SEO, link: "/consultant-seo-madagascar" }
-  - { name: A propos, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-#  - { name: Contact, link: "/contact" }
+  - { name: Consultant SEO, link: "/consultant-seo-madagascar/" }
+  - { name: À propos, link: "/about/" }
+  - { name: Blog, link: "/blog/" }
+  - { name: Portfolio, link: "/portfolio/" }
+#  - { name: Contact, link: "/contact/" }
 
 #-------------------------------
 # Google Analytics Section
@@ -146,21 +146,21 @@ services:
       name: "Optimisation SEO Avancée",
       icon: ti-palette,
       description: "Maximisez la visibilité de votre site sur les moteurs de recherche grâce à des stratégies SEO personnalisées. En tant qu'agence digitale experte et prestataire web, nous optimisons le référencement de votre site tout en garantissant une expérience utilisateur optimale et des solutions web innovantes. Que ce soit pour la création de site, la création de site internet ou la création de sites internet, nous combinons design responsive, conception moderne et optimisation SEO pour sublimer votre présence en ligne. Nous collaborons avec des agences de création et de webdesign pour développer un site performant, attractif et adapté à votre entreprise, renforçant ainsi votre visibilité à long terme. Notre objectif est d'attirer des clients, améliorer votre visibilité et vous garantir le succès numérique. 🚀",
-      link: /seo,
+      link: /seo/,
       active: , # Add true to select section
     }
   - {
       name: "Gestion de Marketing Digital",
       icon: ti-vector,
       description: "Déployez une stratégie digitale performante en combinant SEO, web-marketing et référencement payant (Google Ads, Facebook Ads). En tant qu'agence digitale et agence de communication, nous élaborons des stratégies marketing inbound et utilisons des templates modernes pour optimiser le référencement de votre site et votre communication web. Nos consultants mobilisent des solutions web innovantes et des supports digitaux pour améliorer l'expérience utilisateur de votre site internet et créer un nouveau site attractif. Nous collaborons avec des agences WordPress, agences de création et agences webdesign pour offrir à votre entreprise une visibilité optimale sur Internet. En intégrant des outils d'analyse et en suivant les tendances, nous garantissons une présence en ligne efficace.",
-      link: /marketing,
+      link: /marketing/,
       active: true, # Add true to select section
     }
   - {
       name: "Développement de Sites Web",
       icon: ti-panel,
       description: "Créez un site internet vitrine, e-commerce, intranet ou responsive, performant et sécurisé. Spécialisés en webdesign et création graphique, nous assurons la création de sites optimisés et professionnels avec un design responsive. Optez pour 'Créer un site internet' qui reflète votre identité digitale et garantit une expérience utilisateur optimale. Nos projets incluent des fonctionnalités e-commerce, intranet, applications mobiles et tablettes, avec un nom de domaine adapté. En tant qu'agence webdesign, nous réalisons des sites sur mesure avec des solutions digitales innovantes, templates modernes, Prestashop, Magento, Joomla et WordPress. Nous proposons aussi la refonte de sites pour moderniser votre image et créer un site attractif.",
-      link: /web,
+      link: /web/,
       active: , # Add true to select section
     }
 

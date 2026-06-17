@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Gray Hat SEO : La Méthode Lente Mais Sûre pour Dominer Google… Sans Risque !"
 date:   2025-03-10 10:05:55 +0300
@@ -9,7 +9,7 @@ description: "Découvrez les secrets du Gray Hat SEO et comment j'ai navigué en
 sitemap: false
 ---
 
-> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.github.io/2025/03/15/white-black-gray-hat-seo/).
+> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.com/2025/03/15/white-black-gray-hat-seo/).
 
 En 2021, j'ai boosté un site avec une technique "presque propre".
 
@@ -21,7 +21,7 @@ C'est ça, le Gray Hat SEO dans toute sa réalité.
 
 ## Ce qu'est vraiment le Gray Hat SEO
 
-Le Gray Hat SEO se situe exactement entre le [White Hat SEO](https://miarofandresena.github.io/2025/03/07/white-hat-seo/) et le Black Hat SEO.
+Le Gray Hat SEO se situe exactement entre le [White Hat SEO](https://miarofandresena.com/2025/03/07/white-hat-seo/) et le Black Hat SEO.
 
 Ce ne sont pas des techniques explicitement interdites par Google. Mais elles cherchent à accélérer ou amplifier des résultats de manière qui contourne l'esprit des règles — sans les violer frontalement.
 
@@ -139,7 +139,7 @@ La différence : dans la zone d'ambiguïté, vous apportez une vraie valeur. Dan
 
 ## Conclusion
 
-Le Gray Hat SEO [améliore son référencement](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/) à court terme.
+Le Gray Hat SEO [améliore son référencement](https://miarofandresena.com/2025/02/11/cest-quoi-seo/) à court terme.
 
 Parfois à moyen terme aussi, si vous avez de la chance.
 

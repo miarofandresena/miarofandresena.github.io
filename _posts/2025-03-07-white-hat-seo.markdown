@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "White Hat SEO : La Méthode Lente Mais Sûre pour Dominer Google… Sans Risque !"
 date:   2025-03-07 10:05:55 +0300
@@ -9,7 +9,7 @@ description: "Découvrez comment le White Hat SEO peut booster votre visibilité
 sitemap: false
 ---
 
-> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.github.io/2025/03/15/white-black-gray-hat-seo/).
+> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.com/2025/03/15/white-black-gray-hat-seo/).
 
 Le White Hat SEO, c'est la méthode lente.
 
@@ -39,7 +39,7 @@ Pas de manipulation. Pas de triche. Juste des pratiques honnêtes qui apportent 
 
 L'opposé du Black Hat SEO — qui cherche à manipuler les algorithmes et finit tôt ou tard par se faire sanctionner.
 
-**Durabilité [du référencement](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/) :** Contrairement aux techniques Black Hat, les résultats obtenus en White Hat résistent aux mises à jour d'algorithmes. Vous construisez sur du solide.
+**Durabilité [du référencement](https://miarofandresena.com/2025/02/11/cest-quoi-seo/) :** Contrairement aux techniques Black Hat, les résultats obtenus en White Hat résistent aux mises à jour d'algorithmes. Vous construisez sur du solide.
 
 ## Les 4 piliers du White Hat SEO
 

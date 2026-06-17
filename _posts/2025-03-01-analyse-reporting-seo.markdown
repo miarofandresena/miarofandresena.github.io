@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Analyse et Reporting SEO Efficace : Les Outils et Astuces Que Personne Ne Vous Dit (Mais Que J'Utilise !)"
 date:   2025-03-01 10:05:55 +0300
@@ -42,7 +42,7 @@ Un bon reporting SEO fait trois choses précises :
 
 Avec un tableau de bord bien construit, vous mesurez l'impact de chaque action, identifiez les URL performantes, les maillages internes faibles, et les contenus à retravailler.
 
-C'est ça, [une stratégie SEO réussie](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/).
+C'est ça, [une stratégie SEO réussie](https://miarofandresena.com/2025/02/11/cest-quoi-seo/).
 
 ![Impact analyse SEO](/assets/images/blog/impact-analyse-seo.webp "Impact analyse SEO"){: .img-responsive}
 
@@ -318,4 +318,4 @@ Commencez par installer Google Analytics et Search Console si ce n'est pas fait.
 
 Et regardez votre stratégie SEO passer de "on fait de notre mieux" à "on sait exactement pourquoi ça marche".
 
-Vous voulez un audit SEO de votre site avec un reporting clair et actionnable ? Contactez-moi pour un **[Audit SEO Gratuit](https://miarofandresena.github.io/contact)** ou une consultation personnalisée.
+Vous voulez un audit SEO de votre site avec un reporting clair et actionnable ? Contactez-moi pour un **[Audit SEO Gratuit](https://miarofandresena.com/contact)** ou une consultation personnalisée.

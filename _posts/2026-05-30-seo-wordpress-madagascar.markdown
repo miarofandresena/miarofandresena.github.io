@@ -180,7 +180,7 @@ Ce que vous devez faire sur **chaque image** :
 2. Nommez le fichier correctement : `restaurant-analakely-antananarivo.webp`
 3. Remplissez la balise ALT dans WordPress avec une description utile
 
-Pour aller plus loin sur l'optimisation on-page, consultez mon guide détaillé sur le [SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/).
+Pour aller plus loin sur l'optimisation on-page, consultez mon guide détaillé sur le [SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/).
 
 <a id="etape-5-vitesse"></a>
 
@@ -333,7 +333,7 @@ Yoast et RankMath intègrent tous les deux un module de données structurées. C
 
 Connectez votre site WordPress à votre fiche Google Business Profile via la Google Search Console. Ça permet à Google de croiser les informations de votre site avec votre fiche locale.
 
-Pour une fiche Google Business Profile bien optimisée, consultez mon [guide Google My Business Madagascar](https://miarofandresena.github.io/2026/05/28/google-my-business-madagascar/).
+Pour une fiche Google Business Profile bien optimisée, consultez mon [guide Google My Business Madagascar](https://miarofandresena.com/2026/05/28/google-my-business-madagascar/).
 
 ### Les pages localisées
 
@@ -348,7 +348,7 @@ Structure WordPress recommandée :
 
 Chaque page avec un contenu unique, des références locales spécifiques et un appel à l'action adapté.
 
-Ne dupliquez pas le même contenu en changeant juste le nom de ville — Google détecte ça et ça ne fonctionne pas. Pour les stratégies avancées de [SEO local à Madagascar](https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/), j'ai un guide complet.
+Ne dupliquez pas le même contenu en changeant juste le nom de ville — Google détecte ça et ça ne fonctionne pas. Pour les stratégies avancées de [SEO local à Madagascar](https://miarofandresena.com/2025/05/21/seo-local-madagascar/), j'ai un guide complet.
 
 ### La cohérence NAP sur votre site
 
@@ -415,7 +415,7 @@ Les deux font le travail. Le plus important : en choisir un et bien le configure
 
 ### Mon site WordPress est déjà en ligne depuis 2 ans. Par où commencer ?
 
-Commencez par un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) de votre site. Il y a probablement des problèmes techniques accumulés — pages indexées par erreur, images non compressées, cache absent — qui freinent votre référencement.
+Commencez par un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) de votre site. Il y a probablement des problèmes techniques accumulés — pages indexées par erreur, images non compressées, cache absent — qui freinent votre référencement.
 
 Réglez les problèmes techniques en premier. Ensuite seulement, travaillez le contenu et les backlinks.
 
@@ -452,11 +452,11 @@ Comptez 3-4 mois avant de voir des résultats significatifs sur des mots-clés c
 
 Un site WordPress bien configuré est la fondation de toute votre stratégie digitale à Madagascar.
 
-Si vous voulez aller plus loin — audit technique, stratégie de contenu, netlinking local — ou si vous avez un site existant que vous soupçonnez d'être freiné par des problèmes techniques, [contactez-moi](https://miarofandresena.github.io/contact).
+Si vous voulez aller plus loin — audit technique, stratégie de contenu, netlinking local — ou si vous avez un site existant que vous soupçonnez d'être freiné par des problèmes techniques, [contactez-moi](https://miarofandresena.com/contact).
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), je travaille directement sur WordPress et je connais les spécificités du marché malgache.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), je travaille directement sur WordPress et je connais les spécificités du marché malgache.
 
-Pour comprendre ce que représente un tel accompagnement en termes d'investissement, consultez aussi mon guide sur le [coût d'une stratégie SEO à Madagascar](https://miarofandresena.github.io/2025/05/26/cout-strategie-seo-madagascar/).
+Pour comprendre ce que représente un tel accompagnement en termes d'investissement, consultez aussi mon guide sur le [coût d'une stratégie SEO à Madagascar](https://miarofandresena.com/2025/05/26/cout-strategie-seo-madagascar/).
 
 **Coordonnées :**
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Développement Web : De Zéro à Dev en 4 Ans (Mon Parcours Exact)"
 date:   2025-02-17 10:05:55 +0300
@@ -22,7 +22,7 @@ Je m'appelle Miaro Fandresena. Développeur web. Consultant SEO. Et quelqu'un qu
 
 ## Ce Que Vous Allez Apprendre
 
-J'ai terminé ma formation universitaire en [développement web](https://miarofandresena.github.io/web) en 2019.
+J'ai terminé ma formation universitaire en [développement web](https://miarofandresena.com/web) en 2019.
 
 Mon cerveau est encore frais. Je me souviens de chaque difficulté rencontrée.
 

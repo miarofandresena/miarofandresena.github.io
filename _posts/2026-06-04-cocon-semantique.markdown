@@ -217,7 +217,7 @@ Pour que le cocon fonctionne, chaque page doit :
 - Avoir un contenu suffisamment différent des autres pages du cocon pour éviter la cannibalisation
 - Inclure les liens internes vers les pages adjacentes (voir étape 5)
 
-Mon guide sur le [SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/) couvre les règles d'optimisation individuelle de chaque page en détail.
+Mon guide sur le [SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/) couvre les règles d'optimisation individuelle de chaque page en détail.
 
 <a id="etape-5"></a>
 
@@ -248,7 +248,7 @@ Chaque page du cocon doit être reliée à sa page parente et à ses pages enfan
 
 L'ancre de lien (le texte cliquable) est aussi importante que le lien lui-même. Elle dit à Google de quoi parle la page de destination.
 
-**Bonne ancre :** "[SEO local à Madagascar](https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/)" pour un lien vers la page sur le SEO local malgache.
+**Bonne ancre :** "[SEO local à Madagascar](https://miarofandresena.com/2025/05/21/seo-local-madagascar/)" pour un lien vers la page sur le SEO local malgache.
 
 **Mauvaise ancre :** "cliquez ici" ou "en savoir plus" — elles ne transmettent aucune information sémantique à Google.
 
@@ -356,7 +356,7 @@ Un cocon n'est pas un projet "publier et oublier". Les pages doivent être mises
 
 Un cocon purement informatif ne convertit pas. Assurez-vous que vos pages de niveau 3 — les plus précises — incluent des appels à l'action adaptés à l'intention de l'utilisateur. Une page sur "prix m2 Antananarivo" mérite un CTA vers votre page de contact ou d'estimation.
 
-Pour détecter les problèmes structurels sur un site existant avant de construire un cocon, un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) est souvent le point de départ le plus rentable.
+Pour détecter les problèmes structurels sur un site existant avant de construire un cocon, un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) est souvent le point de départ le plus rentable.
 
 <a id="outils"></a>
 
@@ -456,7 +456,7 @@ Le cocon sémantique est une stratégie de long terme. Ce n'est pas un raccourci
 
 Très compatible. Un cocon bien construit — avec des réponses directes, des structures FAQ, une couverture thématique exhaustive — correspond exactement aux signaux que les IA génératifs recherchent pour citer une source.
 
-Consultez mon article sur le [GEO à Madagascar](https://miarofandresena.github.io/2026/06/03/geo-madagascar/) pour comprendre comment les deux approches se renforcent.
+Consultez mon article sur le [GEO à Madagascar](https://miarofandresena.com/2026/06/03/geo-madagascar/) pour comprendre comment les deux approches se renforcent.
 
 ### Puis-je avoir plusieurs cocons sur le même site ?
 
@@ -476,11 +476,11 @@ Ce n'est pas compliqué à comprendre. C'est exigeant à exécuter — parce que
 
 Mais les sites qui le font bien construisent un avantage concurrentiel durable. Particulièrement à Madagascar, où peu d'entreprises travaillent leur architecture de contenu sérieusement.
 
-Si vous souhaitez qu'on construise un cocon sémantique ensemble — de la cartographie des mots-clés jusqu'au maillage final — [contactez-moi](https://miarofandresena.github.io/contact).
+Si vous souhaitez qu'on construise un cocon sémantique ensemble — de la cartographie des mots-clés jusqu'au maillage final — [contactez-moi](https://miarofandresena.com/contact).
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), c'est un travail que je fais régulièrement pour mes clients, avec des résultats mesurables sur des marchés locaux et nationaux.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), c'est un travail que je fais régulièrement pour mes clients, avec des résultats mesurables sur des marchés locaux et nationaux.
 
-Pour comprendre comment le cocon sémantique s'intègre dans une stratégie globale, lisez aussi mon [guide SEO complet pour les entreprises malgaches](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/).
+Pour comprendre comment le cocon sémantique s'intègre dans une stratégie globale, lisez aussi mon [guide SEO complet pour les entreprises malgaches](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/).
 
 **Coordonnées :**
 

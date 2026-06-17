@@ -164,7 +164,7 @@ Tous les scripts non critiques doivent être chargés en `defer` ou `async` :
 
 **Réduisez le JavaScript inutile.**
 
-Désinstallez les plugins WordPress que vous n'utilisez pas. Chaque plugin supprimé, c'est du JavaScript en moins. J'en parle dans mon guide [SEO WordPress Madagascar](https://miarofandresena.github.io/2026/05/29/seo-wordpress-madagascar/) — la règle vaut aussi pour l'INP.
+Désinstallez les plugins WordPress que vous n'utilisez pas. Chaque plugin supprimé, c'est du JavaScript en moins. J'en parle dans mon guide [SEO WordPress Madagascar](https://miarofandresena.com/2026/05/29/seo-wordpress-madagascar/) — la règle vaut aussi pour l'INP.
 
 **Découpez les tâches longues.**
 
@@ -258,7 +258,7 @@ La section **"Expérience" > "Signaux Web Essentiels"** (Core Web Vitals) dans S
 
 C'est l'outil le plus actionnable : il vous dit combien de pages ont des problèmes, de quel type, et lesquelles corriger en priorité.
 
-Pour bien configurer votre Search Console, consultez mon guide sur l'[analyse et le reporting SEO](https://miarofandresena.github.io/2025/03/01/analyse-reporting-seo/).
+Pour bien configurer votre Search Console, consultez mon guide sur l'[analyse et le reporting SEO](https://miarofandresena.com/2025/03/01/analyse-reporting-seo/).
 
 ### Chrome DevTools
 
@@ -354,7 +354,7 @@ Certains thèmes WordPress chargent 15 à 20 fichiers CSS et JS même sur les pa
 
 Testez votre thème seul (sans plugins) sur PageSpeed Insights. Si le score est déjà bas, le thème est le problème — pas les plugins.
 
-Les thèmes légers recommandés : Astra, GeneratePress, Kadence. J'en parle en détail dans mon guide [SEO WordPress Madagascar](https://miarofandresena.github.io/2026/05/29/seo-wordpress-madagascar/).
+Les thèmes légers recommandés : Astra, GeneratePress, Kadence. J'en parle en détail dans mon guide [SEO WordPress Madagascar](https://miarofandresena.com/2026/05/29/seo-wordpress-madagascar/).
 
 ### Le stack de performance recommandé pour WordPress à Madagascar
 
@@ -481,7 +481,7 @@ Les mêmes métriques s'appliquent partout. Mais les problèmes dominants varien
 - **Blog WordPress :** le LCP est généralement le premier problème (images hero non optimisées)
 - **Site vitrine :** l'INP peut être un problème si des sliders ou animations JavaScript sont utilisés
 
-Identifiez vos problèmes principaux avec un [audit SEO](https://miarofandresena.github.io/2025/03/21/audit-seo/) complet avant de prioriser vos corrections.
+Identifiez vos problèmes principaux avec un [audit SEO](https://miarofandresena.com/2025/03/21/audit-seo/) complet avant de prioriser vos corrections.
 
 ### Mon hébergeur est en France. Est-ce un problème pour le TTFB ?
 
@@ -501,11 +501,11 @@ Personne ne s'enthousiasme pour optimiser un attribut `width` ou différer un sc
 
 À Madagascar, où la majorité des sites échouent sur ces métriques basiques, corriger les CWV vous donne un avantage concret et mesurable sur vos concurrents.
 
-Si vous voulez un diagnostic précis des problèmes Core Web Vitals de votre site — avec les corrections prioritaires identifiées et chiffrées — [contactez-moi](https://miarofandresena.github.io/contact).
+Si vous voulez un diagnostic précis des problèmes Core Web Vitals de votre site — avec les corrections prioritaires identifiées et chiffrées — [contactez-moi](https://miarofandresena.com/contact).
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), j'intègre systématiquement l'audit des CWV dans ma prestation, parce que les performances techniques conditionne tout le reste de la stratégie.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), j'intègre systématiquement l'audit des CWV dans ma prestation, parce que les performances techniques conditionne tout le reste de la stratégie.
 
-Pour les erreurs SEO techniques les plus fréquentes sur les sites malgaches — dont certaines impactent directement les CWV — consultez également mon article sur les [erreurs SEO les plus courantes des sites web malgaches](https://miarofandresena.github.io/2025/06/04/erreurs-seo-sites-web-malgaches/).
+Pour les erreurs SEO techniques les plus fréquentes sur les sites malgaches — dont certaines impactent directement les CWV — consultez également mon article sur les [erreurs SEO les plus courantes des sites web malgaches](https://miarofandresena.com/2025/06/04/erreurs-seo-sites-web-malgaches/).
 
 **Coordonnées :**
 

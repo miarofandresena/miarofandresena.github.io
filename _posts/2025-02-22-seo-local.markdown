@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Comment Dominer le SEO Local et Attirer Plus de Clients près de Chez Vous"
 date:   2025-02-22 10:05:55 +0300
@@ -85,7 +85,7 @@ NAP : **N**om, **A**dresse, **T**éléphone.
 
 Ces trois informations doivent être identiques sur TOUS vos supports en ligne. Site web, annuaires, réseaux sociaux, Google My Business.
 
-Même une virgule de différence peut nuire à [votre référencement](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/).
+Même une virgule de différence peut nuire à [votre référencement](https://miarofandresena.com/2025/02/11/cest-quoi-seo/).
 
 **Pourquoi c'est aussi important ?**
 

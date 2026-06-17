@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Consultant SEO à Madagascar | Miaro Fandresena – Expert Référencement"
 date:   2024-07-23 10:05:55 +0300
@@ -106,7 +106,7 @@ Mon process :
 - Prise en compte des spécificités linguistiques locales (français, malgache, anglais).
 - Focus sur les mots-clés de longue traîne : moins concurrentiels, plus convertissants.
 
-### [Optimisation On-Page Experte](https://miarofandresena.github.io/2025/02/20/seo-on-page/)
+### [Optimisation On-Page Experte](https://miarofandresena.com/2025/02/20/seo-on-page/)
 
 Chaque page de votre site est une opportunité de ranker.
 
@@ -147,7 +147,7 @@ Ma stratégie de backlinks :
 - Guest posting sur des sites pertinents dans votre secteur.
 - Monitoring mensuel du profil de liens + désaveu des liens toxiques.
 
-### [SEO Local pour Madagascar et à l'International](https://miarofandresena.github.io/2025/02/22/seo-local/)
+### [SEO Local pour Madagascar et à l'International](https://miarofandresena.com/2025/02/22/seo-local/)
 
 Vous voulez apparaître quand quelqu'un cherche votre service à Antananarivo ?
 

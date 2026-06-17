@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO On-Page : Mes Techniques Exactes pour Optimiser Chaque Page (Et Attirer Plus de Trafic)"
 date:   2025-02-20 10:05:55 +0300
@@ -16,7 +16,7 @@ Votre **SEO on-page** est bancal.
 
 Et c'est exactement ce qu'on va corriger dans cet article.
 
-Après plusieurs années sur des [projets SEO concrets](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/), voici mes méthodes exactes — celles que j'applique sur chaque page que j'optimise.
+Après plusieurs années sur des [projets SEO concrets](https://miarofandresena.com/2025/02/11/cest-quoi-seo/), voici mes méthodes exactes — celles que j'applique sur chaque page que j'optimise.
 
 Pas de théorie. Pas de blabla. Juste ce qui fonctionne.
 
@@ -223,4 +223,4 @@ Avant de vous lancer dans une stratégie de backlinks, assurez-vous que chaque p
 
 Des **URLs** propres au **maillage interne** efficace, en passant par les **balises** et la **vitesse** — chaque détail compte.
 
-Si vous souhaitez un audit personnalisé de votre site, [contactez-moi](https://miarofandresena.github.io/contact). Je suis là pour vous aider à booster votre référencement et à atteindre vos objectifs.
+Si vous souhaitez un audit personnalisé de votre site, [contactez-moi](https://miarofandresena.com/contact). Je suis là pour vous aider à booster votre référencement et à atteindre vos objectifs.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO Off-Page : Le Guide Anti-Compliqué pour les Débutants (Testé et Approuvé)"
 date:   2025-03-05 10:05:55 +0300
@@ -30,9 +30,9 @@ Allons-y.
 
 Le SEO off-page, c'est tout ce qui améliore votre autorité en dehors de votre site.
 
-Contrairement au [SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/) — qui optimise ce qui est sur votre site — le SEO off-page travaille sur les signaux externes : backlinks, mentions de marque, citations, partages.
+Contrairement au [SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/) — qui optimise ce qui est sur votre site — le SEO off-page travaille sur les signaux externes : backlinks, mentions de marque, citations, partages.
 
-Ces signaux externes sont cruciaux pour votre [référencement global](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/).
+Ces signaux externes sont cruciaux pour votre [référencement global](https://miarofandresena.com/2025/02/11/cest-quoi-seo/).
 
 **Pourquoi ?** Parce que Google interprète chaque lien pointant vers vous comme un vote de confiance. Plus ces votes viennent de sources respectées, plus Google vous fait confiance.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Black Hat SEO : Les Dessous Cachés d'une Pratique qui a Inspiré mes Pires Cauchemars"
 date:   2025-03-10 10:05:55 +0300
@@ -9,7 +9,7 @@ description: "Plongez dans l'univers secret du Black Hat SEO, découvrez des his
 sitemap: false
 ---
 
-> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.github.io/2025/03/15/white-black-gray-hat-seo/).
+> **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.com/2025/03/15/white-black-gray-hat-seo/).
 
 J'ai testé le Black Hat SEO en 2021.
 
@@ -23,7 +23,7 @@ Sans bullshit. Juste les faits.
 
 ## Ce qu'est vraiment le Black Hat SEO
 
-Dans le [monde du SEO](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/), le Black Hat désigne toutes les techniques qui cherchent à manipuler les algorithmes de Google plutôt qu'à apporter une vraie valeur aux utilisateurs.
+Dans le [monde du SEO](https://miarofandresena.com/2025/02/11/cest-quoi-seo/), le Black Hat désigne toutes les techniques qui cherchent à manipuler les algorithmes de Google plutôt qu'à apporter une vraie valeur aux utilisateurs.
 
 L'attrait est évident : des résultats rapides, sans le travail long et patient du White Hat SEO.
 

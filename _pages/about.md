@@ -1,11 +1,12 @@
 ---
 layout: about-temp
 permalink : /about/
-title: "À propos — Miaro Fandresena, Consultant SEO Madagascar"
+title: "6 ans à construire des visibilités durables à Madagascar"
+seo_title: "Miaro Fandresena — Consultant SEO Madagascar Expert depuis 2019"
 author: Miaro Fandresena Rafanomezaniavo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
-description : "Consultant SEO basé à Antananarivo avec 6 ans d'expérience. Audit technique, stratégie de contenu E-E-A-T, netlinking White Hat et GEO pour des résultats durables."
+description : "Consultant SEO indépendant basé à Antananarivo depuis 2019. 50+ sites optimisés. Audit technique, contenu E-E-A-T, netlinking White Hat et GEO pour des résultats durables."
 ---
 
 ## 6 ans à construire des visibilités durables

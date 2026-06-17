@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "GEO 2026 : le guide complet de l'optimisation pour les moteurs génératifs"
 date: 2026-04-08 10:05:55 +0300
@@ -48,7 +48,7 @@ Le SEO classique optimise pour les algorithmes de ranking. Le GEO optimise pour 
 | Trafic : clic vers le site | Trafic : mention (souvent sans clic) |
 | Mesure : positions et clics | Mesure : mentions et citations |
 
-J'ai comparé les deux stratégies en détail dans mon article [SEO vs GEO](https://miarofandresena.github.io/2026/06/10/seo-vs-geo/).
+J'ai comparé les deux stratégies en détail dans mon article [SEO vs GEO](https://miarofandresena.com/2026/06/10/seo-vs-geo/).
 
 ---
 
@@ -111,7 +111,7 @@ Un site qui publie régulièrement sur un sujet précis, avec de la profondeur e
 
 Un site généraliste qui publie un article sur 50 sujets différents est moins souvent cité, même si chaque article est de qualité.
 
-**Comment l'appliquer :** construis une couverture thématique profonde sur ton domaine. C'est le principe du [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/) appliqué au GEO.
+**Comment l'appliquer :** construis une couverture thématique profonde sur ton domaine. C'est le principe du [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/) appliqué au GEO.
 
 ### Signal 2 : Les réponses directes et extractables
 
@@ -152,7 +152,7 @@ Si d'autres sources mentionnent ton nom, ton site, ou citent ton contenu — c'e
 
 C'est le lien entre le GEO et les entités nommées. Un site qui est une entité reconnue dans son domaine (avec des mentions dans la presse, dans d'autres sites d'autorité) sera naturellement préféré comme source.
 
-J'ai détaillé le fonctionnement des entités dans mon article sur les [entités nommées et le Knowledge Graph](https://miarofandresena.github.io/2026/06/06/entites-nommees-knowledge-graph/).
+J'ai détaillé le fonctionnement des entités dans mon article sur les [entités nommées et le Knowledge Graph](https://miarofandresena.com/2026/06/06/entites-nommees-knowledge-graph/).
 
 ### Signal 5 : Le format FAQ structuré
 
@@ -284,4 +284,4 @@ Ce qui change, c'est l'angle et quelques optimisations spécifiques.
 
 **Tu veux évaluer ta visibilité GEO et construire une stratégie adaptée ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/).
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/).

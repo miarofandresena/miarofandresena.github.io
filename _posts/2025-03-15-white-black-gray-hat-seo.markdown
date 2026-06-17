@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées"
 date: 2025-03-15 10:05:55 +0300
@@ -223,4 +223,4 @@ J'ai vu les deux types de résultats. Pas de doute sur lequel vaut la peine.
 
 **Tu veux vérifier que ton SEO actuel est dans les clous et construire une stratégie durable ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/).
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/).

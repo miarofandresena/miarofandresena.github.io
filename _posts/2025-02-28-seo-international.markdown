@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO International : Les Clés pour Réussir sur les Marchés Internationaux"
 date:   2025-02-28 10:05:55 +0300
@@ -36,7 +36,7 @@ Contrairement au SEO local ou national, l'enjeu est différent.
 
 Vous gérez plusieurs langues, plusieurs cultures, plusieurs algorithmes locaux — et parfois plusieurs concurrents que vous ne connaissez même pas.
 
-[Une stratégie SEO](https://miarofandresena.github.io/2025/02/11/cest-quoi-seo/) internationale bien exécutée peut transformer une entreprise nationale en acteur mondial.
+[Une stratégie SEO](https://miarofandresena.com/2025/02/11/cest-quoi-seo/) internationale bien exécutée peut transformer une entreprise nationale en acteur mondial.
 
 **Preuve concrète :** J'ai aidé une entreprise à augmenter son trafic international de 150% en 6 mois avec une stratégie de mots-clés multilingues et une optimisation on-page adaptée. Ce n'est pas exceptionnel — c'est reproductible quand on sait comment faire.
 
@@ -237,8 +237,8 @@ Commencez par un seul marché. Faites-le bien. Puis passez au suivant.
 
 Pour approfondir le sujet, voici d'autres ressources utiles :
 
-- [Article sur le SEO Local](https://miarofandresena.github.io/2025/02/22/seo-local/)
-- [Étude de Cas sur le SEO Technique](https://miarofandresena.github.io/2025/02/19/seo-techniques/)
-- [Guide Complet sur le SEO On-Page](https://miarofandresena.github.io/2025/02/20/seo-on-page/)
+- [Article sur le SEO Local](https://miarofandresena.com/2025/02/22/seo-local/)
+- [Étude de Cas sur le SEO Technique](https://miarofandresena.com/2025/02/19/seo-techniques/)
+- [Guide Complet sur le SEO On-Page](https://miarofandresena.com/2025/02/20/seo-on-page/)
 
 Des questions sur votre stratégie SEO internationale ? Laissez un commentaire, je vous réponds.

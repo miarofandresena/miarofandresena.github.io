@@ -40,7 +40,7 @@ C'est une carte de ce que vos clients potentiels cherchent sur Google — à cha
 
 Cette carte vous dit :
 - **Quoi créer** : quels contenus, quelles pages de service, quelles FAQ
-- **Comment l'organiser** : quelle hiérarchie, quel [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/)
+- **Comment l'organiser** : quelle hiérarchie, quel [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/)
 - **Dans quel ordre** : quelles opportunités attaquer en premier
 
 Une recherche de mots-clés ratée, c'est du temps perdu sur des contenus que personne ne cherche, ou que vous ne pouvez pas positionner face à la concurrence.
@@ -304,7 +304,7 @@ Un cluster, c'est un groupe de mots-clés qui traitent du même sujet sous des a
 - "Ravitoto : recette et histoire" (N2)
 - "Romazava restaurant Antananarivo" (N3)
 
-Chaque cluster devient un cocon avec sa hiérarchie et son maillage interne. Pour construire cette structure, consultez mon guide sur le [cocon sémantique](https://miarofandresena.github.io/2026/06/04/cocon-semantique/).
+Chaque cluster devient un cocon avec sa hiérarchie et son maillage interne. Pour construire cette structure, consultez mon guide sur le [cocon sémantique](https://miarofandresena.com/2026/06/04/cocon-semantique/).
 
 <a id="contexte-malgache"></a>
 
@@ -391,7 +391,7 @@ La recherche de mots-clés n'est pas un travail qu'on fait une fois. Le marché 
 
 Et inversement : être en position 12 sur un mot-clé à fort volume peut quand même vous apporter du trafic. Search Console vous le montrera avec précision.
 
-Pour les détails sur comment utiliser ces mots-clés une fois identifiés, consultez mon guide sur le [SEO on-page](https://miarofandresena.github.io/2025/02/20/seo-on-page/) et mes [meilleurs outils SEO gratuits](https://miarofandresena.github.io/2026/06/17/meilleurs-outils-seo-gratuits/) pour faire ce travail sans budget.
+Pour les détails sur comment utiliser ces mots-clés une fois identifiés, consultez mon guide sur le [SEO on-page](https://miarofandresena.com/2025/02/20/seo-on-page/) et mes [meilleurs outils SEO gratuits](https://miarofandresena.com/2026/06/17/meilleurs-outils-seo-gratuits/) pour faire ce travail sans budget.
 
 <a id="faq"></a>
 
@@ -458,11 +458,11 @@ La recherche de mots-clés est le travail le moins visible du SEO — et pourtan
 
 Mal fait, il vous conduit à créer du contenu pour des sujets que personne ne cherche. Bien fait, il vous donne une feuille de route claire pour les 12 à 24 prochains mois de contenu.
 
-Si vous voulez qu'on fasse cette recherche ensemble pour votre secteur à Madagascar — avec les outils professionnels, l'analyse de vos concurrents, et l'organisation finale en clusters prêts à être produits — [contactez-moi](https://miarofandresena.github.io/contact).
+Si vous voulez qu'on fasse cette recherche ensemble pour votre secteur à Madagascar — avec les outils professionnels, l'analyse de vos concurrents, et l'organisation finale en clusters prêts à être produits — [contactez-moi](https://miarofandresena.com/contact).
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/), la recherche de mots-clés est systématiquement la première étape de tout accompagnement — avant de toucher à quoi que ce soit d'autre sur votre site.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), la recherche de mots-clés est systématiquement la première étape de tout accompagnement — avant de toucher à quoi que ce soit d'autre sur votre site.
 
-Pour comprendre où s'insère la recherche de mots-clés dans une stratégie SEO globale, consultez aussi le [guide SEO complet pour les entreprises malgaches](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/).
+Pour comprendre où s'insère la recherche de mots-clés dans une stratégie SEO globale, consultez aussi le [guide SEO complet pour les entreprises malgaches](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/).
 
 **Coordonnées :**
 

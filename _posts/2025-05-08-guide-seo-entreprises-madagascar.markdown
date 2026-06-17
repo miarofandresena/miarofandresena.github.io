@@ -27,7 +27,7 @@ Madagascar n'est pas Paris. Ni New York. Ni même Nairobi.
 
 Si vous appliquez une stratégie SEO générique à Madagascar, vous laissez du trafic et des clients sur la table.
 
-Ce guide est basé sur l'analyse de plus de 200 sites malgaches et 5 ans d'expérience en tant que [consultant SEO à Mada](https://miarofandresena.github.io/2024/07/23/consultant-seo-a-madagascar/). Voici exactement ce qui fonctionne ici.
+Ce guide est basé sur l'analyse de plus de 200 sites malgaches et 5 ans d'expérience en tant que [consultant SEO à Mada](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/). Voici exactement ce qui fonctionne ici.
 
 
 <a id="etat-marche-digital"></a>
@@ -127,7 +127,7 @@ Ce que j'implémente systématiquement :
 - Balisage schema.org
 - Erreurs d'indexation dans Google Search Console
 
-[Contactez-moi pour un audit technique complet de votre site](https://miarofandresena.github.io/contact)
+[Contactez-moi pour un audit technique complet de votre site](https://miarofandresena.com/contact)
 
 <a id="seo-on-page-madagascar"></a>
 
@@ -444,7 +444,7 @@ Les facteurs clés de succès en 2025 :
 4. Commencez par les optimisations techniques pour des résultats rapides
 5. Développez progressivement votre stratégie de contenu et de backlinks
 
-Vous voulez être accompagné ? [Contactez-moi dès aujourd'hui](https://miarofandresena.github.io/contact) pour un audit SEO gratuit.
+Vous voulez être accompagné ? [Contactez-moi dès aujourd'hui](https://miarofandresena.com/contact) pour un audit SEO gratuit.
 
 <a id="faq-seo-madagascar"></a>
 
