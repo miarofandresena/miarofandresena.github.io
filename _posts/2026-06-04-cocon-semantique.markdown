@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Cocon sémantique : c'est quoi et comment le construire ?"
 date:   2026-06-04 09:00:00 +0300
@@ -18,23 +18,6 @@ C'est exactement ce qu'un cocon sémantique construit.
 
 Dans ce guide, je vous explique ce que c'est, pourquoi ça fonctionne, et comment en construire un — avec un exemple concret que vous pouvez adapter à votre activité.
 
-## Sommaire
-
-- [C'est quoi un cocon sémantique ?](#cest-quoi)
-- [Pourquoi ça fonctionne](#pourquoi-ca-fonctionne)
-- [La structure d'un cocon sémantique](#structure)
-- [Étape 1 : Choisir le sujet central](#etape-1)
-- [Étape 2 : Cartographier les mots-clés](#etape-2)
-- [Étape 3 : Organiser la hiérarchie](#etape-3)
-- [Étape 4 : Créer les pages](#etape-4)
-- [Étape 5 : Construire le maillage interne](#etape-5)
-- [Exemple concret : cocon sémantique pour une entreprise malgache](#exemple-concret)
-- [Les règles du maillage interne dans un cocon](#regles-maillage)
-- [Les erreurs à éviter](#erreurs)
-- [Les outils pour construire votre cocon](#outils)
-- [Checklist](#checklist)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Cocon sémantique SEO - Guide complet](/assets/images/blog/cocon-semantique.webp "Cocon sémantique SEO - Guide complet"){: .img-responsive}
 

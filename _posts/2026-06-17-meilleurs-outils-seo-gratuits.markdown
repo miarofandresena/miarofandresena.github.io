@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Meilleurs outils SEO gratuits en 2026 : ma sélection testée"
 date:   2026-06-17 09:00:00 +0300
@@ -16,20 +16,6 @@ Je le dis en connaissance de cause : j'utilise des outils payants au quotidien. 
 
 Voici ce stack. Avec une précision importante : je ne liste pas tous les outils gratuits qui existent. Je liste ceux que **j'utilise vraiment**, ceux dont le niveau gratuit est réellement utilisable — pas des demos de 10 requêtes par jour qui servent surtout à vous vendre un abonnement.
 
-## Sommaire
-
-- [Mes critères de sélection](#criteres)
-- [Comprendre votre marché : keyword research](#keyword-research)
-- [Auditer votre site : technique et crawl](#audit-technique)
-- [Suivre vos performances : analytics et positions](#analytics-positions)
-- [Optimiser vos pages : on-page](#on-page)
-- [Analyser vos backlinks](#backlinks)
-- [Vérifier vos Core Web Vitals](#core-web-vitals)
-- [SEO local](#seo-local)
-- [Le stack minimal pour démarrer à Madagascar](#stack-minimal)
-- [Les outils à éviter ou à relativiser](#a-eviter)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Meilleurs outils SEO gratuits 2026](/assets/images/blog/meilleurs-outils-seo-gratuits.webp "Meilleurs outils SEO gratuits 2026"){: .img-responsive}
 

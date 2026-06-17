@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Comment choisir son consultant SEO à Madagascar : 7 critères essentiels"
 date:   2025-05-13 10:05:55 +0300
@@ -14,11 +14,6 @@ Le problème : 90% n'ont aucun résultat concret à montrer.
 
 Voici les 7 critères que j'utilise pour distinguer les vrais professionnels des vendeurs de promesses — et les questions exactes à poser avant de signer quoi que ce soit.
 
-## Sommaire
-
--   [Introduction](#introduction)
--   [Pourquoi engager un consultant SEO à Madagascar ?](#pourquoi-engager-un-consultant-seo)
--   [Les 7 critères essentiels pour choisir son consultant SEO à Madagascar](#criteres-essentiels)
     -   [1. L'expertise et l'expérience vérifiables](#expertise-experience)
     -   [2. La transparence sur les méthodes utilisées](#transparence-methodes)
     -   [3. L'adaptation aux spécificités de votre secteur](#adaptation-secteur)

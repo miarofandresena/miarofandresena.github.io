@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO WordPress Madagascar : optimiser son site étape par étape"
 date:   2026-05-30 09:00:00 +0300
@@ -18,20 +18,6 @@ Dans ce guide, je vous montre comment lever ce frein — étape par étape — a
 
 Adapté au contexte malgache : connexions lentes, mobile dominant, marché local.
 
-## Sommaire
-
-- [Pourquoi WordPress mal configuré = SEO sabordé](#pourquoi-wordpress-mal-configure)
-- [Étape 1 : Choisir le bon thème](#etape-1-theme)
-- [Étape 2 : Yoast SEO ou RankMath — lequel installer](#etape-2-plugin-seo)
-- [Étape 3 : Configurer vos permaliens](#etape-3-permaliens)
-- [Étape 4 : Optimiser chaque page avec votre plugin SEO](#etape-4-on-page)
-- [Étape 5 : La vitesse — priorité absolue à Madagascar](#etape-5-vitesse)
-- [Étape 6 : L'optimisation mobile](#etape-6-mobile)
-- [Étape 7 : Les pièges SEO propres à WordPress](#etape-7-pieges)
-- [Étape 8 : Le SEO local sur WordPress](#etape-8-seo-local)
-- [La checklist SEO WordPress 2026](#checklist)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![SEO WordPress Madagascar - Guide complet 2026](/assets/images/blog/seo-wordpress-madagascar.webp "SEO WordPress Madagascar - Guide complet 2026"){: .img-responsive}
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Google My Business Madagascar : guide complet 2026"
 date:   2026-05-28 09:00:00 +0300
@@ -18,22 +18,6 @@ La différence entre ces deux scénarios s'appelle Google Business Profile. Et l
 
 Dans ce guide, je vous montre exactement comment optimiser votre fiche — étape par étape — pour apparaître quand vos clients vous cherchent à Antananarivo, Toamasina, Mahajanga ou ailleurs à Madagascar.
 
-## Sommaire
-
-- [Google My Business ou Google Business Profile : faisons le point](#google-my-business-ou-google-business-profile)
-- [Pourquoi c'est non-négociable pour les entreprises malgaches](#pourquoi-cest-non-negociable)
-- [Étape 1 : Créer ou revendiquer votre fiche](#etape-1-creer-ou-revendiquer)
-- [Étape 2 : Compléter votre profil à 100%](#etape-2-completer-profil)
-- [Étape 3 : Les photos — plus important que vous ne pensez](#etape-3-photos)
-- [Étape 4 : Les avis clients — votre arme secrète](#etape-4-avis)
-- [Étape 5 : Les Google Posts — la fonctionnalité que personne n'utilise](#etape-5-google-posts)
-- [Étape 6 : Questions & Réponses](#etape-6-questions-reponses)
-- [Étape 7 : Produits et services](#etape-7-produits-services)
-- [Étape 8 : Suivre vos performances](#etape-8-performances)
-- [Les erreurs que je vois tout le temps à Madagascar](#erreurs-courantes)
-- [La checklist Google Business Profile 2026](#checklist)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Google My Business Madagascar - Guide complet 2026](/assets/images/blog/google-my-business-mada.webp "Google My Business Madagascar - Guide complet 2026"){: .img-responsive}
 

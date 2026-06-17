@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Agence SEO vs consultant freelance Madagascar : le vrai comparatif"
 date:   2026-06-02 09:00:00 +0300
@@ -16,20 +16,6 @@ La vérité, c'est que **pour certains projets, une agence est le meilleur choix
 
 Ce comparatif n'est pas un plaidoyer pro-freelance. C'est une analyse honnête pour vous aider à prendre la bonne décision selon votre situation réelle.
 
-## Sommaire
-
-- [Agence SEO et freelance : de quoi parle-t-on vraiment](#definitions)
-- [Les vrais avantages d'une agence](#avantages-agence)
-- [Les vraies limites d'une agence](#limites-agence)
-- [Les vrais avantages d'un freelance](#avantages-freelance)
-- [Les vraies limites d'un freelance](#limites-freelance)
-- [La comparaison directe](#comparaison-directe)
-- [La réalité du marché à Madagascar](#realite-madagascar)
-- [Les red flags à surveiller des deux côtés](#red-flags)
-- [Qui choisir selon votre situation](#qui-choisir)
-- [Les questions à poser avant de signer](#questions-avant-signer)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Agence SEO vs Freelance Madagascar](/assets/images/blog/agence-seo-vs-freelance-madagascar.webp "Agence SEO vs Freelance Madagascar"){: .img-responsive}
 

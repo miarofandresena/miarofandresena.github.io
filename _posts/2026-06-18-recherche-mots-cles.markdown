@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Comment faire une recherche de mots-clés efficace (méthode + outils)"
 date:   2026-06-18 09:00:00 +0300
@@ -18,21 +18,6 @@ La recherche de mots-clés efficace commence à l'autre bout. Par vos clients, l
 
 Dans ce guide, je vous montre ma méthode exacte — celle que j'applique sur chaque nouveau projet.
 
-## Sommaire
-
-- [Ce qu'est vraiment une bonne recherche de mots-clés](#cest-quoi)
-- [Les 4 types d'intention de recherche](#intentions)
-- [Étape 1 : Les mots-clés de départ (seed keywords)](#etape-1)
-- [Étape 2 : Expansionner avec les outils](#etape-2)
-- [Étape 3 : Analyser l'intention de chaque mot-clé](#etape-3)
-- [Étape 4 : Évaluer volume et difficulté](#etape-4)
-- [Étape 5 : Identifier vos opportunités](#etape-5)
-- [Étape 6 : Organiser en clusters](#etape-6)
-- [Le contexte malgache : ce qui change](#contexte-malgache)
-- [Votre matrice de mots-clés](#matrice)
-- [Les erreurs classiques](#erreurs)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Recherche de mots-clés efficace - méthode et outils 2026](/assets/images/blog/recherche-mots-cles.webp "Recherche de mots-clés efficace - méthode et outils 2026"){: .img-responsive}
 

@@ -15,14 +15,6 @@ Pendant que certains dirigeants malgaches hésitent encore à investir en SEO, d
 
 Voici les vraies fourchettes de prix — et comment calculer votre ROI avant de signer quoi que ce soit.
 
-## Sommaire
-
-1.  [Les facteurs qui influencent les tarifs SEO](#facteurs-tarifs-seo)
-2.  [Fourchettes de prix selon les prestations](#fourchettes-prix-prestations)
-3.  [Comparaison des modèles tarifaires](#modeles-tarifaires)
-4.  [ROI du SEO pour les entreprises malgaches](#roi-seo-madagascar)
-5.  [Comment établir son budget SEO](#etablir-budget-seo)
-6.  [Notre grille tarifaire transparente](#grille-tarifaire)
 
 Le SEO n'est pas une dépense. C'est un investissement qui génère des résultats durables.
 

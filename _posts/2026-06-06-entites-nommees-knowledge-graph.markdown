@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Entités nommées et Knowledge Graph : l'invisible qui fait ranker"
 date:   2026-06-06 09:00:00 +0300
@@ -16,19 +16,6 @@ Depuis plusieurs années, Google a progressivement abandonné une logique pureme
 
 Comprendre cette différence, c'est comprendre pourquoi certains sites rankent sans effort apparent — et pourquoi d'autres stagnent malgré un contenu techniquement correct.
 
-## Sommaire
-
-- [Entité vs mot-clé : la distinction fondamentale](#entite-vs-mot-cle)
-- [C'est quoi le Knowledge Graph de Google ?](#knowledge-graph)
-- [Comment Google identifie les entités dans votre contenu](#comment-google-identifie)
-- [Pourquoi être une entité reconnue change tout](#pourquoi-etre-entite)
-- [Comment construire votre empreinte d'entité](#construire-empreinte)
-- [L'entity co-occurrence : avec qui vous apparaissez](#entity-co-occurrence)
-- [Comment vérifier votre présence dans le Knowledge Graph](#verifier-presence)
-- [Le contexte Madagascar](#contexte-madagascar)
-- [Checklist entités nommées](#checklist)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Entités nommées et Knowledge Graph SEO](/assets/images/blog/knowledge-graph.webp "Entités nommées et Knowledge Graph SEO"){: .img-responsive}
 

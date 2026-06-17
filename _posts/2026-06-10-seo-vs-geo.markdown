@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO vs GEO : quelles différences et quelle stratégie adopter ?"
 date:   2026-06-10 09:00:00 +0300
@@ -20,18 +20,6 @@ Confondre les deux, c'est comme demander si vous devriez avoir un site web ou de
 
 Dans cet article, je clarifie les différences réelles — et je vous montre comment construire une stratégie qui tire parti des deux.
 
-## Sommaire
-
-- [Définitions rapides : ce que chacun couvre](#definitions)
-- [Les 6 différences fondamentales](#six-differences)
-- [Le problème du zero-click](#zero-click)
-- [Ce qu'ils ont en commun](#points-communs)
-- [Quand prioriser le SEO](#prioriser-seo)
-- [Quand commencer à intégrer le GEO](#integrer-geo)
-- [La stratégie combinée](#strategie-combinee)
-- [Comment mesurer les deux](#mesurer)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![SEO vs GEO - Stratégie 2026](/assets/images/blog/seo-vs-geo.webp "SEO vs GEO - Stratégie 2026"){: .img-responsive}
 

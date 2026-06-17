@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "GEO Madagascar : comment être cité dans Google AI Overviews, Gemini et ChatGPT"
 date:   2026-06-03 09:00:00 +0300
@@ -20,17 +20,6 @@ Ce n'est pas la mort du SEO. C'est une couche supplémentaire. Et à Madagascar,
 
 C'est exactement pourquoi vous devriez le faire maintenant.
 
-## Sommaire
-
-- [Qu'est-ce que le GEO — et ce que ce n'est pas](#quest-ce-que-le-geo)
-- [Comment Google AI Overviews décide quoi citer](#comment-ai-overviews-decide)
-- [Comment ChatGPT et Gemini fonctionnent différemment](#chatgpt-gemini)
-- [Les 7 signaux GEO qui font la différence](#signaux-geo)
-- [Le contexte Madagascar : pourquoi c'est urgent](#contexte-madagascar)
-- [Ce qu'on ne sait pas encore — honnêtement](#ce-quon-ne-sait-pas)
-- [Plan d'action concret](#plan-action)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![GEO Madagascar - Google AI Overviews, Gemini et ChatGPT](/assets/images/blog/geo-madagascar.webp "GEO Madagascar - Google AI Overviews, Gemini et ChatGPT"){: .img-responsive}
 

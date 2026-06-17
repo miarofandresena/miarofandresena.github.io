@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO local à Madagascar : comment dominer les recherches à Antananarivo"
 date:   2025-05-21 10:05:55 +0300
@@ -12,11 +12,6 @@ Votre entreprise à Antananarivo est invisible sur Google malgré un marché dig
 
 Voici comment transformer votre présence en ligne et attirer une clientèle locale — avec des stratégies SEO spécifiquement adaptées au contexte malgache.
 
-## Sommaire
-
--   [Introduction](#introduction)
--   [Pourquoi le SEO local est-il crucial à Antananarivo ?](#pourquoi-le-seo-local)
--   [Les fondamentaux du SEO local pour Madagascar](#fondamentaux-seo-local)
     -   [Optimisez votre fiche Google Business Profile](#google-business-profile)
     -   [Créez du contenu optimisé pour les recherches locales](#contenu-local)
     -   [Développez une stratégie de backlinks locale](#backlinks-locaux)

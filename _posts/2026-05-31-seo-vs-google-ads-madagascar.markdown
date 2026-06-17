@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "SEO vs Google Ads à Madagascar : que choisir en 2026 ?"
 date:   2026-05-31 09:00:00 +0300
@@ -20,19 +20,6 @@ La vraie question n'est pas laquelle des deux méthodes est la meilleure. La vra
 
 Dans cet article, je compare les deux honnêtement — avec les chiffres que je peux vérifier, sans bullshit commercial dans un sens ou dans l'autre.
 
-## Sommaire
-
-- [SEO et Google Ads : ce que c'est vraiment](#seo-et-google-ads)
-- [Le SEO à Madagascar : avantages et limites](#seo-avantages-limites)
-- [Google Ads à Madagascar : avantages et limites](#google-ads-avantages-limites)
-- [La comparaison directe](#comparaison-directe)
-- [Le contexte malgache change la donne](#contexte-malgache)
-- [Choisir le SEO : dans quels cas](#choisir-seo)
-- [Choisir Google Ads : dans quels cas](#choisir-google-ads)
-- [Faire les deux : quand et comment](#faire-les-deux)
-- [Par secteur : mon avis concret](#par-secteur)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![SEO vs Google Ads Madagascar 2026](/assets/images/blog/seo-vs-google-ads-madagascar.webp "SEO vs Google Ads Madagascar 2026"){: .img-responsive}
 

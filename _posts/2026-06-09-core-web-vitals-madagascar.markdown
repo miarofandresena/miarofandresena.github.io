@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Core Web Vitals 2026 : guide pratique pour les sites malgaches"
 date:   2026-06-09 09:00:00 +0300
@@ -20,20 +20,6 @@ La bonne nouvelle : les problèmes sont presque toujours les mêmes. Et ils se r
 
 Ce guide vous montre lesquelles — avec les seuils actualisés 2026 et les spécificités du marché malgache.
 
-## Sommaire
-
-- [C'est quoi les Core Web Vitals ?](#cest-quoi)
-- [LCP — Largest Contentful Paint](#lcp)
-- [INP — Interaction to Next Paint](#inp)
-- [CLS — Cumulative Layout Shift](#cls)
-- [Les outils de mesure](#outils)
-- [La réalité des connexions malgaches](#realite-madagascar)
-- [Les optimisations prioritaires pour Madagascar](#optimisations-prioritaires)
-- [Core Web Vitals sur WordPress](#cwv-wordpress)
-- [Interpréter vos résultats dans Search Console](#search-console)
-- [Checklist Core Web Vitals 2026](#checklist)
-- [FAQ](#faq)
-- [Me contacter](#me-contacter)
 
 ![Core Web Vitals 2026 - Guide pour sites malgaches](/assets/images/blog/core-web-vitals-madagascar.webp "Core Web Vitals 2026 - Guide pour sites malgaches"){: .img-responsive}
 

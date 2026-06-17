@@ -14,25 +14,6 @@ Ce ne sont pas des erreurs complexes. Ce sont des fondamentaux manqués — que 
 
 Voici les 10 erreurs que je retrouve le plus souvent dans mes audits, avec les solutions concrètes pour les régler.
 
-## Sommaire interactif
-
-1.  [État du marché digital malgache](#etat-marche-digital)
-2.  [Top 10 des erreurs SEO observées](#top-10-erreurs)
-    -   [Contenu dupliqué entre français et malgache](#contenu-duplique)
-    -   [Vitesse de chargement catastrophique](#vitesse-chargement)
-    -   [Absence d'optimisation mobile](#optimisation-mobile)
-    -   [Balises title et meta descriptions négligées](#balises-meta)
-    -   [Structure URL chaotique](#structure-url)
-    -   [Contenu superficiel et peu adapté](#contenu-superficiel)
-    -   [Maillage interne inexistant](#maillage-interne)
-    -   [Problèmes techniques critiques](#problemes-techniques)
-    -   [Négligence du SEO local](#seo-local)
-    -   [Absence de suivi et d'analyse](#suivi-analyse)
-3.  [Comment détecter ces problèmes](#detecter-problemes)
-4.  [Solutions pratiques](#solutions-pratiques)
-5.  [Étude de cas](#etude-cas)
-6.  [Surveillance continue](#surveillance-continue)
-7.  [Conclusion](#conclusion)
 
 ----------
 
