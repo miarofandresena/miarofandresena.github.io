@@ -21,25 +21,73 @@
       <div class="col-lg-8 mx-auto">
         <div class="bg-white rounded text-center p-5 shadow-down">
           <h4 class="mb-80">Formulaire de contact</h4>
-          <form action="https://api.web3forms.com/submit" method="POST" class="row">
+          <!-- Notification de confirmation -->
+          <div id="contact-toast" style="display:none;position:fixed;bottom:2rem;right:2rem;z-index:9999;min-width:300px;" role="alert" aria-live="polite">
+            <div style="background:#fff;border-left:4px solid #28a745;border-radius:6px;box-shadow:0 4px 20px rgba(0,0,0,.15);padding:1rem 1.25rem;display:flex;align-items:center;gap:.75rem;">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#28a745" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+              <div>
+                <strong style="display:block;color:#1a1a1a;font-size:.95rem;">Message envoyé !</strong>
+                <span style="color:#6c757d;font-size:.85rem;">Je vous réponds dans les 24h.</span>
+              </div>
+              <button onclick="document.getElementById('contact-toast').style.display='none'" style="margin-left:auto;background:none;border:none;cursor:pointer;color:#aaa;font-size:1.2rem;line-height:1;" aria-label="Fermer">&times;</button>
+            </div>
+          </div>
+
+          <form id="contact-form" class="row" novalidate>
             <input type="hidden" name="access_key" value="654da77a-0cfa-4b58-9486-579b63aa2196">
-            <input type="hidden" name="subject" value="Nouveau message de contact - miarofandresena.github.io">
+            <input type="hidden" name="subject" value="Nouveau message de contact - miarofandresena.com">
             <input type="hidden" name="from_name" value="Site Miaro Fandresena">
-            <input type="hidden" name="redirect" value="https://web3forms.com/success">
             <div class="col-md-6">
-              <input type="text" id="name" name="name" placeholder="Nom complet" class="form-control px-0 mb-4">
+              <input type="text" id="name" name="name" placeholder="Nom complet" class="form-control px-0 mb-4" required>
             </div>
             <div class="col-md-6">
-              <input type="email" id="email" name="_replyto" placeholder="Email" class="form-control px-0 mb-4">
+              <input type="email" id="email" name="email" placeholder="Email" class="form-control px-0 mb-4" required>
             </div>
             <div class="col-12">
-              <textarea name="message" id="message" class="form-control px-0 mb-4"
-                placeholder="Ecrire votre message ici"></textarea>
+              <textarea name="message" id="message" class="form-control px-0 mb-4" placeholder="Ecrire votre message ici" rows="5" required></textarea>
             </div>
             <div class="col-lg-6 col-10 mx-auto">
-              <button type="submit" data-aos="flip-left" class="btn btn-primary w-100">Envoyer</button>
+              <button type="submit" id="contact-btn" class="btn btn-primary w-100">Envoyer</button>
             </div>
           </form>
+
+          <script>
+          (function() {
+            var form = document.getElementById('contact-form');
+            var btn  = document.getElementById('contact-btn');
+            var toast = document.getElementById('contact-toast');
+
+            form.addEventListener('submit', function(e) {
+              e.preventDefault();
+              btn.disabled = true;
+              btn.textContent = 'Envoi en cours…';
+
+              var data = new FormData(form);
+
+              fetch('https://api.web3forms.com/submit', {
+                method: 'POST',
+                body: data
+              })
+              .then(function(res) { return res.json(); })
+              .then(function(json) {
+                if (json.success) {
+                  form.reset();
+                  toast.style.display = 'block';
+                  setTimeout(function() { toast.style.display = 'none'; }, 6000);
+                } else {
+                  alert('Une erreur est survenue. Veuillez réessayer ou m\'écrire directement à miarofandresena@gmail.com');
+                }
+              })
+              .catch(function() {
+                alert('Une erreur réseau est survenue. Veuillez réessayer.');
+              })
+              .finally(function() {
+                btn.disabled = false;
+                btn.textContent = 'Envoyer';
+              });
+            });
+          })();
+          </script>
         </div>
       </div>
     </div>
