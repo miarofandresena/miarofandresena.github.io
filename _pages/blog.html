@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog SEO Madagascar — Guides pratiques par Miaro Fandresena"
+title: "Blog SEO Madagascar — Guides pratiques & Conseils"
 description : "Blog SEO Madagascar : guides pratiques, analyses et stratégies de référencement naturel adaptées au marché malgache. Par Miaro Fandresena, consultant SEO depuis 2019."
 permalink: /blog/
 ---
@@ -18,11 +18,22 @@ permalink: /blog/
 <!-- blog -->
 <section class="section">
   <div class="container">
-    <div class="row">
-      {% for post in site.posts %}
+    {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year_group in posts_by_year %}
+    <div class="row mb-2">
+      <div class="col-12">
+        <h2 class="font-secondary" style="font-size:1.4rem;border-bottom:2px solid #00b4d8;padding-bottom:.4rem;margin-bottom:1.5rem;">
+          <span class="text-primary">{{ year_group.name }}</span>
+          <small class="text-muted ml-2" style="font-size:.85rem;">— {{ year_group.items | size }} article{% if year_group.items.size > 1 %}s{% endif %}</small>
+        </h2>
+      </div>
+    </div>
+    <div class="row mb-5">
+      {% for post in year_group.items %}
       {% include post.html %}
       {% endfor %}
     </div>
+    {% endfor %}
   </div>
 </section>
 <!-- /blog -->

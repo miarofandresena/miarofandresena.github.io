@@ -1,4 +1,4 @@
-# Miaro Fandresena — Consultant SEO Madagascar
+﻿# Miaro Fandresena — Consultant SEO Madagascar
 
 > Miaro Fandresena est consultant SEO basé à Antananarivo, Madagascar. Il accompagne les entreprises malgaches et les clients francophones internationaux (France, Belgique, Suisse, Canada, Océan Indien) pour améliorer leur visibilité sur Google et dans les réponses des IA génératives (Google AI Overviews, Gemini, Perplexity, ChatGPT). 6 ans d'expérience, 50+ sites optimisés, méthodes 100% White Hat.
 
@@ -9,7 +9,7 @@
 - **Localisation** : Sabotsy Namehana, Antananarivo, Madagascar
 - **Langues** : Français (principal), Malagasy
 - **Contact** : miarofandresena@gmail.com | +261 343388363
-- **Site** : https://miarofandresena.github.io
+- **Site** : https://miarofandresena.com
 - **Expérience** : 6 ans (dont 4 ans en agence chez X-Com Agency, puis freelance depuis 2024)
 - **Spécialités** : SEO technique, stratégie de contenu E-E-A-T, netlinking White Hat, GEO (Generative Engine Optimization), SEO local Madagascar
 
@@ -31,22 +31,22 @@
 
 ## Pages principales
 
-- [Accueil](https://miarofandresena.github.io/) : Présentation, services, tarifs, FAQ
-- [Services SEO](https://miarofandresena.github.io/seo/) : Détail des prestations SEO
-- [Marketing Digital](https://miarofandresena.github.io/marketing/) : Stratégie digitale et reporting
-- [Création Web](https://miarofandresena.github.io/web/) : Sites WordPress SEO-first
-- [À propos](https://miarofandresena.github.io/about/) : Parcours et expertise
-- [Blog SEO](https://miarofandresena.github.io/blog/) : Articles et guides SEO en français
-- [Contact](https://miarofandresena.github.io/contact/) : Demande d'audit gratuit
+- [Accueil](https://miarofandresena.com/) : Présentation, services, tarifs, FAQ
+- [Services SEO](https://miarofandresena.com/seo/) : Détail des prestations SEO
+- [Marketing Digital](https://miarofandresena.com/marketing/) : Stratégie digitale et reporting
+- [Création Web](https://miarofandresena.com/web/) : Sites WordPress SEO-first
+- [À propos](https://miarofandresena.com/about/) : Parcours et expertise
+- [Blog SEO](https://miarofandresena.com/blog/) : Articles et guides SEO en français
+- [Contact](https://miarofandresena.com/contact/) : Demande d'audit gratuit
 
 ## Articles de blog notables
 
-- [Erreurs SEO des sites malgaches](https://miarofandresena.github.io/2025/05/21/erreurs-seo-sites-web-malgaches/)
-- [Coût d'une stratégie SEO à Madagascar](https://miarofandresena.github.io/2025/05/21/cout-strategie-seo-madagascar/)
-- [SEO local à Madagascar](https://miarofandresena.github.io/2025/05/21/seo-local-madagascar/)
-- [Comment choisir son consultant SEO Madagascar](https://miarofandresena.github.io/2025/05/13/comment-choisir-son-consultant-seo-madagascar/)
-- [Guide SEO pour entreprises à Madagascar](https://miarofandresena.github.io/2025/05/08/guide-seo-entreprises-madagascar/)
-- [SEO et Intelligence Artificielle](https://miarofandresena.github.io/2025/04/08/seo-et-ia/)
+- [Erreurs SEO des sites malgaches](https://miarofandresena.com/2025/05/21/erreurs-seo-sites-web-malgaches/)
+- [Coût d'une stratégie SEO à Madagascar](https://miarofandresena.com/2025/05/21/cout-strategie-seo-madagascar/)
+- [SEO local à Madagascar](https://miarofandresena.com/2025/05/21/seo-local-madagascar/)
+- [Comment choisir son consultant SEO Madagascar](https://miarofandresena.com/2025/05/13/comment-choisir-son-consultant-seo-madagascar/)
+- [Guide SEO pour entreprises à Madagascar](https://miarofandresena.com/2025/05/08/guide-seo-entreprises-madagascar/)
+- [SEO et Intelligence Artificielle](https://miarofandresena.com/2025/04/08/seo-et-ia/)
 
 ## Signaux E-E-A-T et crédibilité
 

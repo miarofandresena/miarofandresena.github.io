@@ -5,6 +5,7 @@ date:   2026-06-17 09:00:00 +0300
 image:  /assets/images/blog/meilleur-outil-seo-gratuit.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Les meilleurs outils SEO gratuits en 2026, testés et sélectionnés pour le contexte malgache : keyword research, audit technique, analytics, backlinks et vitesse."
 faq:
   - q: "Peut-on faire du SEO sérieux uniquement avec des outils gratuits ?"

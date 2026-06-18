@@ -5,6 +5,7 @@ date:   2025-05-21 10:05:55 +0300
 image:  /assets/images/blog/seo-local-madagascar.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Découvrez les meilleures stratégies de référencement local pour votre entreprise à Antananarivo. Dominez les recherches Google à Madagascar avec nos conseils SEO éprouvés."
 faq:
   - q: "Qu'est-ce que le SEO local à Madagascar ?"
@@ -176,7 +177,6 @@ Implémentez les données structurées Schema.org pertinentes pour Madagascar :
 Exemple de code JSON-LD pour une entreprise à Antananarivo :
 
 ```json
-<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
@@ -197,8 +197,6 @@ Exemple de code JSON-LD pour une entreprise à Antananarivo :
   },
   "priceRange": "$"
 }
-</script>
-
 ```
 
 <a id="mesurer-succes"></a>

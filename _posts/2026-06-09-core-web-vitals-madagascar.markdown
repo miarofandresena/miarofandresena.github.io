@@ -5,6 +5,7 @@ date:   2026-06-09 09:00:00 +0300
 image:  /assets/images/blog/core-web-vitals-mada.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Core Web Vitals 2026 : LCP, INP, CLS expliqués et optimisés pour le contexte malgache. Guide pratique avec outils, seuils et checklist par Miaro Fandresena."
 faq:
   - q: "Qu'est-ce que les Core Web Vitals ?"

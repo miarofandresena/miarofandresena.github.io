@@ -5,6 +5,7 @@ date: 2026-06-23 08:00:00 +0300
 image: /assets/img/creer-site-web-seo-mada.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "Guide complet pour créer un site web optimisé SEO à Madagascar dès le départ : plateforme, hébergement, structure, technique, contenu. Checklist de lancement incluse."
 faq:
   - q: "Combien de temps faut-il pour créer un site web optimisé SEO ?"

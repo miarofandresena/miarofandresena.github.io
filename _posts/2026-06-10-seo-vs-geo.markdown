@@ -5,6 +5,7 @@ date:   2026-06-10 09:00:00 +0300
 image:  /assets/images/blog/seo-ou-geo.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "SEO vs GEO : comprendre les différences entre référencement naturel et Generative Engine Optimization, et construire une stratégie combinée efficace en 2026."
 faq:
   - q: "Le GEO va-t-il rendre le SEO obsolète ?"

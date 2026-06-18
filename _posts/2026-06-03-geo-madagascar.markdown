@@ -5,6 +5,7 @@ date:   2026-06-03 09:00:00 +0300
 image:  /assets/images/blog/geo-mada.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Generative Engine Optimization à Madagascar : stratégies concrètes pour apparaître dans les réponses de Google AI Overviews, Gemini et ChatGPT. Par Miaro Fandresena."
 faq:
   - q: "Qu'est-ce que le GEO (Generative Engine Optimization) ?"

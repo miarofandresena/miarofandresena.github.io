@@ -5,6 +5,7 @@ date: 2026-04-08 10:05:55 +0300
 image: /assets/images/blog/seo-et-ia.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "Guide complet GEO 2026 : comment fonctionnent les moteurs IA génératifs, quels signaux ils utilisent pour sélectionner leurs sources, et comment optimiser votre contenu pour y apparaître."
 faq:
   - q: "Le GEO remplace-t-il le SEO ?"

@@ -5,6 +5,7 @@ date:   2026-06-06 09:00:00 +0300
 image:  /assets/images/blog/entites-nommees-knowledge-graph.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Entités nommées et Knowledge Graph Google : comprendre comment Google identifie les entités et comment les exploiter pour améliorer votre référencement. Par Miaro Fandresena."
 faq:
   - q: "Combien de temps pour apparaître dans le Knowledge Graph ?"

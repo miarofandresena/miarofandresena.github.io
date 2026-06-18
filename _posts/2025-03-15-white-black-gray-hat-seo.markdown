@@ -5,6 +5,7 @@ date: 2025-03-15 10:05:55 +0300
 image: /assets/images/blog/white-hat-seo.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "White Hat, Black Hat, Gray Hat SEO : quelles différences, quels risques, quelle approche adopter ? Le vrai comparatif des 3 types de SEO avec des exemples concrets."
 faq:
   - q: "Peut-on se faire pénaliser involontairement pour du Black Hat SEO ?"

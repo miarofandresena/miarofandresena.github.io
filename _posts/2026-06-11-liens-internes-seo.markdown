@@ -5,6 +5,7 @@ date: 2026-06-11 08:00:00 +0300
 image: /assets/images/blog/liens-internes-seo.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "Apprenez à optimiser vos liens internes pour améliorer votre crawlabilité, distribuer le PageRank et ranker plus vite sur Google. Méthode pratique étape par étape."
 faq:
   - q: "Combien de liens internes faut-il sur une page ?"

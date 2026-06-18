@@ -1,26 +1,106 @@
 <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
+<footer class="footer-main">
+
+  <!-- bande supérieure : CTA -->
+  <div class="footer-cta">
     <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
+      <div class="row align-items-center">
+        <div class="col-md-8 mb-3 mb-md-0">
+          <p class="footer-cta-title">Prêt à dominer Google à Madagascar ?</p>
+          <p class="footer-cta-sub">Audit SEO gratuit · Réponse sous 24h · Aucun engagement</p>
         </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Téléphone</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Adresse</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+        <div class="col-md-4 text-md-right">
+          <a href="/contact/" class="btn btn-primary btn-lg footer-cta-btn">Démarrer maintenant →</a>
         </div>
       </div>
     </div>
   </div>
-  <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
+
+  <!-- corps du footer -->
+  <div class="footer-body">
+    <div class="container">
+      <div class="row">
+
+        <!-- Colonne 1 : Brand -->
+        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+          <a href="/" class="footer-brand" aria-label="Accueil">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="38" height="38" aria-hidden="true">
+              <rect width="32" height="32" rx="7" fill="#00b4d8"/>
+              <text x="16" y="23" font-family="Arial,sans-serif" font-size="19" font-weight="900" text-anchor="middle" fill="#ffffff">M</text>
+            </svg>
+            <span class="footer-brand-name">Miaro Fandresena</span>
+          </a>
+          <p class="footer-desc mt-3">Consultant SEO indépendant basé à Antananarivo. J'accompagne les entreprises malgaches et francophones vers la première page de Google — sans budget pub.</p>
+          <div class="footer-social mt-4">
+            {% for social in site.data.settings.social %}
+            <a href="{{ social.link }}" target="_blank" rel="noopener noreferrer" class="footer-social-link" aria-label="{{ social.icon }}">
+              <i class="{{ social.icon }}"></i>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+
+        <!-- Colonne 2 : Services -->
+        <div class="col-lg-2 col-md-6 mb-5 mb-lg-0">
+          <h6 class="footer-heading">Services</h6>
+          <ul class="footer-links">
+            <li><a href="/consultant-seo-madagascar/">Consultant SEO</a></li>
+            <li><a href="/seo/">Référencement Naturel</a></li>
+            <li><a href="/geo-ai-overviews/">GEO & AI Overviews</a></li>
+            <li><a href="/seo-local-madagascar/">SEO Local</a></li>
+            <li><a href="/tarifs-seo/">Tarifs SEO</a></li>
+          </ul>
+        </div>
+
+        <!-- Colonne 3 : Ressources -->
+        <div class="col-lg-2 col-md-6 mb-5 mb-lg-0">
+          <h6 class="footer-heading">Ressources</h6>
+          <ul class="footer-links">
+            <li><a href="/blog/">Blog SEO</a></li>
+            <li><a href="/about/">À propos</a></li>
+            <li><a href="/portfolio/">Portfolio</a></li>
+            <li><a href="/audit-seo-gratuit/">Audit gratuit</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+
+        <!-- Colonne 4 : Contact -->
+        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+          <h6 class="footer-heading">Contact</h6>
+          <ul class="footer-contact-list">
+            <li>
+              <span class="footer-contact-icon"><i class="ti-email"></i></span>
+              <a href="mailto:{{ site.data.settings.email }}" class="footer-contact-link">{{ site.data.settings.email }}</a>
+            </li>
+            <li>
+              <span class="footer-contact-icon"><i class="ti-mobile"></i></span>
+              <a href="tel:{{ site.data.settings.phone | remove: ' ' }}" class="footer-contact-link">{{ site.data.settings.phone }}</a>
+            </li>
+            <li>
+              <span class="footer-contact-icon"><i class="ti-location-pin"></i></span>
+              <span class="footer-contact-link">{{ site.data.settings.address }}</span>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
   </div>
+
+  <!-- barre de copyright -->
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-6 text-center text-md-left mb-2 mb-md-0">
+          <p class="footer-copyright">{{ site.data.settings.copyright | markdownify }}</p>
+        </div>
+        <div class="col-md-6 text-center text-md-right">
+          <span class="footer-badge">🇲🇬 Fait avec passion à Antananarivo</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </footer>
 <!-- /footer -->
 

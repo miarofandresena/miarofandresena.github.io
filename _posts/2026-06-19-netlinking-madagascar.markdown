@@ -5,6 +5,7 @@ date: 2026-06-19 08:00:00 +0300
 image: /assets/img/netlinking-mada.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "Découvrez comment obtenir des backlinks de qualité à Madagascar : stratégies concrètes, sources locales, erreurs à éviter. Guide complet netlinking 2026."
 faq:
   - q: "Est-ce que les liens nofollow comptent pour le SEO ?"
@@ -190,7 +191,7 @@ Quelqu'un a mentionné ton nom, ton entreprise ou ton site dans un article — m
 **Comment les trouver :**
 - Google Alerts sur ton nom + nom de ton entreprise
 - Ahrefs Webmaster Tools → Content Explorer (limité en version gratuite)
-- Recherche manuelle : `"Miaro Fandresena" -site:miarofandresena.github.io`
+- Recherche manuelle : `"Miaro Fandresena" -site:miarofandresena.com`
 
 **Comment transformer en lien :**
 1. Identifie l'article et l'auteur

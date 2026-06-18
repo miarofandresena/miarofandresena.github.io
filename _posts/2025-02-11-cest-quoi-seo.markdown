@@ -5,6 +5,7 @@ date: 2025-02-11 10:05:55 +0300
 image: /assets/images/blog/SEO.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "4 ans de SEO. Des dizaines de clients. Des résultats mesurables. Je vous montre exactement comment j'améliore la visibilité en ligne de mes clients à Madagascar — étape par étape, sans jargon inutile."
 faq:
   - q: "Le SEO, c'est vraiment gratuit ?"

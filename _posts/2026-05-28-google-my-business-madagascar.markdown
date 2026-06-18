@@ -5,6 +5,7 @@ date:   2026-05-28 09:00:00 +0300
 image:  /assets/images/blog/google-my-business-madagascar.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Optimisez votre fiche Google Business Profile à Madagascar en 2026 : création, photos, avis, posts et stratégie locale. Guide complet et sans bullshit par Miaro Fandresena."
 faq:
   - q: "Google Business Profile est-il gratuit ?"

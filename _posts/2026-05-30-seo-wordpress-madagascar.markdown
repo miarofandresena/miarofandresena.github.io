@@ -5,6 +5,7 @@ date:   2026-05-30 09:00:00 +0300
 image:  /assets/images/blog/seo-wordpress-mada.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Guide complet pour optimiser le SEO de votre site WordPress à Madagascar : thème, plugins, vitesse, on-page et pièges à éviter. Par Miaro Fandresena, consultant SEO."
 faq:
   - q: "Yoast ou RankMath pour un débutant ?"

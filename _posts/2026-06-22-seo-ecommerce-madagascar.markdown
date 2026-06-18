@@ -5,6 +5,7 @@ date: 2026-06-22 08:00:00 +0300
 image: /assets/img/seo-ecommerce-mada.webp
 author: Miaro
 tags: Web
+updated: 2026-06-17
 description: "Guide complet SEO e-commerce Madagascar : structure de site, fiches produits, vitesse mobile, Schema markup, stratégie de contenu. Tout ce qu'il faut pour ranker et vendre."
 faq:
   - q: "Combien de temps pour voir des résultats SEO sur un e-commerce à Madagascar ?"

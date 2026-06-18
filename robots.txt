@@ -1,4 +1,4 @@
-# robots.txt — miarofandresena.github.io
+﻿# robots.txt — miarofandresena.com
 # Consultant SEO Madagascar — Miaro Fandresena
 
 # ── Crawlers generaux ─────────────────────────────────────────────

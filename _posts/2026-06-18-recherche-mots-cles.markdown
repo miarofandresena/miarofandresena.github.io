@@ -5,6 +5,7 @@ date:   2026-06-18 09:00:00 +0300
 image:  /assets/images/blog/recherche-mots-cles.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Méthode complète pour faire une recherche de mots-clés efficace en 2026 : intention de recherche, outils gratuits, analyse et priorisation. Par Miaro Fandresena."
 faq:
   - q: "Combien de temps prend une bonne recherche de mots-clés ?"

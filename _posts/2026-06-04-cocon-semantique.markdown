@@ -5,6 +5,7 @@ date:   2026-06-04 09:00:00 +0300
 image:  /assets/images/blog/cocon-semantique-seo.webp
 author: Miaro
 tags:   Web
+updated: 2026-06-17
 description: "Qu'est-ce qu'un cocon sémantique en SEO et comment le construire étape par étape ? Guide complet avec exemple concret et checklist par Miaro Fandresena."
 faq:
   - q: "Combien de pages faut-il pour un cocon sémantique ?"

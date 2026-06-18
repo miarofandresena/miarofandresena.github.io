@@ -5,8 +5,13 @@ date:   2025-02-22 10:05:55 +0300
 image:  /assets/images/blog/SEO-local.webp
 author: Miaro
 tags:   Web
+sitemap: false
 description: "Découvrez comment dominer le SEO local et attirer plus de clients près de chez vous grâce à des techniques éprouvées et originales."
 ---
+
+> **Cet article a été mis à jour et enrichi.** Retrouvez le guide complet dans l'article : [SEO local à Madagascar : comment dominer les recherches à Antananarivo](https://miarofandresena.com/2025/05/21/seo-local-madagascar/).
+
+
 
 Le SEO local, c'est la différence entre une salle d'attente vide et un agenda complet.
 
