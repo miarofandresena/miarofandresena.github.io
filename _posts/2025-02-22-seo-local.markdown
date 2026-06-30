@@ -7,6 +7,18 @@ author: Miaro
 tags:   Web
 sitemap: false
 description: "Découvrez comment dominer le SEO local et attirer plus de clients près de chez vous grâce à des techniques éprouvées et originales."
+key_points:
+  - "Google Business Profile est la priorité absolue pour toute entreprise locale — gratuit et puissant"
+  - "Le pack local Google (carte + 3 résultats) capte 44 % des clics sur les recherches locales"
+  - "La cohérence NAP (Nom, Adresse, Téléphone) sur le web est un facteur de classement local"
+  - "Les avis clients Google sont l'élément le plus influent sur le classement dans le pack local"
+stats:
+  - number: "44 %"
+    label: "des clics = pack local"
+  - number: "2–4"
+    label: "semaines premiers résultats"
+  - number: "5×"
+    label: "impact des avis Google"
 ---
 
 > **Cet article a été mis à jour et enrichi.** Retrouvez le guide complet dans l'article : [SEO local à Madagascar : comment dominer les recherches à Antananarivo](https://miarofandresena.com/2025/05/21/seo-local-madagascar/).

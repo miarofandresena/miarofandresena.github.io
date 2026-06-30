@@ -7,6 +7,18 @@ author: Miaro
 tags:   Web
 description: "Plongez dans l'univers secret du Black Hat SEO, découvrez des histoires de pénalités, des techniques détournées et comment mes méthodes d'audit ont redressé la barre pour des sites en péril."
 sitemap: false
+key_points:
+  - "J'ai testé le Black Hat SEO en 2021 — pénalité Google, -50% de trafic effacé en quelques jours"
+  - "Cloaking, PBN, keyword stuffing : les 3 techniques qui déclenchent des pénalités irréversibles"
+  - "La récupération après pénalité manuelle prend 3 à 12 mois et efface tout l'historique de trafic"
+  - "Aucun client ne vaut le risque : une pénalité manuelle peut désindexer entièrement un site"
+stats:
+  - number: "-50 %"
+    label: "trafic après pénalité"
+  - number: "3–12"
+    label: "mois de récupération"
+  - number: "2021"
+    label: "mon expérience directe"
 ---
 
 > **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.com/2025/03/15/white-black-gray-hat-seo/).

@@ -1,0 +1,36 @@
+{% if page.key_points %}
+{% assign mois_fr = "janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre" | split: "|" %}
+{% assign mois_index = page.date | date: "%m" | plus: 0 | minus: 1 %}
+{% assign jour_fr = page.date | date: "%d" | plus: 0 %}
+{% assign annee_fr = page.date | date: "%Y" %}
+{% assign date_fr = jour_fr | append: " " | append: mois_fr[mois_index] | append: " " | append: annee_fr %}
+<aside class="art-summary">
+  <div class="art-summary-header">
+    <div class="art-summary-icon">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+    </div>
+    <div>
+      <strong class="art-summary-title">Ce que vous allez apprendre</strong>
+      <span class="art-summary-meta">{{ date_fr }} &middot; {{ page.author }}</span>
+    </div>
+  </div>
+  <ol class="art-summary-points">
+    {% for point in page.key_points %}
+    <li>
+      <span class="art-summary-num" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+      {{ point }}
+    </li>
+    {% endfor %}
+  </ol>
+  {% if page.stats %}
+  <div class="art-summary-stats">
+    {% for stat in page.stats %}
+    <div class="art-summary-stat">
+      <span class="art-summary-stat-n">{{ stat.number }}</span>
+      <span class="art-summary-stat-l">{{ stat.label }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</aside>
+{% endif %}

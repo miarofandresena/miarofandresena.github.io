@@ -7,6 +7,18 @@ author: Miaro
 tags:   Web
 description: "Découvrez les secrets du Gray Hat SEO et comment j'ai navigué entre audace et prudence pour redéfinir la frontière entre génie et risque."
 sitemap: false
+key_points:
+  - "Le Gray Hat joue dans la zone grise — légal aujourd'hui, sanctionné demain par une mise à jour Google"
+  - "+30% de trafic en deux mois via liens achetés, puis chute soudaine : mon expérience réelle en 2021"
+  - "Les mises à jour Google transforment régulièrement les pratiques grises en infractions automatiques"
+  - "La zone grise n'est pas une stratégie viable : le risque dépasse toujours le gain à moyen terme"
+stats:
+  - number: "+30 %"
+    label: "gain initial (avant la chute)"
+  - number: "6"
+    label: "mois pour nettoyer les dégâts"
+  - number: "1"
+    label: "mise à jour pour tout perdre"
 ---
 
 > **Cet article a été consolidé.** Retrouvez le comparatif complet White Hat, Black Hat et Gray Hat SEO dans l'article mis à jour : [White Hat, Black Hat, Gray Hat SEO : les 3 approches expliquées](https://miarofandresena.com/2025/03/15/white-black-gray-hat-seo/).

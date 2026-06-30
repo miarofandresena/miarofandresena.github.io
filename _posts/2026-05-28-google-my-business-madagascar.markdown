@@ -18,6 +18,18 @@ faq:
     a: "Les causes les plus fréquentes sont le keyword stuffing dans le nom, une adresse non vérifiable, ou trop de modifications en peu de temps. La procédure : identifiez la violation, corrigez-la, puis faites une demande de réintégration via le formulaire officiel Google."
   - q: "Dois-je publier mes posts Google My Business en français ou en malgache ?"
     a: "Les deux, idéalement. 57% des recherches commerciales à Madagascar se font en français, 38% en malgache. Commencez par le français si vous manquez de temps, et ajoutez progressivement du contenu en malgache."
+key_points:
+  - "La fiche Google Business Profile est gratuite et c'est la première chose à optimiser pour le SEO local"
+  - "20 photos minimum pour une fiche performante : locaux, équipe, produits, ambiance — tout compte"
+  - "Répondre à tous les avis (positifs et négatifs) dans les 48h améliore le classement local"
+  - "Un nom avec keyword stuffing = suspension immédiate — respecter les guidelines Google strictement"
+stats:
+  - number: "20+"
+    label: "photos pour une fiche optimale"
+  - number: "2–4"
+    label: "mois pour le top 3 Local Pack"
+  - number: "57 %"
+    label: "des recherches commerciales en FR"
 ---
 
 Quand un client potentiel cherche votre service sur Google à Antananarivo, il y a deux scénarios possibles.

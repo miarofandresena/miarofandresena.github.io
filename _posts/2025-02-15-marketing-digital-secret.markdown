@@ -6,6 +6,18 @@ image:  /assets/images/blog/marketing-digital.webp
 author: Miaro
 tags:   Web
 description: "Le marketing digital n'est plus une option. C'est une nécessité. Découvrez mes stratégies éprouvées, outils préférés et conseils concrets pour booster votre visibilité en ligne."
+key_points:
+  - "Les 5 canaux qui convertissent vraiment : SEO, email marketing, contenu, social media ciblé, et SEA maîtrisé"
+  - "La règle numéro un : mesurer les bonnes métriques, pas les vanity metrics (likes, followers)"
+  - "La plupart des entreprises gaspillent leur budget sur des canaux mal ciblés — le diagnostic avant tout"
+  - "Mon système en 5 étapes pour structurer une présence digitale rentable dès le premier mois"
+stats:
+  - number: "80 %"
+    label: "du budget gaspillé sans stratégie"
+  - number: "3×"
+    label: "plus de conversions avec le bon canal"
+  - number: "5"
+    label: "canaux à maîtriser en priorité"
 ---
 
 Le marketing digital n'est plus une option.

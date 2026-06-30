@@ -6,6 +6,18 @@ image:  /assets/images/blog/seo-international.webp
 author: Miaro
 tags:   Web
 description: "Découvrez les clés pour réussir en SEO international. Apprenez à adapter votre stratégie pour dominer les marchés mondiaux et booster votre visibilité en ligne."
+key_points:
+  - "La balise hreflang est obligatoire pour éviter le duplicate content entre vos versions linguistiques"
+  - "Sous-domaines vs sous-dossiers vs ccTLD : chaque structure URL a des implications SEO très différentes"
+  - "Le SEO international commence par choisir les bons marchés — pas les plus grands, les plus rentables"
+  - "La traduction seule ne suffit pas : chaque marché nécessite une recherche de mots-clés dédiée"
+stats:
+  - number: "3"
+    label: "structures d'URL possibles"
+  - number: "6–12"
+    label: "mois pour un nouveau marché"
+  - number: "50+"
+    label: "codes hreflang disponibles"
 ---
 
 Vous voulez vendre dans d'autres pays ?

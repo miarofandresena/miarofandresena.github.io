@@ -7,6 +7,18 @@ author: Miaro
 tags:   Web
 description: "Découvrez comment optimiser votre site pour le SEO vocal et transformez-le en star des recherches vocales."
 sitemap: false
+key_points:
+  - "Les recherches vocales sont 3 fois plus longues que les requêtes textuelles — cibler les questions naturelles"
+  - "La position 0 (featured snippet) est la cible principale du SEO vocal — c'est depuis là que les IA lisent"
+  - "La vitesse de chargement est critique pour le SEO vocal — seuil strict : moins de 3 secondes"
+  - "Les FAQ structurées avec Schema markup multiplient vos chances d'être lu par les assistants vocaux"
+stats:
+  - number: "3×"
+    label: "plus longues que requêtes texte"
+  - number: "< 3 s"
+    label: "temps de chargement requis"
+  - number: "58 %"
+    label: "des recherches vocales = locales"
 ---
 
 Un client est venu me voir avec un problème précis.

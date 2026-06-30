@@ -18,6 +18,18 @@ faq:
     a: "Oui, mais de manière limitée et sur des niches spécifiques. Si votre site est la seule source sérieuse sur un sujet très précis, les IA tendent à citer la source disponible. C'est particulièrement vrai pour des thématiques locales spécifiques à Madagascar."
   - q: "Combien de temps faut-il pour voir des résultats GEO ?"
     a: "Les premiers résultats GEO apparaissent généralement entre 1 et 3 mois après l'optimisation du contenu. Contrairement au SEO classique, le GEO peut progresser plus rapidement car les IA mettent à jour leurs index plus fréquemment que Google ne recrawle les pages."
+key_points:
+  - "SEO = positions classiques dans les SERP ; GEO = citations dans les réponses des IA génératives"
+  - "Le GEO ne remplace pas le SEO — les requêtes commerciales restent dans la logique SEO classique"
+  - "Pas besoin de refonte : ajoutez des réponses directes en début d'article et du Schema FAQ — c'est l'essentiel"
+  - "Un site peu autoritaire peut être cité en GEO sur des niches très spécifiques à Madagascar"
+stats:
+  - number: "1–3"
+    label: "mois pour les premiers résultats GEO"
+  - number: "50 %+"
+    label: "des recherches avec AI Overview"
+  - number: "2"
+    label: "stratégies complémentaires"
 ---
 
 Il y a quelques années, le débat c'était SEO vs réseaux sociaux.

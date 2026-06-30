@@ -6,6 +6,18 @@ image:  /assets/images/blog/analyse-seo.webp
 author: Miaro
 tags:   Web
 description: "Découvrez les outils SEO méconnus et mes astuces exclusives pour des analyses et rapports percutants. Boostez votre stratégie avec des méthodes éprouvées et obtenez des résultats concrets maintenant !"
+key_points:
+  - "Un rapport SEO qui ne déclenche pas d'action est un rapport inutile — la règle d'or du reporting"
+  - "Les 5 métriques essentielles : trafic organique, positions, CTR, conversions, et profil de backlinks"
+  - "Google Search Console + GA4 + un outil de suivi de ranking = la stack gratuite complète"
+  - "La cadence mensuelle avec structure fixe transforme les données brutes en décisions concrètes"
+stats:
+  - number: "5"
+    label: "métriques essentielles à suivre"
+  - number: "2"
+    label: "outils gratuits suffisants"
+  - number: "1×/mois"
+    label: "fréquence de reporting optimale"
 ---
 
 La plupart des rapports SEO ne servent à rien.

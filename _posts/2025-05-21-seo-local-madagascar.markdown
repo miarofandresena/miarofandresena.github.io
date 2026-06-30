@@ -16,6 +16,18 @@ faq:
     a: "Oui, Google My Business est essentiel pour toute entreprise malgache souhaitant être visible localement. Avec plus de 54% des Malgaches utilisant un smartphone en 2025, les recherches locales explosent à Antananarivo. Une fiche GMB complète et optimisée permet d'apparaître dans le pack local et Google Maps."
   - q: "Quels sont les facteurs de classement du SEO local à Madagascar ?"
     a: "Les principaux facteurs sont : la proximité géographique de l'utilisateur, la pertinence de votre fiche Google My Business, le nombre et la qualité des avis clients, la cohérence NAP (Nom, Adresse, Téléphone) sur le web, et la qualité du contenu local de votre site."
+key_points:
+  - "Le pack local Google (carte + 3 résultats) capte 44% des clics sur les recherches locales à Antananarivo"
+  - "Google Business Profile est l'outil n°1 du SEO local — complètement gratuit et sous-utilisé à Madagascar"
+  - "La cohérence NAP (Nom, Adresse, Téléphone) sur le web est un facteur de classement local essentiel"
+  - "Avec 54% des Malgaches sur smartphone, les recherches locales explosent : les premiers résultats arrivent en 2 à 4 semaines"
+stats:
+  - number: "44 %"
+    label: "des clics = pack local"
+  - number: "2–4"
+    label: "semaines pour le pack local"
+  - number: "54 %"
+    label: "naviguent sur smartphone"
 ---
 
 Votre entreprise à Antananarivo est invisible sur Google malgré un marché digital en pleine expansion ?

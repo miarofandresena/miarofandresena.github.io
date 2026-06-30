@@ -6,6 +6,18 @@ image:  /assets/images/blog/seo-est-mort.webp
 author: Miaro
 tags:   Web
 description: "Découvrez comment, depuis 2020, j'ai analysé des stratégies SEO vouées à l'échec et transformé des sites en véritable succès – sans artifices, juste de l'expérience."
+key_points:
+  - "Le SEO n'est pas mort : il a évolué. En 2026, SEO + GEO combinés est la stratégie gagnante"
+  - "Depuis 2020, j'ai analysé 200+ sites en difficulté — les causes d'échec sont toujours les mêmes"
+  - "Ce qui est réellement mort : keyword stuffing, backlinks achetés en masse, contenu dupliqué"
+  - "Ce qui marche encore : E-E-A-T, contenu long et spécialisé, maillage interne optimisé"
+stats:
+  - number: "200+"
+    label: "sites analysés depuis 2020"
+  - number: "3"
+    label: "stratégies vraiment obsolètes"
+  - number: "12"
+    label: "pratiques enterrées en 2023"
 ---
 
 En 2023, j'ai enterré 12 stratégies SEO que je pensais infaillibles.

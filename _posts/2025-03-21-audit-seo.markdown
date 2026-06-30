@@ -6,6 +6,18 @@ image:  /assets/images/blog/audit-seo.webp
 author: Miaro
 tags:   Web
 description: "Plongez dans l'univers des audits SEO avec des méthodes d'expert et astuces cachées. Devenez un véritable détective du référencement et optimisez votre site comme jamais auparavant !"
+key_points:
+  - "Un audit SEO sérieux couvre 3 axes : technique, contenu, et profil de backlinks — sans exception"
+  - "90% des audits superficiels ratent les problèmes cachés dans les profils de liens toxiques"
+  - "Mon processus en 5 phases : crawl technique, analyse on-page, audit backlinks, contenu, UX"
+  - "De la page 6 à la position 2 en 3 mois : ce que l'audit a révélé et comment on l'a corrigé"
+stats:
+  - number: "3"
+    label: "axes d'audit indispensables"
+  - number: "5"
+    label: "phases du processus complet"
+  - number: "3 mois"
+    label: "de la page 6 à la position 2"
 ---
 
 En 2022, j'ai été appelé à l'aide pour un site e-commerce en panique.

@@ -5,11 +5,17 @@
 title: Miaro
 logo: assets/images/favicon.png
 author: Miaro Fandresena
-description: Boostez votre visibilité en ligne avec Miaro Fandresena, spécialiste en SEO, marketing digital.
+description: "Miaro Fandresena — consultant SEO à Antananarivo depuis 2019. 50+ sites optimisés. Audit SEO gratuit en 48h. Trafic organique mesurable en 3 à 6 mois."
 email: miarofandresena@gmail.com
+email2: contact@miarofandresena.com
 phone: +261 343388363
 address: Sabotsy Namehana, Antananarivo, Madagascar
 copyright: Copyright &copy; Miaro Fandresena 2026
+
+# AggregateRating — à remplir une fois les avis Google Business Profile collectés
+# Décommentez et mettez à jour ces valeurs quand vous avez au moins 5 avis vérifiables
+# review_count: "12"
+# rating_value: "4.9"
 
 menu:
   - { name: Consultant SEO, link: "/consultant-seo-madagascar/" }
@@ -339,4 +345,5 @@ faq-items:
 
 contact-title: Contact Info
 contact-email: miarofandresena@gmail.com
+contact-email2: contact@miarofandresena.com
 contact-info : f/xblryjqd

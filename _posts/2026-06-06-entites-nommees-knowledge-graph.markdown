@@ -18,6 +18,18 @@ faq:
     a: "Non — elles les ont complétés. Les mots-clés restent le point d'entrée de la plupart des recherches. Mais Google interprète ces mots-clés à travers le prisme des entités. Travailler les deux en parallèle est la bonne approche."
   - q: "Dois-je m'inquiéter si mon concurrent a un Knowledge Panel et pas moi ?"
     a: "C'est un signe que son empreinte d'entité est plus solide. Vous pouvez avoir une empreinte d'entité solide sans Knowledge Panel visible si vos signaux internes (Schema markup, cohérence, mentions) sont forts. Mais si c'est le cas sur des requêtes brandées, c'est un chantier à prioriser."
+key_points:
+  - "Google ne lit plus seulement des mots-clés — il identifie des entités (personnes, lieux, organisations)"
+  - "Le Schema markup seul ne suffit pas : Google recroupe avec d'autres sources — Wikipedia, mentions, NAP"
+  - "Renforcer son empreinte d'entité améliore la visibilité dans les SERP ET dans les réponses IA"
+  - "Les entités complètent les mots-clés, ne les remplacent pas — travailler les deux en parallèle"
+stats:
+  - number: "3"
+    label: "sources pour valider une entité"
+  - number: "5"
+    label: "types d'entités reconnus par Google"
+  - number: "Schema"
+    label: "markup = premier signal déclaratif"
 ---
 
 Voici ce que la plupart des guides SEO ne vous disent pas.

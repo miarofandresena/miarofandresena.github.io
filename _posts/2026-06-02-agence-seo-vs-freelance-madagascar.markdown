@@ -18,6 +18,18 @@ faq:
     a: "Commencez par 3 mois minimum — le SEO ne produit pas de résultats en moins de temps. Évitez les engagements de 12 mois d'entrée sans avoir vu de premiers livrables. Un bon prestataire ne vous oblige pas à vous engager sur un an dès le premier contrat."
   - q: "Est-ce qu'un freelance SEO peut sous-traiter une partie du travail ?"
     a: "Oui, et c'est normal. La rédaction de contenu, certains aspects techniques, l'acquisition de backlinks sont des tâches que beaucoup de freelances délèguent. Ce qui compte : que le freelance garde la main sur la stratégie et que vous soyez informé."
+key_points:
+  - "Une agence internationale ignore les spécificités malgaches : comportements locaux, backlinks .mg, contexte bilingue"
+  - "Tarif très bas = signal d'alarme quasi certain ; tarif élevé n'est pas une garantie de qualité"
+  - "Changer de prestataire en cours de route coûte 4 à 6 semaines de remontée en régime — bien choisir au départ"
+  - "Commencez par 3 mois minimum — le SEO ne produit jamais de résultats en moins de temps"
+stats:
+  - number: "3 mois"
+    label: "durée minimale d'engagement"
+  - number: "4–6"
+    label: "semaines perdues si changement"
+  - number: "3–5×"
+    label: "freelance moins cher qu'agence"
 ---
 
 Je suis freelance. Je dois vous le dire dès le départ.
@@ -336,7 +348,7 @@ Mon positionnement est clair : PME et startups malgaches qui veulent un interloc
 
 Si ça correspond à ce que vous cherchez, [contactez-moi](https://miarofandresena.com/contact). On commence par parler de votre projet — sans engagement. Je vous dirai honnêtement si je suis le bon prestataire pour vous ou si une autre configuration a plus de sens.
 
-En tant que [consultant SEO à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/), j'ai accompagné des projets très différents depuis plusieurs années. Et j'ai appris à reconnaître les cas où je ne suis pas la meilleure option.
+En tant que [consultant SEO à Madagascar](https://miarofandresena.com/consultant-seo-madagascar/), j'ai accompagné des projets très différents depuis plusieurs années. Et j'ai appris à reconnaître les cas où je ne suis pas la meilleure option.
 
 Si vous hésitez encore entre SEO et d'autres leviers digitaux avant même de choisir votre prestataire, lisez d'abord [SEO vs Google Ads à Madagascar](https://miarofandresena.com/2026/05/31/seo-vs-google-ads-madagascar/).
 

@@ -6,6 +6,18 @@ image:  /assets/images/blog/developpement-web.webp
 author: Miaro
 tags:   Web
 description: "Découvrez mon parcours en développement web et les fondamentaux essentiels pour réussir dans ce domaine. Conseils pratiques, technologies et bonnes pratiques pour les débutants."
+key_points:
+  - "De zéro à développeur web en 4 ans : les étapes exactes que j'ai suivies sans formation traditionnelle"
+  - "Les 3 langages indispensables pour démarrer : HTML, CSS, JavaScript — dans cet ordre"
+  - "Le SEO et le développement vont de pair — ignorer l'un, c'est limiter durablement l'autre"
+  - "Mon erreur la plus coûteuse en dev web et comment l'éviter dès le départ"
+stats:
+  - number: "4 ans"
+    label: "de formation autodidacte"
+  - number: "3"
+    label: "langages fondamentaux"
+  - number: "10+"
+    label: "projets réalisés depuis"
 ---
 
 En 2015, je ne connaissais rien au développement web.

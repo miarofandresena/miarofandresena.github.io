@@ -2,7 +2,7 @@
 layout: post
 title: "SEO pour e-commerce à Madagascar : guide complet"
 date: 2026-06-22 08:00:00 +0300
-image: /assets/img/seo-ecommerce-mada.webp
+image: /assets/images/blog/seo-ecommerce-mada.webp
 author: Miaro
 tags: Web
 updated: 2026-06-17
@@ -18,6 +18,18 @@ faq:
     a: "Ne supprimez pas ces pages — elles retourneraient une 404 et vous perdriez le SEO accumulé. Redirigez vers la catégorie ou gardez la page active avec une mention 'rupture temporaire' et des produits similaires."
   - q: "Un e-commerce malgache peut-il ranker sur des requêtes sans le mot Madagascar ?"
     a: "Oui. Si Google détecte que vous êtes à Madagascar via votre adresse, votre Search Console, votre Google Business Profile et vos citations NAP, il vous montre en priorité aux recherches depuis Madagascar même sans le mot-clé géographique."
+key_points:
+  - "L'e-commerce malgache est un terrain vierge — des catégories bien optimisées peuvent ranker en 6 à 8 semaines"
+  - "Commencez par vos meilleures ventes, pas par tous les produits — l'effort doit être proportionnel au potentiel"
+  - "Ne supprimez jamais les pages de produits en rupture de stock — redirigez ou marquez 'rupture temporaire'"
+  - "Les avis clients avec Schema ReviewsMarkup affichent des étoiles dans Google et augmentent le CTR"
+stats:
+  - number: "6–8"
+    label: "semaines pour ranker les catégories"
+  - number: "3–6"
+    label: "mois pour des positions stables"
+  - number: "⭐⭐⭐⭐⭐"
+    label: "avis = +CTR dans les SERP"
 ---
 
 L'e-commerce à Madagascar est encore un terrain vierge.
@@ -479,4 +491,11 @@ C'est le moment d'agir.
 
 **Tu veux une stratégie SEO sur-mesure pour ton e-commerce malgache ?**
 
-Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) et on commence par un audit de ton site.
+Contacte-moi via ma page [consultant SEO Madagascar](https://miarofandresena.com/consultant-seo-madagascar/) et on commence par un audit de ton site.
+
+---
+
+**À lire aussi :**
+- [Audit SEO Madagascar](/audit-seo-madagascar/) — le point de départ avant d'optimiser votre e-commerce
+- [Netlinking Madagascar](/netlinking-madagascar/) — construire l'autorité de votre boutique en ligne
+- [Rédaction SEO Madagascar](/redaction-seo-madagascar/) — fiches produits et pages catégories optimisées

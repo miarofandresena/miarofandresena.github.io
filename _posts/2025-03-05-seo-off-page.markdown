@@ -6,6 +6,18 @@ image:  /assets/images/blog/seo-offpage.webp
 author: Miaro
 tags:   Web
 description: "Découvrez comment mes techniques exclusives de SEO off-page transforment la notoriété de votre site grâce à des partenariats stratégiques et un netlinking intelligent."
+key_points:
+  - "L'autorité de domaine se construit via les backlinks de qualité — quantité ≠ qualité, jamais"
+  - "3 techniques de link building éthiques : guest posting, broken link building, et relations presse digitale"
+  - "Un seul backlink depuis un site autoritaire vaut mieux que 100 liens de sites douteux ou génériques"
+  - "J'ai multiplié par 3 le trafic de mes clients via ces méthodes — les résultats arrivent en 3 à 6 mois"
+stats:
+  - number: "3×"
+    label: "trafic multiplié via backlinks"
+  - number: "3"
+    label: "techniques white hat éprouvées"
+  - number: "3–6"
+    label: "mois pour sentir les effets"
 ---
 
 Votre site peut être parfaitement optimisé en interne.

@@ -16,8 +16,14 @@ layout: default
             Blog
           </a>
         </div>
+        {% assign mois_fr = "janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre" | split: "|" %}
+        {% assign m_pub = page.date | date: "%m" | plus: 0 | minus: 1 %}
+        {% assign j_pub = page.date | date: "%d" | plus: 0 %}
+        {% assign a_pub = page.date | date: "%Y" %}
+        {% assign date_pub = j_pub | append: " " | append: mois_fr[m_pub] | append: " " | append: a_pub %}
         <div class="post-hero-meta">
-          <span class="post-hero-date">{{ page.date | date: '%d %B %Y' }}</span>
+          <span class="post-hero-date">{{ date_pub }}</span>
+          {% if page.updated %}{% assign m_upd = page.updated | date: "%m" | plus: 0 | minus: 1 %}{% assign j_upd = page.updated | date: "%d" | plus: 0 %}{% assign a_upd = page.updated | date: "%Y" %}{% assign date_upd = j_upd | append: " " | append: mois_fr[m_upd] | append: " " | append: a_upd %}<span class="post-hero-sep" aria-hidden="true">·</span><span class="post-hero-updated">Mis à jour le {{ date_upd }}</span>{% endif %}
           <span class="post-hero-sep" aria-hidden="true">·</span>
           <span id="post-reading-time"></span>
           {% for tag in page.tags %}
@@ -46,6 +52,8 @@ layout: default
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 col-md-10">
+
+        {% include article-summary.html %}
 
         {% if page.image %}
         <div class="post-featured-img">

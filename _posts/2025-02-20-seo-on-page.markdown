@@ -6,6 +6,18 @@ image:  /assets/images/blog/seo-on-page.webp
 author: Miaro
 tags:   Web
 description: "Découvrez mes techniques éprouvées de SEO on-page pour booster la visibilité de vos pages web et améliorer l'expérience utilisateur."
+key_points:
+  - "La balise Title reste le signal on-page le plus puissant — moins de 60 caractères, mot-clé en début"
+  - "Les balises H1-H6 structurent votre contenu ET guident les crawlers Google — une seule H1 par page"
+  - "Le maillage interne est l'arme secrète du SEO on-page : chaque article doit pointer vers d'autres"
+  - "Vitesse mobile et Core Web Vitals impactent directement les positions depuis 2021"
+stats:
+  - number: "60"
+    label: "caractères max balise Title"
+  - number: "3–5"
+    label: "liens internes par article"
+  - number: "2,5 s"
+    label: "seuil LCP optimal (Google)"
 ---
 
 Vous avez du bon contenu. Votre site est propre. Mais Google ne vous positionne toujours pas.

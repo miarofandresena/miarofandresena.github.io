@@ -18,6 +18,18 @@ faq:
     a: "Pour les requêtes en français, non. Les moteurs IA génèrent des réponses dans la langue de la requête et sélectionnent préférentiellement des sources dans cette langue. Le marché francophone est même moins concurrentiel en GEO qu'en anglais."
   - q: "Le GEO génère-t-il du trafic direct vers mon site ?"
     a: "Moins que le SEO classique. Beaucoup de réponses IA répondent à la question sans que l'utilisateur aille sur le site source (zero-click). Mais les mentions construisent la notoriété et l'autorité de marque, qui se traduit en trafic indirect sur le long terme."
+key_points:
+  - "Le GEO complète le SEO sans le remplacer — les deux coexistent et se renforcent mutuellement"
+  - "3 signaux GEO prioritaires : réponses directes extractibles, Schema markup, fraîcheur du contenu"
+  - "Le marché francophone est moins concurrentiel en GEO qu'en anglais — avantage pour Madagascar"
+  - "Perplexity peut vous citer en quelques jours ; ChatGPT et Gemini mettent à jour tous les 6 à 12 mois"
+stats:
+  - number: "4–8"
+    label: "semaines pour citiation Google AIO"
+  - number: "50 %+"
+    label: "des recherches avec AI Overview"
+  - number: "3"
+    label: "signaux GEO prioritaires"
 ---
 
 Depuis 2023, quelque chose a changé dans le SEO.

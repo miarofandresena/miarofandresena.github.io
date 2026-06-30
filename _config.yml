@@ -3,6 +3,7 @@ url: "https://miarofandresena.com" # the base hostname & protocol for your site
 domain: miarofandresena.com
 
 # Build settings
+future: true
 markdown: kramdown
 permalink: pretty
 plugins:

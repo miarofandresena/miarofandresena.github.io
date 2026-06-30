@@ -18,6 +18,18 @@ faq:
     a: "Toujours commencer par l'on-page. Construire des liens vers un site mal optimisé, c'est remplir un seau percé. Une fois les bases techniques et éditoriales solides, travaillez le netlinking."
   - q: "Comment mesurer ses progrès SEO ?"
     a: "Google Search Console (gratuit), Google Analytics 4 (gratuit), et un outil comme SEMrush ou Ahrefs. Suivez trois métriques clés : trafic organique, positions des mots-clés, taux de clics (CTR)."
+key_points:
+  - "Le SEO organique s'accumule dans le temps — contrairement aux pubs, le trafic reste même sans budget"
+  - "Toujours commencer par l'on-page avant l'off-page : construire des liens vers un site mal optimisé, c'est remplir un seau percé"
+  - "La longue traîne = ce que vos clients tapent vraiment, pas ce que vous imaginez qu'ils tapent"
+  - "3 métriques SEO qui comptent vraiment : trafic organique, positions des mots-clés, taux de clics (CTR)"
+stats:
+  - number: "3–6"
+    label: "mois pour des résultats significatifs"
+  - number: "3"
+    label: "métriques clés à suivre"
+  - number: "6 ans"
+    label: "d'expérience terrain à Madagascar"
 ---
 
 La plupart des articles sur le SEO sont indigestes.

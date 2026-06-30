@@ -18,6 +18,18 @@ faq:
     a: "Regardez dans Google Search Console l'évolution de la position des pages vers lesquelles vous avez augmenté les liens internes. Sur un petit site malgache, les effets peuvent être visibles en 4 à 8 semaines."
   - q: "Est-ce qu'un nofollow sur un lien interne est utile ?"
     a: "Rarement. Dans la plupart des cas, mettre un nofollow sur un lien interne est contre-productif. Vous bloquez le flux d'autorité vers une page de votre propre site. Réservez le nofollow aux liens externes vers des pages que vous ne voulez pas cautionner."
+key_points:
+  - "Les liens internes distribuent le PageRank de vos pages fortes vers vos pages à faire monter"
+  - "3 à 7 liens internes contextuels par article = la bonne fourchette pour un blog SEO"
+  - "Les liens dans le corps du texte sont plus puissants que les liens en footer ou sidebar"
+  - "Sur un petit site malgache, les effets des liens internes sont visibles en 4 à 8 semaines"
+stats:
+  - number: "3–7"
+    label: "liens internes par article"
+  - number: "4–8"
+    label: "semaines pour voir les effets"
+  - number: "100"
+    label: "liens max par page avant dilution"
 ---
 
 La plupart des sites malgaches que j'audite ont le même problème.

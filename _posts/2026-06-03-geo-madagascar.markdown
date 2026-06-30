@@ -16,6 +16,18 @@ faq:
     a: "Les délais varient selon l'IA : Google AI Overviews peut commencer à citer votre contenu en 4 à 8 semaines après une bonne optimisation. ChatGPT et Gemini mettent à jour leurs modèles moins fréquemment (tous les 6 à 12 mois). Perplexity, qui utilise un index web en temps réel, peut vous citer en quelques jours."
   - q: "Le GEO remplace-t-il le SEO traditionnel à Madagascar ?"
     a: "Non, le GEO complète le SEO sans le remplacer. En 2026, plus de 50% des recherches Google génèrent un AI Overview en France et dans les marchés francophones. Mais les clics organiques restent essentiels. La stratégie optimale combine SEO pour les positions classiques et GEO pour les citations IA."
+key_points:
+  - "En 2026, être cité par Google AI Overviews, Gemini ou ChatGPT génère de la notoriété même sans clic"
+  - "Les sites malgaches peuvent apparaître dans les AI Overviews si le contenu est structuré, factuel, sourcé"
+  - "Perplexity peut vous citer en quelques jours ; Google AI Overviews en 4 à 8 semaines"
+  - "Le GEO complète le SEO : contenu bien structuré pour les deux objectifs en même temps"
+stats:
+  - number: "50 %+"
+    label: "des recherches avec AI Overview"
+  - number: "4–8"
+    label: "semaines pour une citation AIO"
+  - number: "4"
+    label: "IA génératifs à cibler"
 ---
 
 Quelqu'un pose une question à Google. Au lieu d'une liste de liens, Google génère une réponse directe — avec des sources citées en dessous.

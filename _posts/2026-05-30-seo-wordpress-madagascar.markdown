@@ -18,6 +18,18 @@ faq:
     a: "Pas nécessairement. Elementor lui-même génère du code un peu lourd, mais ça se compense avec une bonne configuration de cache et de compression. Le problème vient généralement du cumul : Elementor + thème lourd + plugins inutiles + images non optimisées."
   - q: "Comment vérifier que mon SEO WordPress s'améliore ?"
     a: "Google Search Console est votre outil principal. Suivez le nombre de pages indexées, les requêtes qui génèrent des impressions, et le taux de clic moyen. Comptez 3 à 4 mois avant de voir des résultats significatifs sur des mots-clés concurrentiels."
+key_points:
+  - "RankMath ou Yoast sont indispensables — mais les configurer correctement est plus important que le choix"
+  - "LiteSpeed Cache + ShortPixel + Cloudflare : la stack gratuite qui écrase 90% des problèmes de vitesse"
+  - "Le cumul qui tue la vitesse : Elementor + thème lourd + plugins inutiles + images non compressées"
+  - "Commencer par les problèmes techniques accumulés avant de créer du nouveau contenu"
+stats:
+  - number: "3"
+    label: "plugins gratuits suffisants"
+  - number: "3–4"
+    label: "mois pour des résultats visibles"
+  - number: "40–60 %"
+    label: "d'amélioration LCP possible"
 ---
 
 WordPress est le CMS le plus utilisé à Madagascar.

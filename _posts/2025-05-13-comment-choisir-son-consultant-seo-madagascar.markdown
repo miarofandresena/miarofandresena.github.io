@@ -16,6 +16,18 @@ faq:
     a: "Un consultant SEO freelance à Madagascar offre généralement plus de réactivité, un interlocuteur unique et des tarifs plus compétitifs qu'une agence. Pour des projets complexes nécessitant plusieurs expertises simultanées (SEO, développement, design), une agence peut être plus adaptée."
   - q: "Un consultant SEO malgache peut-il travailler pour des clients en France ?"
     a: "Oui, parfaitement. Le SEO francophone ne nécessite pas de présence physique. Un consultant SEO basé à Madagascar maîtrise les mêmes techniques qu'un consultant parisien, avec l'avantage de tarifs compétitifs. La différence de fuseau horaire (UTC+3) est minime pour les clients européens."
+key_points:
+  - "Les 7 critères pour choisir un consultant SEO sérieux : résultats prouvés, méthodes transparentes, pas de garanties en 2 semaines"
+  - "Demandez des captures Search Console avant/après — c'est la seule preuve de résultat qui compte"
+  - "Un consultant qui rankait pour des requêtes SEO prouve sa compétence sur son propre site"
+  - "Les tarifs à Madagascar : 150 à 800 €/mois, 3 à 5× moins cher qu'une agence parisienne"
+stats:
+  - number: "7"
+    label: "critères de sélection"
+  - number: "150–800 €"
+    label: "tarifs mensuels à Madagascar"
+  - number: "3–5×"
+    label: "moins cher qu'une agence Paris"
 ---
 
 À Madagascar, tout le monde se dit "expert SEO".
@@ -240,4 +252,11 @@ Mal choisi, il vous coûtera du temps, de l'argent et des opportunités manquée
 
 Appliquez ces 7 critères. Posez les bonnes questions. Vérifiez les références.
 
-Le bon [consultant Référencement Naturel à Madagascar](https://miarofandresena.com/2024/07/23/consultant-seo-a-madagascar/) ne vous promettra pas des miracles. Il vous montrera des résultats concrets sur des projets réels — et construira les vôtres avec la même rigueur.
+Le bon [consultant SEO à Madagascar](https://miarofandresena.com/consultant-seo-madagascar/) ne vous promettra pas des miracles. Il vous montrera des résultats concrets sur des projets réels — et construira les vôtres avec la même rigueur.
+
+---
+
+**À lire aussi :**
+- [Meilleur consultant SEO Madagascar](/2026/06/23/meilleur-consultant-seo-madagascar/) — les critères objectifs pour choisir
+- [Audit SEO gratuit Madagascar](/2026/06/23/audit-seo-gratuit-madagascar/) — tester un consultant avec un audit sans engagement
+- [Tarifs SEO Madagascar](/cout-strategie-seo-madagascar/) — comprendre les prix du marché

@@ -18,6 +18,18 @@ faq:
     a: "Lancez votre site d'abord. Ensuite commencez l'optimisation SEO — le travail technique de fond prend du temps. Les Ads peuvent attendre que vous ayez une landing page qui convertit vraiment."
   - q: "Et le SEO sur Facebook à Madagascar ?"
     a: "Facebook n'est pas un moteur de recherche — il ne peut pas remplacer le SEO Google ni les Google Ads pour capter une intention de recherche. Facebook est très utilisé à Madagascar, mais pour créer de la notoriété, pas pour capter une intention d'achat immédiate."
+key_points:
+  - "SEO = investissement long terme ; Google Ads = levier court terme — les deux ont des rôles différents"
+  - "Sur 12 à 24 mois, le coût par acquisition SEO devient nettement inférieur à celui des Ads"
+  - "Vos concurrents font des Ads ? Bonne nouvelle : votre SEO peut capter leur trafic gratuitement"
+  - "Commencer par le SEO technique avant toute campagne Ads — une mauvaise landing page tue le ROI"
+stats:
+  - number: "12–24"
+    label: "mois pour dépasser le ROI Ads"
+  - number: "0 €"
+    label: "par clic en trafic organique"
+  - number: "3"
+    label: "mois pour les premiers résultats SEO"
 ---
 
 J'entends les deux camps en permanence.

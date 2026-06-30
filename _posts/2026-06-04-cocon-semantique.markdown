@@ -18,6 +18,18 @@ faq:
     a: "Comptez 3 à 6 mois pour les premiers effets mesurables sur les mots-clés de niveau 3 (longue traîne). 6 à 12 mois pour les niveaux 2. Le cocon sémantique est une stratégie de long terme — c'est une infrastructure, pas un raccourci."
   - q: "Cocon sémantique et GEO : est-ce compatible ?"
     a: "Très compatible. Un cocon bien construit — avec des réponses directes, des structures FAQ, une couverture thématique exhaustive — correspond exactement aux signaux que les IA génératifs recherchent pour citer une source."
+key_points:
+  - "Le cocon sémantique structure vos contenus en niveaux (pilier → niveau 2 → niveau 3) pour maximiser l'autorité thématique"
+  - "Un cocon efficace peut fonctionner avec 10 pages — ce qui compte : la complétude thématique, pas la quantité"
+  - "Premiers résultats sur la longue traîne (niveau 3) en 3 à 6 mois, niveaux 2 en 6 à 12 mois"
+  - "Un blog existant peut devenir un cocon : réorganisez le maillage interne et complétez les niveaux manquants"
+stats:
+  - number: "10–50"
+    label: "pages par cocon efficace"
+  - number: "3–6"
+    label: "mois pour les premiers effets"
+  - number: "3"
+    label: "niveaux de profondeur"
 ---
 
 Vous publiez des articles depuis des mois. Votre contenu est bon. Mais vos pages n'arrivent pas à décoller sur Google.

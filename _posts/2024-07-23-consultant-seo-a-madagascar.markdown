@@ -17,6 +17,18 @@ faq:
     a: "Oui. La collaboration avec des clients en France, à La Réunion et au Canada est régulière. La maîtrise du français, de l'anglais et du malgache facilite cette collaboration internationale à distance."
   - q: "Peut-on garantir la première position sur Google ?"
     a: "Non. Méfiez-vous de qui vous le promet. Les algorithmes de Google changent constamment. Ce qu'on peut garantir : une méthode rigoureuse, des pratiques white hat, et une exécution sans compromis pour maximiser vos chances d'atteindre le top des SERPs."
+key_points:
+  - "Le SEO organique construit une visibilité durable — contrairement aux pubs qui s'arrêtent dès le budget épuisé"
+  - "Premiers signaux en 4 à 8 semaines, résultats significatifs entre 3 et 6 mois selon la concurrence"
+  - "Méfiez-vous de quiconque garantit la première position sur Google — aucun expert honnête ne peut le promettre"
+  - "Spécialiste du marché malgache : connaissance des comportements de recherche locaux et des backlinks .mg"
+stats:
+  - number: "4–8"
+    label: "semaines pour les premiers signaux"
+  - number: "3–6"
+    label: "mois pour des résultats solides"
+  - number: "2019"
+    label: "année de début d'activité"
 ---
 
 ## Votre Consultant SEO à Madagascar — Première Page Google, Sans Budget Pub

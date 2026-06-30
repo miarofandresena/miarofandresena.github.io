@@ -21,7 +21,7 @@
         "@type": "ImageObject",
         "url": "{{ site.url }}/assets/images/about/author.jpg"
       },
-      "email": "{{ site.data.settings.email }}",
+      "email": ["{{ site.data.settings.email }}", "{{ site.data.settings.email2 }}"],
       "telephone": "{{ site.data.settings.phone }}",
       "sameAs": [
         "https://www.linkedin.com/in/miaro-fandresena-rafanomezaniavo-574208161",
@@ -44,7 +44,7 @@
       "url": "{{ site.url }}/",
       "description": "Services SEO complets à Madagascar : audit SEO, stratégie de contenu GEO, netlinking, optimisation technique et création de sites WordPress. Expert basé à Antananarivo.",
       "telephone": "{{ site.data.settings.phone }}",
-      "email": "{{ site.data.settings.email }}",
+      "email": ["{{ site.data.settings.email }}", "{{ site.data.settings.email2 }}"],
       "priceRange": "€€",
       "founder": { "@id": "{{ site.url }}/#person" },
       "employee": [{ "@id": "{{ site.url }}/#person" }],
@@ -59,17 +59,24 @@
         "streetAddress": "Sabotsy Namehana",
         "addressLocality": "Antananarivo",
         "addressCountry": "MG"
-      },
+      },{% if site.data.settings.review_count and site.data.settings.review_count != "" %}
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ site.data.settings.rating_value | default: '5.0' }}",
+        "reviewCount": "{{ site.data.settings.review_count }}",
+        "bestRating": "5",
+        "worstRating": "1"
+      },{% endif %}
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Services SEO Madagascar",
         "itemListElement": [
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Audit SEO complet" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stratégie de contenu et GEO" } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Audit SEO complet", "description": "Audit SEO technique 30+ points, rapport actionnable, call restitution 1h", "offers": { "@type": "Offer", "price": "199", "priceCurrency": "EUR" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Pack Visibilité SEO mensuel", "description": "Accompagnement SEO mensuel : optimisations on-page, 2 articles E-E-A-T, 5 backlinks/mois", "offers": { "@type": "Offer", "price": "390", "priceCurrency": "EUR", "unitText": "MONTH" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Pack Autorité SEO + GEO", "description": "Stratégie SEO + GEO complète : 5 articles/mois, 15 backlinks, AI Overviews, SEO local", "offers": { "@type": "Offer", "price": "790", "priceCurrency": "EUR", "unitText": "MONTH" } } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Netlinking et autorité de domaine" } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SEO technique avancé" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Création de site web SEO-First" } },
-          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Reporting et suivi mensuel" } }
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Création de site web SEO-First" } }
         ]
       }
     },
@@ -122,7 +129,7 @@
       "name": "Quel est le prix d'un consultant SEO à Madagascar ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Les tarifs varient selon la complexité du projet. Miaro Fandresena propose des prestations sur-mesure compétitives. Un premier audit SEO gratuit est offert pour démarrer."
+        "text": "Miaro Fandresena propose trois formules transparentes : Audit & Stratégie à 199 € (prestation unique, rapport 30+ points + call 1h), Pack Visibilité à 390 €/mois (optimisations on-page, 2 articles SEO, 5 backlinks/mois, engagement 3 mois minimum), Pack Autorité à 790 €/mois (SEO + GEO complet, 5 articles/mois, 15 backlinks, SEO local, engagement 6 mois minimum). Un audit SEO gratuit est disponible en premier contact, sans engagement."
       }
     },
     {

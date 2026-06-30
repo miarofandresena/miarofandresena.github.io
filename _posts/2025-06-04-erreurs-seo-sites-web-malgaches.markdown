@@ -7,6 +7,18 @@ author: Miaro
 tags:   Web
 updated: 2026-06-17
 description: "Découvrez les 10 erreurs SEO les plus fréquentes sur les sites malgaches. Solutions pratiques, outils gratuits et étude de cas pour améliorer votre référencement."
+key_points:
+  - "Ces 10 erreurs font perdre jusqu'à 80% du trafic potentiel des sites malgaches — toutes corrigibles"
+  - "Erreur n°1 : site non mobile-friendly alors que 70% des Malgaches naviguent sur smartphone"
+  - "Erreur n°2 : images non compressées qui font exploser le temps de chargement sur connexions lentes"
+  - "Toutes ces erreurs peuvent être corrigées en quelques semaines, sans budget conséquent"
+stats:
+  - number: "10"
+    label: "erreurs corrigibles rapidement"
+  - number: "70 %"
+    label: "trafic mobile à Madagascar"
+  - number: "-80 %"
+    label: "trafic potentiel perdu"
 ---
 
 90% des sites web malgaches perdent jusqu'à 80% de leur trafic potentiel à cause d'erreurs SEO évitables.

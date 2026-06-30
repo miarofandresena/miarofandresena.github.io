@@ -6,6 +6,18 @@ image:  /assets/images/blog/seo-techniques.webp
 author: Miaro
 tags:   Web
 description: "Techniques SEO avancées, méthodes d'optimisation on-page et off-page, et conseils concrets pour booster votre référencement naturel. Du vrai, pas du remplissage."
+key_points:
+  - "Les 3 piliers du SEO : technique irréprochable, contenu E-E-A-T, autorité de domaine — dans cet ordre"
+  - "La longue traîne représente 70 % des recherches avec moins de concurrence — votre cible prioritaire"
+  - "L'audit SEO complet (technique + contenu + backlinks) est le point de départ indispensable"
+  - "Le SEO prend 3 à 6 mois, pas 3 semaines : fixer les bonnes attentes dès le départ évite les déceptions"
+stats:
+  - number: "70 %"
+    label: "des requêtes = longue traîne"
+  - number: "3–6"
+    label: "mois pour des résultats visibles"
+  - number: "3"
+    label: "piliers SEO indispensables"
 ---
 
 Je vais être direct.

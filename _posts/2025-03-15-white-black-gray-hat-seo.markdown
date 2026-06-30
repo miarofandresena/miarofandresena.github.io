@@ -16,6 +16,18 @@ faq:
     a: "Sur un marché peu concurrentiel comme beaucoup de niches à Madagascar, oui. Des articles White Hat bien optimisés peuvent passer en première page en 4 à 6 semaines. La lenteur du White Hat est relative à la concurrence, pas absolue."
   - q: "Le Gray Hat SEO a-t-il des techniques qui deviennent White Hat avec le temps ?"
     a: "Parfois. Certaines pratiques autrefois grises sont maintenant acceptées, comme les échanges de guest posts thématiques avec mention 'sponsored'. L'évolution des guidelines Google redéfinit régulièrement la frontière entre les pratiques."
+key_points:
+  - "White Hat = durable et sans risque ; Black Hat = gains rapides puis pénalité certaine"
+  - "J'ai testé les 3 approches — le Gray Hat m'a coûté 6 mois de nettoyage pour +30% de trafic éphémère"
+  - "La pénalité manuelle Google peut désindexer complètement un site : récupération en 3 à 12 mois"
+  - "Sur les niches malgaches peu concurrencées, le White Hat donne des résultats en 4 à 8 semaines"
+stats:
+  - number: "3"
+    label: "approches SEO comparées"
+  - number: "3–12"
+    label: "mois de récupération pénalité"
+  - number: "4–8"
+    label: "semaines White Hat à Madagascar"
 ---
 
 En SEO, il y a trois types de praticiens.

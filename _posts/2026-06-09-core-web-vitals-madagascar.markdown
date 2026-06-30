@@ -16,6 +16,18 @@ faq:
     a: "Les sites malgaches font face à des défis spécifiques : connexions internet plus lentes (3G/4G instables), hébergement souvent localisé hors de Madagascar augmentant la latence, images non optimisées, et thèmes WordPress lourds. Ces facteurs aggravent les scores LCP et INP par rapport aux sites hébergés en Europe."
   - q: "Comment améliorer rapidement les Core Web Vitals d'un site malgache ?"
     a: "Les actions prioritaires sont : convertir les images en WebP et les compresser, activer le cache navigateur et serveur, utiliser un CDN proche de Madagascar, différer le chargement des scripts non essentiels, et réduire le CSS/JavaScript inutilisé. Ces optimisations peuvent améliorer le LCP de 40 à 60% en quelques semaines."
+key_points:
+  - "3 métriques Google essentielles : LCP (vitesse d'affichage), INP (réactivité), CLS (stabilité visuelle)"
+  - "Les sites malgaches subissent un double handicap : connexions 3G/4G instables + hébergement hors de Madagascar"
+  - "Convertir les images en WebP + cache + CDN = les 3 actions qui améliorent le LCP de 40 à 60%"
+  - "LCP < 2,5 secondes = bon ; INP < 200 ms = bon ; CLS < 0,1 = bon — les seuils officiels 2026"
+stats:
+  - number: "3"
+    label: "métriques Core Web Vitals"
+  - number: "40–60 %"
+    label: "d'amélioration LCP possible"
+  - number: "2,5 s"
+    label: "seuil LCP optimal"
 ---
 
 Voici une vérité inconfortable.

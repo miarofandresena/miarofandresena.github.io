@@ -16,6 +16,18 @@ faq:
     a: "Les deux sont indispensables et complémentaires. Search Console vous dit comment Google voit votre site. Analytics vous dit comment vos visiteurs utilisent votre site. Pour le SEO, commencez par Search Console. Pour comprendre le ROI de votre trafic, connectez Analytics."
   - q: "Ahrefs Webmaster Tools vaut-il le coup en gratuit ?"
     a: "Oui — si vous avez un site avec quelques mois d'historique et des backlinks entrants. Pour un site récent avec peu de backlinks, le rapport Liens de Search Console suffit. Pour un site plus établi, Ahrefs Webmaster Tools donne un niveau de détail sur le profil de backlinks que Search Console ne peut pas égaler."
+key_points:
+  - "Search Console en premier — elle collecte des données dès l'installation, impossible de rattraper le retard"
+  - "La stack gratuite complète : Search Console + GA4 + PageSpeed Insights + Screaming Frog (500 pages free)"
+  - "Ahrefs Webmaster Tools gratuit est suffisant pour un site existant avec quelques backlinks"
+  - "Pour une PME malgache qui démarre, les outils gratuits suffisent largement pendant 6 à 12 mois"
+stats:
+  - number: "0 €"
+    label: "pour débuter sérieusement"
+  - number: "4"
+    label: "outils gratuits indispensables"
+  - number: "6–12"
+    label: "mois avec outils gratuits uniquement"
 ---
 
 Avant d'investir dans des abonnements SEO à 100€ par mois, bonne nouvelle.

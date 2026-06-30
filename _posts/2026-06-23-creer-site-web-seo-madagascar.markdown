@@ -2,7 +2,7 @@
 layout: post
 title: "Comment créer un site web optimisé SEO à Madagascar"
 date: 2026-06-23 08:00:00 +0300
-image: /assets/img/creer-site-web-seo-mada.webp
+image: /assets/images/blog/creer-site-web-seo-mada.webp
 author: Miaro
 tags: Web
 updated: 2026-06-17
@@ -18,6 +18,18 @@ faq:
     a: "Pas obligatoire, mais fortement recommandé. Un site sans blog est limité aux mots-clés transactionnels liés à vos services. Un blog multiplie par 3 à 5 le nombre de mots-clés sur lesquels vous pouvez ranker."
   - q: "Combien coûte la création d'un site web SEO-friendly à Madagascar ?"
     a: "La fourchette est large : de 200 000 Ariary (DIY avec WordPress) à plusieurs millions d'Ariary pour un projet e-commerce sur-mesure. Le SEO n'est pas une option coûteuse — c'est une approche de travail qui s'intègre à chaque étape de la création."
+key_points:
+  - "Créer un site SEO-friendly dès le départ coûte bien moins cher que corriger l'architecture après le lancement"
+  - "WordPress + Astra + RankMath : la stack sans code pour un site optimisé sans développeur"
+  - "Un blog multiplie par 3 à 5 le nombre de mots-clés sur lesquels vous pouvez ranker"
+  - "Site vitrine : 3 à 6 semaines ; e-commerce : 2 à 4 mois — ne pas sacrifier la qualité pour la rapidité"
+stats:
+  - number: "3–5×"
+    label: "plus de mots-clés avec un blog"
+  - number: "3–6"
+    label: "semaines pour un site vitrine"
+  - number: "200K Ar"
+    label: "coût minimum DIY WordPress"
 ---
 
 La plupart des sites malgaches commettent la même erreur.

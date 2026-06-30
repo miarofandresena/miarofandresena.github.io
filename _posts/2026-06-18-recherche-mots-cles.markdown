@@ -16,6 +16,18 @@ faq:
     a: "Les deux, mais le français en priorité si votre budget est limité. 57% des recherches commerciales à Madagascar se font en français. Le malgache représente une opportunité supplémentaire, pas un remplacement. Si vous créez du contenu en malgache, faites-le vraiment — pas une traduction mot-à-mot."
   - q: "Un même mot-clé peut-il avoir deux intentions différentes ?"
     a: "Oui, et c'est un cas délicat. 'Consultant SEO Madagascar' peut être cherché par quelqu'un qui veut comprendre ce qu'est un consultant SEO (informationnelle) ou par quelqu'un qui veut en engager un (transactionnelle). Regardez les SERP actuelles pour déterminer quelle intention Google favorise."
+key_points:
+  - "La recherche de mots-clés commence par l'intention, pas par le volume — Google analyse l'intention avant tout"
+  - "30 à 50 mots-clés bien travaillés valent mieux que 300 traités superficiellement"
+  - "57% des recherches commerciales à Madagascar se font en français — cibler le français en priorité"
+  - "Méthode complète : brainstorming → expansion outils → analyse intention → organisation en clusters"
+stats:
+  - number: "30–50"
+    label: "mots-clés cibles pour une PME"
+  - number: "57 %"
+    label: "des recherches commerciales en FR"
+  - number: "4"
+    label: "étapes de la méthode complète"
 ---
 
 La plupart des gens font leur recherche de mots-clés à l'envers.
